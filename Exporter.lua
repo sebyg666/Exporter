@@ -1,7 +1,7 @@
 
 _addon.name = 'Exporter'
 _addon.author = 'Sebyg666'
-_addon.version = '1.0.0.1'
+_addon.version = '1.0.0.2'
 _addon.commands = {'ex','exporter'}
 
 
@@ -233,11 +233,16 @@ function desypher_description(discription_string, item_t)
 	discription_string = string.gsub(discription_string, 'Rng.%s?Acc.%s?', 'Ranged_accuracy')  
 	discription_string = string.gsub(discription_string, 'Ranged Attack%s?', 'Ranged_attack') 
 	discription_string = string.gsub(discription_string, 'Rng.%s?Atk.%s?', 'Ranged_attack') 
+	
 	discription_string = string.gsub(discription_string, 'Magic Accuracy%s?', 'Magic_accuracy')
 	discription_string = string.gsub(discription_string, 'Mag.%s?Acc.%s?', 'Magic_accuracy') 	
 	discription_string = string.gsub(discription_string, 'Magic Acc.%s?', 'Magic_accuracy') 
+	
 	discription_string = string.gsub(discription_string, '\"Magic Atk. Bonus\"', 'Magic Atk. Bonus' )
 	discription_string = string.gsub(discription_string, '\"Mag.%s?Atk.%s?Bns.\"', 'Magic Atk. Bonus' ) 
+	
+	discription_string = string.gsub(discription_string, 'Magic Evasion', 'Magic_evasion' )
+	
 	discription_string = string.gsub(discription_string,  "Great Axe skill",  "Great axe skill")
 	discription_string = string.gsub(discription_string,  "Great Katana skill",  "Great katana skill")
 	discription_string = string.gsub(discription_string,  "Great Sword skill",  "Great sword skill")
@@ -262,7 +267,7 @@ function desypher_description(discription_string, item_t)
 								'Accuracy','Acc.','Attack','Atk.',
 								'Ranged_accuracy', 'Ranged_attack',
 								'Magic_accuracy', 'Magic Atk. Bonus',
-								'Haste','\"Store TP\"','\"Dual Wield\"','\"Fast Cast\"',
+								'Haste','\"Slow\"','\"Store TP\"','\"Dual Wield\"','\"Fast Cast\"',
 								'DMG',
 								"Hand-to-Hand skill", "Dagger skill", "Sword skill", "Great sword skill", "Axe skill", "Great axe skill",  "Scythe skill", "Polearm skill", 
 								"Katana skill", "Great katana skill", "Club skill",  "Staff skill", "Archery skill", "Marksmanship skill" , "Throwing skill"
@@ -272,12 +277,14 @@ function desypher_description(discription_string, item_t)
 	local temp_key = { 
 		["Acc."] = "Accuracy",
 		["Atk."] = 'Attack',
+		['\"Slow\"'] = 'Slow',
 		['\"Store TP\"'] = 'Store TP', 
 		['\"Dual Wield\"'] = 'Dual Wield' ,
 		['\"Fast Cast\"'] = 'Fast Cast' ,
 		['Magic_accuracy'] = 'Magic Accuracy' , 
 		['Ranged_accuracy'] =  'Ranged Accuracy' ,
 		['Ranged_attack'] =  'Ranged Attack' ,
+		['Magic_evasion'] = 'Magic Evasion',
 		["Great axe skill"] = "Great Axe skill" ,
 		["Great katana skill"] = "Great Katana skill",
 		["Great sword skill"] = "Great Sword skill",

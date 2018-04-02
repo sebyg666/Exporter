@@ -950,14 +950,15 @@ return {
     [32]={
         ["discription"]="DEF:120 HP+27 DEX+32 Attack+35 \"Slow\"+13%", 
         ["category"]="Armor", 
-        ["augments"]={
-            [1]="Accuracy+15", 
-            [2]="DEX+5", 
-            [3]="Crit. hit rate+2%"
-        }, 
-        ["en"]="Lustratio Subligar", 
         ["DEX"]=37, 
+        ["en"]="Lustratio Subligar", 
+        ["Slow"]=13, 
         ["HP"]=27, 
+        ["id"]=27196, 
+        ["slots"]={
+            [7]="Legs"
+        }, 
+        ["Accuracy"]=15, 
         ["jobs"]={
             [1]="WAR", 
             [6]="THF", 
@@ -969,12 +970,12 @@ return {
             [19]="DNC", 
             [22]="RUN"
         }, 
-        ["DEF"]=120, 
-        ["slots"]={
-            [7]="Legs"
+        ["augments"]={
+            [1]="Accuracy+15", 
+            [2]="DEX+5", 
+            [3]="Crit. hit rate+2%"
         }, 
-        ["Accuracy"]=15, 
-        ["id"]=27196, 
+        ["DEF"]=120, 
         ["Attack"]=35
     }, 
     [33]={
@@ -1316,12 +1317,9 @@ return {
         ["category"]="Armor", 
         ["STR"]=41, 
         ["en"]="Lustratio Cap", 
-        ["DEX"]=39, 
+        ["Slow"]=10, 
         ["HP"]=22, 
-        ["INT"]=30, 
-        ["slots"]={
-            [4]="Head"
-        }, 
+        ["DEX"]=39, 
         ["jobs"]={
             [1]="WAR", 
             [6]="THF", 
@@ -1333,13 +1331,17 @@ return {
             [19]="DNC", 
             [22]="RUN"
         }, 
-        ["id"]=26668, 
-        ["DEF"]=110, 
         ["augments"]={
             [1]="INT+30", 
             [2]="STR+5", 
             [3]="DEX+5"
-        }
+        }, 
+        ["INT"]=30, 
+        ["DEF"]=110, 
+        ["slots"]={
+            [4]="Head"
+        }, 
+        ["id"]=26668
     }, 
     [46]={
         ["discription"]="DEF:118 HP+60 STR+47 VIT+29 AGI+21 INT+24 MND+11 CHR+16 Accuracy+39 Attack+27 Evasion+75 Magic Evasion+75 \"Magic Def. Bonus\"+5 Haste+9% Weapon skill damage +5%", 
@@ -4537,10 +4539,11 @@ return {
     [157]={
         ["discription"]="DEF:80 HP+11 STR+29 DEX+30 \"Slow\"+5%", 
         ["category"]="Armor", 
-        ["en"]="Lustratio Leggings", 
-        ["DEX"]=40, 
-        ["HP"]=61, 
         ["STR"]=39, 
+        ["en"]="Lustratio Leggings", 
+        ["Slow"]=5, 
+        ["HP"]=61, 
+        ["DEX"]=40, 
         ["slots"]={
             [8]="Feet"
         }, 
@@ -4555,13 +4558,13 @@ return {
             [19]="DNC", 
             [22]="RUN"
         }, 
-        ["id"]=27372, 
-        ["DEF"]=80, 
         ["augments"]={
             [1]="HP+50", 
             [2]="STR+10", 
             [3]="DEX+10"
-        }
+        }, 
+        ["DEF"]=80, 
+        ["id"]=27372
     }, 
     [158]={
         ["discription"]="DEF:96 HP+72 MP+14 STR+19 DEX+12 VIT+20 AGI+28 MND+7 CHR+20 Evasion+44 Magic Evasion+86 \"Magic Def. Bonus\"+2 Haste+3% \"Phalanx\"+4 Chance of successful block +2 Physical damage taken -4%", 
@@ -16561,6 +16564,10 @@ return {
     }, 
     [553]={
         ["discription"]="DEF:140 HP+34 STR+38 Accuracy+37 \"Slow\"+14%", 
+        ["category"]="Armor", 
+        ["en"]="Lustratio Harness", 
+        ["Slow"]=14, 
+        ["HP"]=34, 
         ["jobs"]={
             [1]="WAR", 
             [6]="THF", 
@@ -16572,15 +16579,12 @@ return {
             [19]="DNC", 
             [22]="RUN"
         }, 
-        ["category"]="Armor", 
-        ["en"]="Lustratio Harness", 
-        ["HP"]=34, 
+        ["DEF"]=140, 
         ["slots"]={
             [5]="Body"
         }, 
-        ["id"]=26844, 
-        ["DEF"]=140, 
         ["Accuracy"]=37, 
+        ["id"]=26844, 
         ["STR"]=38
     }, 
     [554]={
