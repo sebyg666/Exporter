@@ -1,7 +1,7 @@
 
 _addon.name = 'Exporter'
 _addon.author = 'Sebyg666'
-_addon.version = '1.0.0.0'
+_addon.version = '1.0.0.1'
 _addon.commands = {'ex','exporter'}
 
 
@@ -140,14 +140,32 @@ function find_all_values(item)
 		
 		if augs then edited_item.augments = augs end
 		
+		for k, v in pairs(descript_table) do
+			edited_item[k] = v
+		end
+		
+		-- Check "Enhances \"Dual Wield\" effect" Gear for value
 		for k, v in pairs(DW_Gear) do
 			if item.id == k then
-				edited_item['Dual Wield'] = v["Dual Wield"]
+				if  edited_item['Dual Wield'] then
+					edited_item['Dual Wield'] = edited_item['Dual Wield'] + v["Dual Wield"]
+				else
+					edited_item['Dual Wield'] = v["Dual Wield"]
+				end
 			end
 		end
 		
-		for k, v in pairs(descript_table) do
-			edited_item[k] = v
+		-- Check Unity gear for stat and value.
+		for k, v in pairs(Unity_rank) do
+			if item.id == k then
+				if edited_item[v['Unity Ranking']] then
+					-- edited_item[v['Unity Ranking']] = edited_item[v['Unity Ranking']] + v.rank[settings.rank]
+					edited_item[v['Unity Ranking']] = edited_item[v['Unity Ranking']] + v.rank[1]
+				else
+					-- edited_item[v['Unity Ranking']] = v.rank[settings.rank]
+					edited_item[v['Unity Ranking']] = v.rank[1]
+				end
+			end
 		end
 		
 		if item.category == 'Weapon' then
@@ -210,7 +228,7 @@ end
 
 function desypher_description(discription_string, item_t)
 	
-	-- string that need modifying
+	-- string that need modifying to stop clashing
 	discription_string = string.gsub(discription_string, 'Ranged Accuracy%s?', 'Ranged_accuracy') 
 	discription_string = string.gsub(discription_string, 'Rng.%s?Acc.%s?', 'Ranged_accuracy')  
 	discription_string = string.gsub(discription_string, 'Ranged Attack%s?', 'Ranged_attack') 
@@ -234,6 +252,9 @@ function desypher_description(discription_string, item_t)
 		discription_string = str_table[1]
 	elseif discription_string:contains('Avatar:') then
 		str_table = discription_string:psplit("Avatar:")
+		discription_string = str_table[1]
+	elseif discription_string:contains('Unity Ranking:') then
+		str_table = discription_string:psplit("Unity Ranking:")
 		discription_string = str_table[1]
 	end
 

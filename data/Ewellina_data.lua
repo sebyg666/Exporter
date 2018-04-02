@@ -3726,6 +3726,10 @@ return {
         ["Sword skill"]=242, 
         ["delay"]=224, 
         ["DMG"]=109, 
+        ["slots"]={
+            [0]="Main", 
+            [1]="Sub"
+        }, 
         ["jobs"]={
             [1]="WAR", 
             [5]="RDM", 
@@ -3735,13 +3739,8 @@ return {
             [17]="COR", 
             [19]="DNC"
         }, 
-        ["skill"]="Sword", 
         ["id"]=20708, 
-        ["slots"]={
-            [0]="Main", 
-            [1]="Sub"
-        }, 
-        ["Fast Cast"]=1
+        ["skill"]="Sword"
     }, 
     [127]={
         ["discription"]="DEF:90 HP+27 STR+10 DEX+32 VIT+32 AGI+6 INT+14 MND+29 CHR+19 Accuracy+30 Attack-18 Evasion+22 Magic Evasion+43 \"Magic Def. Bonus\"+2 Haste+5% Unity Ranking: Accuracy+10～15", 
@@ -3776,7 +3775,7 @@ return {
         ["VIT"]=32, 
         ["STR"]=10, 
         ["Haste"]=5, 
-        ["Accuracy"]=10, 
+        ["Accuracy"]=30, 
         ["INT"]=14, 
         ["category"]="Armor", 
         ["CHR"]=19, 
@@ -4419,6 +4418,10 @@ return {
         ["Sword skill"]=242, 
         ["delay"]=218, 
         ["DMG"]=110, 
+        ["slots"]={
+            [0]="Main", 
+            [1]="Sub"
+        }, 
         ["jobs"]={
             [1]="WAR", 
             [5]="RDM", 
@@ -4428,13 +4431,8 @@ return {
             [17]="COR", 
             [19]="DNC"
         }, 
-        ["skill"]="Sword", 
         ["id"]=20709, 
-        ["slots"]={
-            [0]="Main", 
-            [1]="Sub"
-        }, 
-        ["Fast Cast"]=1
+        ["skill"]="Sword"
     }, 
     [153]={
         ["discription"]="DEF:112 HP+47 STR+24 VIT+13 AGI+15 INT+27 MND+14 CHR+8 Evasion+45 Magic Evasion+69 \"Magic Def. Bonus\"+5 Haste+6% \"Subtle Blow\"+5", 
@@ -5050,22 +5048,21 @@ return {
             [22]="RUN"
         }, 
         ["DEX"]=35, 
+        ["Haste"]=9, 
         ["slots"]={
             [5]="Body"
         }, 
         ["en"]="Cohort Cloak", 
-        ["AGI"]=35, 
-        ["DEF"]=217, 
         ["HP"]=91, 
         ["id"]=25680, 
         ["category"]="Armor", 
-        ["Haste"]=9, 
+        ["DEF"]=217, 
         ["MP"]=91, 
         ["VIT"]=35, 
         ["STR"]=35, 
         ["CHR"]=48, 
         ["INT"]=55, 
-        ["Magic Accuracy"]=10
+        ["AGI"]=35
     }, 
     [176]={
         ["discription"]="DEF:113 HP+47 STR+29 VIT+16 AGI+34 INT+30 MND+17 CHR+11 Ranged Attack+33 Evasion+38 Magic Evasion+69 \"Magic Def. Bonus\"+5 Haste+6% Enmity-6 Critical hit damage +6%", 
@@ -5195,7 +5192,6 @@ return {
     }, 
     [181]={
         ["discription"]="MP+30 Magic Damage+10 Unity Ranking: INT+2～6", 
-        ["INT"]=2, 
         ["category"]="Weapon", 
         ["en"]="Ghastly Tathlum", 
         ["delay"]=999, 
@@ -6276,9 +6272,15 @@ return {
         }
     }, 
     [214]={
-        ["discription"]="STR+3 VIT+3 Converts 100 MP to HP Magic damage taken -2% Unity Ranking: Accuracy+5～10", 
-        ["category"]="Armor", 
+        ["VIT"]=3, 
         ["en"]="Odnowa Earring +1", 
+        ["id"]=27549, 
+        ["slots"]={
+            [11]="Left Ear", 
+            [12]="Right Ear"
+        }, 
+        ["category"]="Armor", 
+        ["discription"]="STR+3 VIT+3 Converts 100 MP to HP Magic damage taken -2% Unity Ranking: Accuracy+5～10", 
         ["STR"]=3, 
         ["jobs"]={
             [1]="WAR", 
@@ -6303,14 +6305,7 @@ return {
             [20]="SCH", 
             [21]="GEO", 
             [22]="RUN"
-        }, 
-        ["id"]=27549, 
-        ["slots"]={
-            [11]="Left Ear", 
-            [12]="Right Ear"
-        }, 
-        ["Accuracy"]=5, 
-        ["VIT"]=3
+        }
     }, 
     [215]={
         ["discription"]="DEF:16 Monster correlation effects +10 \"Efflux\" TP bonus +250", 
@@ -6506,6 +6501,9 @@ return {
     }, 
     [222]={
         ["discription"]="DEF:11 VIT+9 CHR+9 \"Resist Charm\"+9 Enmity+10 Unity Ranking: Accuracy+1～5", 
+        ["CHR"]=9, 
+        ["category"]="Armor", 
+        ["en"]="Unmoving Collar +1", 
         ["jobs"]={
             [1]="WAR", 
             [2]="MNK", 
@@ -6530,15 +6528,11 @@ return {
             [21]="GEO", 
             [22]="RUN"
         }, 
-        ["CHR"]=9, 
-        ["category"]="Armor", 
-        ["en"]="Unmoving Collar +1", 
+        ["DEF"]=11, 
         ["slots"]={
             [9]="Neck"
         }, 
         ["id"]=27509, 
-        ["DEF"]=11, 
-        ["Accuracy"]=1, 
         ["VIT"]=9
     }, 
     [223]={
@@ -7048,7 +7042,7 @@ return {
         ["discription"]="AGI+2 Enhances \"Dual Wield\" effect Sword skill +5", 
         ["en"]="Suppanomimi", 
         ["Sword skill"]=5, 
-        ["AGI"]=2, 
+        ["Dual Wield"]=5, 
         ["category"]="Armor", 
         ["slots"]={
             [11]="Left Ear", 
@@ -7079,7 +7073,7 @@ return {
             [22]="RUN"
         }, 
         ["id"]=14739, 
-        ["Dual Wield"]=5
+        ["AGI"]=2
     }, 
     [240]={
         ["Accuracy"]=7, 
@@ -9649,7 +9643,7 @@ return {
         ["category"]="Armor", 
         ["MND"]=25, 
         ["en"]="Macabre Gaunt. +1", 
-        ["HP"]=20, 
+        ["HP"]=29, 
         ["INT"]=8, 
         ["slots"]={
             [6]="Hands"
@@ -12507,19 +12501,18 @@ return {
         ["Magic Accuracy"]=5
     }, 
     [419]={
-        ["discription"]="Damage taken -3% Unity Ranking: HP+10～35", 
-        ["en"]="Refined Grip +1", 
         ["delay"]=0, 
-        ["HP"]=10, 
-        ["category"]="Weapon", 
+        ["en"]="Refined Grip +1", 
+        ["id"]=21417, 
         ["slots"]={
             [1]="Sub"
         }, 
+        ["category"]="Weapon", 
+        ["discription"]="Damage taken -3% Unity Ranking: HP+10～35", 
+        ["skill"]="(N/A)", 
         ["jobs"]={
             [22]="RUN"
-        }, 
-        ["id"]=21417, 
-        ["skill"]="(N/A)"
+        }
     }, 
     [420]={
         ["discription"]="\"Magic Atk. Bonus\"+7 Enmity+5 \"Double Attack\"+2% Physical damage taken -2%", 
@@ -12874,20 +12867,19 @@ return {
         ["category"]="Weapon", 
         ["DMG"]=274, 
         ["en"]="Beheader +1", 
-        ["STR"]=16, 
-        ["HP"]=70, 
         ["skill"]="Great Axe", 
+        ["delay"]=489, 
+        ["STR"]=16, 
+        ["slots"]={
+            [0]="Main"
+        }, 
         ["jobs"]={
             [1]="WAR", 
             [8]="DRK", 
             [22]="RUN"
         }, 
         ["Accuracy"]=24, 
-        ["delay"]=489, 
         ["id"]=20854, 
-        ["slots"]={
-            [0]="Main"
-        }, 
         ["Great Axe skill"]=242
     }, 
     [434]={
@@ -13231,9 +13223,15 @@ return {
         ["VIT"]=3
     }, 
     [445]={
-        ["discription"]="STR+2 VIT+2 Converts 100 MP to HP Magic damage taken -1% Unity Ranking: Accuracy+5～10", 
-        ["category"]="Armor", 
+        ["VIT"]=2, 
         ["en"]="Odnowa Earring", 
+        ["id"]=27548, 
+        ["slots"]={
+            [11]="Left Ear", 
+            [12]="Right Ear"
+        }, 
+        ["category"]="Armor", 
+        ["discription"]="STR+2 VIT+2 Converts 100 MP to HP Magic damage taken -1% Unity Ranking: Accuracy+5～10", 
         ["STR"]=2, 
         ["jobs"]={
             [1]="WAR", 
@@ -13258,14 +13256,7 @@ return {
             [20]="SCH", 
             [21]="GEO", 
             [22]="RUN"
-        }, 
-        ["id"]=27548, 
-        ["slots"]={
-            [11]="Left Ear", 
-            [12]="Right Ear"
-        }, 
-        ["Accuracy"]=5, 
-        ["VIT"]=2
+        }
     }, 
     [446]={
         ["discription"]="MND+4 \"Cure\" potency +3% \"Cure\" spellcasting time -4% Unity Ranking: \"Cure\" potency +3～4%", 
@@ -14213,12 +14204,11 @@ return {
     }, 
     [484]={
         ["discription"]="Damage taken -6% Unity Ranking: DEF:+10～15", 
-        ["DEF"]=10, 
+        ["id"]=26002, 
         ["slots"]={
             [9]="Neck"
         }, 
         ["en"]="Loricate Torque +1", 
-        ["id"]=26002, 
         ["category"]="Armor", 
         ["jobs"]={
             [1]="WAR", 
@@ -14898,8 +14888,14 @@ return {
         }
     }, 
     [504]={
-        ["discription"]="DEF:131 HP+61 STR+25 DEX+24 VIT+25 AGI+23 INT+23 MND+23 CHR+23 Evasion+70 Magic Evasion+64 \"Magic Def. Bonus\"+5 Haste+4% Enmity+10 Physical damage taken -6% Unity Ranking: Accuracy+10～20", 
+        ["STR"]=25, 
+        ["AGI"]=23, 
         ["MND"]=23, 
+        ["INT"]=23, 
+        ["category"]="Armor", 
+        ["CHR"]=23, 
+        ["en"]="Emet Harness +1", 
+        ["HP"]=61, 
         ["jobs"]={
             [1]="WAR", 
             [2]="MNK", 
@@ -14917,22 +14913,15 @@ return {
             [19]="DNC", 
             [22]="RUN"
         }, 
-        ["DEX"]=24, 
-        ["Haste"]=4, 
+        ["DEF"]=131, 
+        ["discription"]="DEF:131 HP+61 STR+25 DEX+24 VIT+25 AGI+23 INT+23 MND+23 CHR+23 Evasion+70 Magic Evasion+64 \"Magic Def. Bonus\"+5 Haste+4% Enmity+10 Physical damage taken -6% Unity Ranking: Accuracy+10～20", 
         ["slots"]={
             [5]="Body"
         }, 
-        ["en"]="Emet Harness +1", 
-        ["HP"]=61, 
+        ["Haste"]=4, 
         ["id"]=26871, 
-        ["VIT"]=25, 
-        ["STR"]=25, 
-        ["DEF"]=131, 
-        ["Accuracy"]=10, 
-        ["INT"]=23, 
-        ["category"]="Armor", 
-        ["CHR"]=23, 
-        ["AGI"]=23
+        ["DEX"]=24, 
+        ["VIT"]=25
     }, 
     [505]={
         ["discription"]="DEF:135 HP+59 MP+44 STR+27 DEX+32 VIT+24 AGI+28 INT+23 MND+23 CHR+23 Accuracy+21 Attack+21 \"Evasion+49 Magic Evasion+64 \"Magic Def. Bonus\"+6 Haste+4% \"Fast Cast\"+7% \"Refesh\"+2", 
@@ -17263,22 +17252,21 @@ return {
             [22]="RUN"
         }, 
         ["DEX"]=35, 
+        ["Haste"]=9, 
         ["slots"]={
             [5]="Body"
         }, 
         ["en"]="Cohort Cloak +1", 
-        ["AGI"]=35, 
-        ["DEF"]=218, 
         ["HP"]=91, 
         ["id"]=25681, 
         ["category"]="Armor", 
-        ["Haste"]=9, 
+        ["DEF"]=218, 
         ["MP"]=91, 
         ["VIT"]=35, 
         ["STR"]=35, 
         ["CHR"]=48, 
         ["INT"]=56, 
-        ["Magic Accuracy"]=10
+        ["AGI"]=35
     }, 
     [577]={
         ["discription"]="DEF:83 HP+35 MP+40 STR+3 DEX+23 VIT+25 AGI+6 INT+31 MND+44 CHR+29 Magic Accuracy+37 Evasion+19 Magic Evasion+71 \"Magic Def. Bonus\"+5 Haste+4% All magic skills +18 Magic damage taken -3%", 
@@ -17521,7 +17509,7 @@ return {
         ["id"]=28413, 
         ["DEF"]=14, 
         ["Accuracy"]=14, 
-        ["Store TP"]=1
+        ["Store TP"]=5
     }, 
     [586]={
         ["discription"]="DEF:88 HP+11 MP+14 STR+16 DEX+33 VIT+10 AGI+46 MND+18 CHR+26 Accuracy+36 Magic Accuracy+36 Evasion+60 Magic Evasion+69 \"Magic Def. Bonus\"+5 Haste+3% Critical hit rate +5% Damage taken -2%", 
