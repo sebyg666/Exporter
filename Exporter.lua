@@ -14,6 +14,7 @@ require('pack')
 
 DW_Gear = require('DW_Gear')
 Unity_rank = require('Unity rank gear')
+Unity_temp = require('Unity Temp')
 
 res = require('resources')
 skills_from_resources = res.skills
@@ -58,6 +59,9 @@ windower.register_event('addon command', function(command, ...)
         if command == 'parse' then
 			log('Parsing all inventories to file')
 			parse_inventory()
+		 elseif command == 'unity' then
+			log('Parsing unity file')
+			parse_unity()
 		end
 	end
 end)
@@ -107,13 +111,111 @@ function parse_inventory()
 
 end
 
+function parse_unity()
+
+	local valid_strings = L{'DEF','HP','MP','STR','DEX','VIT','AGI','INT','MND','CHR',
+								'Accuracy','Acc.','Attack','Atk.',
+								'Ranged_accuracy', 'Ranged_attack',
+								'Magic_accuracy', 'Magic Atk. Bonus',
+								'Haste','\"Slow\"','\"Store TP\"','\"Dual Wield\"','\"Fast Cast\"',
+								'DMG','Emnity','Critical hit rate','Evasion',
+								"Hand-to-Hand skill", "Dagger skill", "Sword skill", "Great sword skill", "Axe skill", "Great axe skill",  "Scythe skill", "Polearm skill", 
+								"Katana skill", "Great katana skill", "Club skill",  "Staff skill", "Archery skill", "Marksmanship skill" , "Throwing skill",
+								'\"Rapid Shot\"','\"Subtle Blow\"','\"Conserve MP\"','\"Cure\" potency','Double_attack','Triple_attack','\"Refresh\"','MP recovered while healing',
+								}
+	
+	local temp_table = T{}
+	local temp_key = { 
+		["Acc."] = "Accuracy",
+		["Atk."] = 'Attack',
+		['\"Slow\"'] = 'Slow',
+		['\"Store TP\"'] = 'Store TP', 
+		['\"Rapid Shot\"'] = "Rapid Shot",
+		['\"Subtle Blow\"'] = "Subtle Blow",
+		['\"Cure\" potency'] = 'Cure potency',
+		['\"Refresh\"'] = 'Refresh',
+		['\"Dual Wield\"'] = 'Dual Wield' ,
+		['\"Fast Cast\"'] = 'Fast Cast' ,
+		["Double_attack"] = 'Double Attack',
+		["Triple_attack"] = 'Triple Attack',
+		['Magic_accuracy'] = 'Magic Accuracy' , 
+		['Ranged_accuracy'] =  'Ranged Accuracy' ,
+		['Ranged_attack'] =  'Ranged Attack' ,
+		['Magic_evasion'] = 'Magic Evasion',
+		["Great axe skill"] = "Great Axe skill" ,
+		["Great katana skill"] = "Great Katana skill",
+		["Great sword skill"] = "Great Sword skill",
+		['\"Conserve MP\"'] = 'Conserve MP',
+	}
+	
+	local string_table = {}
+	
+	for i, j in pairs(Unity_temp) do
+	
+		discription_string = string.gsub(j.en, '\n', ' ') 
+		-- string that need modifying to stop clashing
+		discription_string = string.gsub(discription_string, 'Ranged Accuracy%s?', 'Ranged_accuracy') 
+		discription_string = string.gsub(discription_string, 'Rng.%s?Acc.%s?', 'Ranged_accuracy')  
+		discription_string = string.gsub(discription_string, 'Ranged Attack%s?', 'Ranged_attack') 
+		discription_string = string.gsub(discription_string, 'Rng.%s?Atk.%s?', 'Ranged_attack') 
+		
+		discription_string = string.gsub(discription_string, 'Magic Accuracy%s?', 'Magic_accuracy')
+		discription_string = string.gsub(discription_string, 'Mag.%s?Acc.%s?', 'Magic_accuracy') 	
+		discription_string = string.gsub(discription_string, 'Magic Acc.%s?', 'Magic_accuracy') 
+		
+		discription_string = string.gsub(discription_string, '\"Magic Atk. Bonus\"', 'Magic Atk. Bonus' )
+		discription_string = string.gsub(discription_string, '\"Mag.%s?Atk.%s?Bns.\"', 'Magic Atk. Bonus' ) 
+		
+		discription_string = string.gsub(discription_string, 'Magic Evasion', 'Magic_evasion' )
+		
+		discription_string = string.gsub(discription_string, '\"Double Attack\"', 'Double_attack' )
+		discription_string = string.gsub(discription_string, '\"Triple Attack\"', 'Triple_attack' )
+		
+		discription_string = string.gsub(discription_string,  "Great Axe skill",  "Great axe skill")
+		discription_string = string.gsub(discription_string,  "Great Katana skill",  "Great katana skill")
+		discription_string = string.gsub(discription_string,  "Great Sword skill",  "Great sword skill")
+	
+		if discription_string:contains('Pet:') then
+			str_table = discription_string:psplit("Pet:")
+			discription_string = str_table[1]
+		elseif discription_string:contains('Wyvern:') then
+			str_table = discription_string:psplit("Wyvern:")
+			discription_string = str_table[1]
+		elseif discription_string:contains('Avatar:') then
+			str_table = discription_string:psplit("Avatar:")
+			discription_string = str_table[1]
+		elseif discription_string:contains('Latent effect:') then
+			str_table = discription_string:psplit("Latent effect:")
+			discription_string = str_table[1]
+		elseif discription_string:contains('Rainy weather:') then
+			str_table = discription_string:psplit("Rainy weather:")
+			discription_string = str_table[1]
+		end		
+		
+		for k, v in pairs(valid_strings) do
+			-- v = DEF etc
+			pattern = "Unity Ranking:%s?("..v.."):?%s?([+-]?%d+)～(%d+)"
+			for key , val, val2 in j.en:gmatch(pattern) do
+				if temp_key[key] then
+					temp_table[temp_key[key]] = {min = tonumber(val), max = tonumber(val2)}
+					string_table[i] = {id=i,en=res.items:with('id', i).en,['Unity Ranking'] = temp_key[key], rank = temp_table[temp_key[key]]}
+				else
+					temp_table[key] = {min = tonumber(val), max = tonumber(val2)}
+					string_table[i] = {id=i,en=res.items:with('id', i).en,['Unity Ranking'] = key, rank = temp_table[key]}
+				end			
+			end
+		end
+	end
+	save_table_to_file(string_table)
+end
+
 function find_all_values(item)
 	-- notice(item.id)
 	local temp = check_for_augments(item)
 	local augs = Extdata.decode(item).augments
 	
 	local item = res.items:with('id', item.id)
-	
+
 	if item.flags:contains('Equippable') then
 	
 		if res.item_descriptions[item.id] then
@@ -260,6 +362,12 @@ function desypher_description(discription_string, item_t)
 		discription_string = str_table[1]
 	elseif discription_string:contains('Unity Ranking:') then
 		str_table = discription_string:psplit("Unity Ranking:")
+		discription_string = str_table[1]
+	elseif discription_string:contains('Latent effect:') then
+		str_table = discription_string:psplit("Latent effect:")
+		discription_string = str_table[1]
+	elseif discription_string:contains('Rainy weather:') then
+		str_table = discription_string:psplit("Rainy weather:")
 		discription_string = str_table[1]
 	end
 
