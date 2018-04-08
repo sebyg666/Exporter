@@ -1,7 +1,7 @@
 
 _addon.name = 'Exporter'
 _addon.author = 'Sebyg666'
-_addon.version = '1.0.0.2'
+_addon.version = '1.0.0.3'
 _addon.commands = {'ex','exporter'}
 
 
@@ -9,12 +9,16 @@ require('tables')
 require('lists')
 require('strings')
 require('logger')
-require('lists')
 require('pack')
 
 DW_Gear = require('DW_Gear')
 Unity_rank = require('Unity rank gear')
 Unity_temp = require('Unity Temp')
+Set_Bonus = require('Set_Bonuses')
+Ripped_set_bonus = require('Set_Bonuses_ripped_from_resources')
+ordered_sets = require("items rippes by set bonus string")
+sets = require('set_ids')
+full_sets = require('Full sets')
 
 res = require('resources')
 skills_from_resources = res.skills
@@ -22,8 +26,6 @@ Extdata = require("extdata")
 texts = require('texts')
 config = require('config')
 files = require('files')
-blu_spells = res.spells:type('BlueMagic')
-timer = require('timeit')
 packets = require('packets')
 bit = require('bit')
 
@@ -62,6 +64,21 @@ windower.register_event('addon command', function(command, ...)
 		 elseif command == 'unity' then
 			log('Parsing unity file')
 			parse_unity()
+		elseif command == 'set' then
+			log('Parsing Set_Bonuses file')
+			parse_set()
+		elseif command == 'set2' then
+			log('Parsing Set_Bonuses2 file')
+			parse_set2()
+		elseif command == 'set3' then
+			log('Parsing Set_Bonuses3 file')
+			parse_set3()
+		elseif command == 'set4' then
+			log('Parsing Set_Bonuses4 file')
+			parse_set4()
+		elseif command == 'set5' then
+			log('Parsing Set_Bonuses5 file')
+			parse_set5()
 		end
 	end
 end)
@@ -109,6 +126,96 @@ function parse_inventory()
 	-- end
 	save_table_to_file(full_gear_table_rw)
 
+end
+
+function parse_set5()
+	local temp_table = {}
+	temp_table = full_sets
+	save_table_to_file(temp_table)
+end
+
+function parse_set4()
+	
+	local temp_table = {}
+	
+	for i, j in pairs(sets) do
+	
+		if temp_table[j['set id']] then
+			temp_table[j['set id']][i] = {id=i,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = '', ['minimum peices'] = 2 }
+		else
+			temp_table[j['set id']]= {}
+			temp_table[j['set id']][i]= {id=i,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = '', ['minimum peices'] = 2 }
+		end
+	end
+	
+	save_table_to_file(temp_table)
+end
+
+function parse_set3()
+	local temp_table = {}
+	local set_number = 1
+	-- for i, j in pairs(ordered_sets) do
+		-- -- i = set bonus string
+		-- -- j = item
+		-- pattern = "(^%w+)"
+		-- for key  in j.enl:gmatch(pattern) do
+			-- ordered_sets[i][j.id]['set id'] = set_number
+			-- ordered_sets[i][j.id]['bonus'] = {[1] = '', [2] = '', [3] = '',[4] = '',[5]}
+		-- end
+	-- end
+	for i, j in pairs(Ripped_set_bonus) do
+		pattern = "^%a+"
+		key = j.enl:match(pattern)
+		--notice(key)
+			for k, v in pairs(Ripped_set_bonus) do
+				if v.enl:contains(key) and Ripped_set_bonus[k]['set id'] == nil and j['Set Bonus'] == v['Set Bonus']  then
+					Ripped_set_bonus[k]['set id'] = set_number
+				end
+			end
+		set_number = set_number +1
+	end
+
+	save_table_to_file(Ripped_set_bonus)
+end
+
+function parse_set2()
+	
+	local string_table = {}
+	
+	for i, j in pairs(Ripped_set_bonus) do
+		-- pattern = "(^%w+)"
+		-- for key  in j.enl:gmatch(pattern) do
+			-- string_table[key] = {set=key,['Set Bonus']=j['Set Bonus'], [i] ={id=i,en=j.en,enl=j.enl} }
+		-- end
+	
+	
+	
+		if string_table[j['Set Bonus']] then
+			string_table[j['Set Bonus']][i] = {id=i,en=j.en,enl=j.enl}
+		else
+			string_table[j['Set Bonus']]= {}
+			string_table[j['Set Bonus']][i]= {id=i,en=j.en,enl=j.enl}
+		end
+	end
+	
+	save_table_to_file(string_table)
+end
+
+function parse_set()
+	
+	local string_table = {}
+	
+	for i, j in pairs(Set_Bonus) do
+		local discription_string = string.gsub(j.en, '\n', ' ') 
+		
+		if discription_string:contains('Set: ') then
+			str_table = discription_string:psplit("Set: ")
+			discription_string = str_table[2]
+		end
+		string_table[i] = {id=i,en=res.items:with('id', i).en,enl=res.items:with('id', i).enl,['Set Bonus'] = discription_string}
+	end
+	
+	save_table_to_file(string_table)
 end
 
 function parse_unity()
