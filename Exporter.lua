@@ -130,7 +130,17 @@ end
 
 function parse_set5()
 	local temp_table = {}
-	temp_table = full_sets
+	
+	for k, v in pairs(full_sets) do
+		for i, j in pairs(v) do
+			if temp_table[j.id] then
+				temp_table[j.id] = {id=j.id,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = j.bonus, ['minimum peices'] = j['minimum peices'],['set id']=k }
+			else
+				temp_table[j.id] = {id=j.id,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = j.bonus, ['minimum peices'] = j['minimum peices'],['set id']=k  }
+			end
+		end
+	end
+	
 	save_table_to_file(temp_table)
 end
 
