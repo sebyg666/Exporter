@@ -1,7 +1,7 @@
 
 _addon.name = 'Exporter'
 _addon.author = 'Sebyg666'
-_addon.version = '1.0.0.3'
+_addon.version = '1.0.0.5'
 _addon.commands = {'ex','exporter'}
 
 
@@ -79,6 +79,9 @@ windower.register_event('addon command', function(command, ...)
 		elseif command == 'set5' then
 			log('Parsing Set_Bonuses5 file')
 			parse_set5()
+		elseif command == 'set6' then
+			log('Parsing Set_Bonuses6 file')
+			parse_set6()
 		end
 	end
 end)
@@ -128,15 +131,19 @@ function parse_inventory()
 
 end
 
+function parse_set6()
+	
+	save_table_to_file(full_sets)
+	
+end
+
 function parse_set5()
 	local temp_table = {}
 	
-	for k, v in pairs(full_sets) do
-		for i, j in pairs(v) do
-			if temp_table[j.id] then
-				temp_table[j.id] = {id=j.id,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = j.bonus, ['minimum peices'] = j['minimum peices'],['set id']=k }
-			else
-				temp_table[j.id] = {id=j.id,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = j.bonus, ['minimum peices'] = j['minimum peices'],['set id']=k  }
+	for set_id, table_1 in pairs(full_sets) do
+		for item_id, item_table in pairs(table_1) do
+			if type(item_id) == 'number' then
+				temp_table[item_table.id] = {id=item_table.id,en=item_table.en,enl=item_table.enl , ["Set Bonus"] = table_1["Set Bonus"], bonus = table_1.bonus, ['minimum peices'] = table_1['minimum peices'],['set id']=set_id }
 			end
 		end
 	end
@@ -149,13 +156,22 @@ function parse_set4()
 	local temp_table = {}
 	
 	for i, j in pairs(sets) do
-	
+		
+		--temp_table[j['set id']] = {['set id'] = j['set id'], ["Set Bonus"] = j["Set Bonus"],  bonus = j.bonus, ['minimum peices'] = j['minimum peices'], [i] = {id=i,en=j.en,enl=j.enl}}
+		
 		if temp_table[j['set id']] then
-			temp_table[j['set id']][i] = {id=i,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = '', ['minimum peices'] = 2 }
+			temp_table[j['set id']][i] = {id=i,en=j.en,enl=j.enl}
 		else
 			temp_table[j['set id']]= {}
-			temp_table[j['set id']][i]= {id=i,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = '', ['minimum peices'] = 2 }
+			temp_table[j['set id']] = {['set id'] = j['set id'], ["Set Bonus"] = j["Set Bonus"],  bonus = j.bonus, ['minimum peices'] = j['minimum peices'], [i] = {id=i,en=j.en,enl=j.enl}}
 		end
+		
+		-- if temp_table[j['set id']] then
+			-- temp_table[j['set id']][i] = {id=i,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = '', ['minimum peices'] = 2 }
+		-- else
+			-- temp_table[j['set id']]= {}
+			-- temp_table[j['set id']][i]= {id=i,en=j.en,enl=j.enl , ["Set Bonus"] = j["Set Bonus"], bonus = '', ['minimum peices'] = 2 }
+		-- end
 	end
 	
 	save_table_to_file(temp_table)

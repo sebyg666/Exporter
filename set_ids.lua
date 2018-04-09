@@ -7,7 +7,13 @@ return {
         ["set id"]=38, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MDT"]=2.5
+            [1]={}, 
+            [2]={
+                ["MDT"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10450]={
@@ -17,7 +23,21 @@ return {
         ["id"]=10450, 
         ["set id"]=247, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=1
+            }, 
+            [4]={
+                ["Refresh"]=2
+            }, 
+            [5]={
+                ["Refresh"]=2
+            }
+        }
     }, 
     [10451]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -27,7 +47,19 @@ return {
         ["set id"]=375, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=1
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=6
+            }
         }
     }, 
     [10452]={
@@ -38,7 +70,19 @@ return {
         ["set id"]=27, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=4
+            }, 
+            [4]={
+                ["Fast Cast"]=10
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [10462]={
@@ -49,7 +93,13 @@ return {
         ["set id"]=22, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=6
+            }
         }
     }, 
     [10463]={
@@ -60,7 +110,13 @@ return {
         ["set id"]=63, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [10464]={
@@ -71,7 +127,13 @@ return {
         ["set id"]=164, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Accuracy"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Accuracy"]=5
+            }
         }
     }, 
     [10474]={
@@ -81,7 +143,13 @@ return {
         ["id"]=10474, 
         ["set id"]=487, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10479]={
         ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
@@ -90,7 +158,13 @@ return {
         ["id"]=10479, 
         ["set id"]=104, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10484]={
         ["Set Bonus"]="Increases STR, INT, MND, CHR", 
@@ -99,7 +173,13 @@ return {
         ["id"]=10484, 
         ["set id"]=41, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10500]={
         ["Set Bonus"]="Adds \"Refresh\" effect", 
@@ -108,7 +188,21 @@ return {
         ["id"]=10500, 
         ["set id"]=247, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=1
+            }, 
+            [4]={
+                ["Refresh"]=2
+            }, 
+            [5]={
+                ["Refresh"]=2
+            }
+        }
     }, 
     [10501]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -118,7 +212,19 @@ return {
         ["set id"]=375, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=1
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=6
+            }
         }
     }, 
     [10502]={
@@ -129,7 +235,19 @@ return {
         ["set id"]=27, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=4
+            }, 
+            [4]={
+                ["Fast Cast"]=10
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [10512]={
@@ -140,7 +258,13 @@ return {
         ["set id"]=22, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=6
+            }
         }
     }, 
     [10513]={
@@ -151,7 +275,13 @@ return {
         ["set id"]=63, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [10514]={
@@ -162,7 +292,13 @@ return {
         ["set id"]=164, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Accuracy"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Accuracy"]=5
+            }
         }
     }, 
     [10523]={
@@ -172,7 +308,13 @@ return {
         ["id"]=10523, 
         ["set id"]=487, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10528]={
         ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
@@ -181,7 +323,13 @@ return {
         ["id"]=10528, 
         ["set id"]=104, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10533]={
         ["Set Bonus"]="Increases STR, INT, MND, CHR", 
@@ -190,7 +338,13 @@ return {
         ["id"]=10533, 
         ["set id"]=41, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10554]={
         ["Set Bonus"]="Increases STR, VIT, INT, MND", 
@@ -199,7 +353,13 @@ return {
         ["id"]=10554, 
         ["set id"]=487, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10559]={
         ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
@@ -208,7 +368,13 @@ return {
         ["id"]=10559, 
         ["set id"]=104, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10564]={
         ["Set Bonus"]="Increases STR, INT, MND, CHR", 
@@ -217,7 +383,13 @@ return {
         ["id"]=10564, 
         ["set id"]=41, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10598]={
         ["Set Bonus"]="Magic damage taken -5%", 
@@ -227,7 +399,13 @@ return {
         ["set id"]=38, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MDT"]=2.5
+            [1]={}, 
+            [2]={
+                ["MDT"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10600]={
@@ -237,7 +415,21 @@ return {
         ["id"]=10600, 
         ["set id"]=247, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=1
+            }, 
+            [4]={
+                ["Refresh"]=2
+            }, 
+            [5]={
+                ["Refresh"]=2
+            }
+        }
     }, 
     [10601]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -247,7 +439,19 @@ return {
         ["set id"]=375, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=1
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=6
+            }
         }
     }, 
     [10602]={
@@ -258,7 +462,19 @@ return {
         ["set id"]=27, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=4
+            }, 
+            [4]={
+                ["Fast Cast"]=10
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [10610]={
@@ -269,7 +485,13 @@ return {
         ["set id"]=22, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=6
+            }
         }
     }, 
     [10611]={
@@ -280,7 +502,13 @@ return {
         ["set id"]=63, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [10612]={
@@ -291,7 +519,13 @@ return {
         ["set id"]=164, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Accuracy"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Accuracy"]=5
+            }
         }
     }, 
     [10620]={
@@ -301,7 +535,13 @@ return {
         ["id"]=10620, 
         ["set id"]=487, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10625]={
         ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
@@ -310,7 +550,13 @@ return {
         ["id"]=10625, 
         ["set id"]=104, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10630]={
         ["Set Bonus"]="Increases STR, INT, MND, CHR", 
@@ -319,7 +565,13 @@ return {
         ["id"]=10630, 
         ["set id"]=41, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10864]={
         ["Set Bonus"]="\"Triple Attack\"+3%", 
@@ -329,7 +581,13 @@ return {
         ["set id"]=57, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Triple Attack"]=1.5
+            [1]={}, 
+            [2]={
+                ["Triple Attack"]=3
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10865]={
@@ -340,7 +598,13 @@ return {
         ["set id"]=150, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=2
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10866]={
@@ -351,7 +615,13 @@ return {
         ["set id"]=278, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10867]={
@@ -362,7 +632,13 @@ return {
         ["set id"]=57, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Triple Attack"]=1.5
+            [1]={}, 
+            [2]={
+                ["Triple Attack"]=3
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10868]={
@@ -373,7 +649,13 @@ return {
         ["set id"]=150, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=2
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10869]={
@@ -384,7 +666,13 @@ return {
         ["set id"]=278, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [10876]={
@@ -394,7 +682,21 @@ return {
         ["id"]=10876, 
         ["set id"]=247, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=1
+            }, 
+            [4]={
+                ["Refresh"]=2
+            }, 
+            [5]={
+                ["Refresh"]=2
+            }
+        }
     }, 
     [10877]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -404,7 +706,19 @@ return {
         ["set id"]=375, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=1
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=6
+            }
         }
     }, 
     [10878]={
@@ -415,7 +729,19 @@ return {
         ["set id"]=27, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=4
+            }, 
+            [4]={
+                ["Fast Cast"]=10
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [10890]={
@@ -426,7 +752,13 @@ return {
         ["set id"]=22, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=6
+            }
         }
     }, 
     [10891]={
@@ -437,7 +769,13 @@ return {
         ["set id"]=63, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [10892]={
@@ -448,7 +786,13 @@ return {
         ["set id"]=164, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Accuracy"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Accuracy"]=5
+            }
         }
     }, 
     [10901]={
@@ -458,7 +802,13 @@ return {
         ["id"]=10901, 
         ["set id"]=487, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10906]={
         ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
@@ -467,7 +817,13 @@ return {
         ["id"]=10906, 
         ["set id"]=104, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [10911]={
         ["Set Bonus"]="Increases STR, INT, MND, CHR", 
@@ -476,7 +832,13 @@ return {
         ["id"]=10911, 
         ["set id"]=41, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11064]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -485,7 +847,13 @@ return {
         ["id"]=11064, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11065]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -494,7 +862,13 @@ return {
         ["id"]=11065, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11066]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -503,7 +877,13 @@ return {
         ["id"]=11066, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11067]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -512,7 +892,13 @@ return {
         ["id"]=11067, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11068]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -521,7 +907,13 @@ return {
         ["id"]=11068, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11069]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -530,7 +922,13 @@ return {
         ["id"]=11069, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11070]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -539,7 +937,13 @@ return {
         ["id"]=11070, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11071]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -548,7 +952,13 @@ return {
         ["id"]=11071, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11072]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -557,7 +967,13 @@ return {
         ["id"]=11072, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11073]={
         ["Set Bonus"]="Augments songs", 
@@ -566,7 +982,13 @@ return {
         ["id"]=11073, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11074]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -575,7 +997,13 @@ return {
         ["id"]=11074, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11075]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -584,7 +1012,13 @@ return {
         ["id"]=11075, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11076]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -593,7 +1027,13 @@ return {
         ["id"]=11076, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11077]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -602,7 +1042,13 @@ return {
         ["id"]=11077, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11078]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -611,7 +1057,13 @@ return {
         ["id"]=11078, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11079]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -620,7 +1072,13 @@ return {
         ["id"]=11079, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11080]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -629,7 +1087,13 @@ return {
         ["id"]=11080, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11081]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -638,7 +1102,13 @@ return {
         ["id"]=11081, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11082]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -647,7 +1117,13 @@ return {
         ["id"]=11082, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11083]={
         ["Set Bonus"]="Augments grimoire", 
@@ -656,7 +1132,13 @@ return {
         ["id"]=11083, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11084]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -665,7 +1147,13 @@ return {
         ["id"]=11084, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11085]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -674,7 +1162,13 @@ return {
         ["id"]=11085, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11086]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -683,7 +1177,13 @@ return {
         ["id"]=11086, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11087]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -692,7 +1192,13 @@ return {
         ["id"]=11087, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11088]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -701,7 +1207,13 @@ return {
         ["id"]=11088, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11089]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -710,7 +1222,13 @@ return {
         ["id"]=11089, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11090]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -719,7 +1237,13 @@ return {
         ["id"]=11090, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11091]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -728,7 +1252,13 @@ return {
         ["id"]=11091, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11092]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -737,7 +1267,13 @@ return {
         ["id"]=11092, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11093]={
         ["Set Bonus"]="Augments songs", 
@@ -746,7 +1282,13 @@ return {
         ["id"]=11093, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11094]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -755,7 +1297,13 @@ return {
         ["id"]=11094, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11095]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -764,7 +1312,13 @@ return {
         ["id"]=11095, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11096]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -773,7 +1327,13 @@ return {
         ["id"]=11096, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11097]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -782,7 +1342,13 @@ return {
         ["id"]=11097, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11098]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -791,7 +1357,13 @@ return {
         ["id"]=11098, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11099]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -800,7 +1372,13 @@ return {
         ["id"]=11099, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11100]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -809,7 +1387,13 @@ return {
         ["id"]=11100, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11101]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -818,7 +1402,13 @@ return {
         ["id"]=11101, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11102]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -827,7 +1417,13 @@ return {
         ["id"]=11102, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11103]={
         ["Set Bonus"]="Augments grimoire", 
@@ -836,7 +1432,13 @@ return {
         ["id"]=11103, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11104]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -845,7 +1447,13 @@ return {
         ["id"]=11104, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11105]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -854,7 +1462,13 @@ return {
         ["id"]=11105, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11106]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -863,7 +1477,13 @@ return {
         ["id"]=11106, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11107]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -872,7 +1492,13 @@ return {
         ["id"]=11107, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11108]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -881,7 +1507,13 @@ return {
         ["id"]=11108, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11109]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -890,7 +1522,13 @@ return {
         ["id"]=11109, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11110]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -899,7 +1537,13 @@ return {
         ["id"]=11110, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11111]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -908,7 +1552,13 @@ return {
         ["id"]=11111, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11112]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -917,7 +1567,13 @@ return {
         ["id"]=11112, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11113]={
         ["Set Bonus"]="Augments songs", 
@@ -926,7 +1582,13 @@ return {
         ["id"]=11113, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11114]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -935,7 +1597,13 @@ return {
         ["id"]=11114, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11115]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -944,7 +1612,13 @@ return {
         ["id"]=11115, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11116]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -953,7 +1627,13 @@ return {
         ["id"]=11116, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11117]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -962,7 +1642,13 @@ return {
         ["id"]=11117, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11118]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -971,7 +1657,13 @@ return {
         ["id"]=11118, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11119]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -980,7 +1672,13 @@ return {
         ["id"]=11119, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11120]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -989,7 +1687,13 @@ return {
         ["id"]=11120, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11121]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -998,7 +1702,13 @@ return {
         ["id"]=11121, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11122]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -1007,7 +1717,13 @@ return {
         ["id"]=11122, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11123]={
         ["Set Bonus"]="Augments grimoire", 
@@ -1016,7 +1732,13 @@ return {
         ["id"]=11123, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11124]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -1025,7 +1747,13 @@ return {
         ["id"]=11124, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11125]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -1034,7 +1762,13 @@ return {
         ["id"]=11125, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11126]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -1043,7 +1777,13 @@ return {
         ["id"]=11126, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11127]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -1052,7 +1792,13 @@ return {
         ["id"]=11127, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11128]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -1061,7 +1807,13 @@ return {
         ["id"]=11128, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11129]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -1070,7 +1822,13 @@ return {
         ["id"]=11129, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11130]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -1079,7 +1837,13 @@ return {
         ["id"]=11130, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11131]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -1088,7 +1852,13 @@ return {
         ["id"]=11131, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11132]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -1097,7 +1867,13 @@ return {
         ["id"]=11132, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11133]={
         ["Set Bonus"]="Augments songs", 
@@ -1106,7 +1882,13 @@ return {
         ["id"]=11133, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11134]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -1115,7 +1897,13 @@ return {
         ["id"]=11134, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11135]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -1124,7 +1912,13 @@ return {
         ["id"]=11135, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11136]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -1133,7 +1927,13 @@ return {
         ["id"]=11136, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11137]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -1142,7 +1942,13 @@ return {
         ["id"]=11137, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11138]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -1151,7 +1957,13 @@ return {
         ["id"]=11138, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11139]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -1160,7 +1972,13 @@ return {
         ["id"]=11139, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11140]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -1169,7 +1987,13 @@ return {
         ["id"]=11140, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11141]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -1178,7 +2002,13 @@ return {
         ["id"]=11141, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11142]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -1187,7 +2017,13 @@ return {
         ["id"]=11142, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11143]={
         ["Set Bonus"]="Augments grimoire", 
@@ -1196,7 +2032,13 @@ return {
         ["id"]=11143, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11144]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -1205,7 +2047,13 @@ return {
         ["id"]=11144, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11145]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -1214,7 +2062,13 @@ return {
         ["id"]=11145, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11146]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -1223,7 +2077,13 @@ return {
         ["id"]=11146, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11147]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -1232,7 +2092,13 @@ return {
         ["id"]=11147, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11148]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -1241,7 +2107,13 @@ return {
         ["id"]=11148, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11149]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -1250,7 +2122,13 @@ return {
         ["id"]=11149, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11150]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -1259,7 +2137,13 @@ return {
         ["id"]=11150, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11151]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -1268,7 +2152,13 @@ return {
         ["id"]=11151, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11152]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -1277,7 +2167,13 @@ return {
         ["id"]=11152, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11153]={
         ["Set Bonus"]="Augments songs", 
@@ -1286,7 +2182,13 @@ return {
         ["id"]=11153, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11154]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -1295,7 +2197,13 @@ return {
         ["id"]=11154, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11155]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -1304,7 +2212,13 @@ return {
         ["id"]=11155, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11156]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -1313,7 +2227,13 @@ return {
         ["id"]=11156, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11157]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -1322,7 +2242,13 @@ return {
         ["id"]=11157, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11158]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -1331,7 +2257,13 @@ return {
         ["id"]=11158, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11159]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -1340,7 +2272,13 @@ return {
         ["id"]=11159, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11160]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -1349,7 +2287,13 @@ return {
         ["id"]=11160, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11161]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -1358,7 +2302,13 @@ return {
         ["id"]=11161, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11162]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -1367,7 +2317,13 @@ return {
         ["id"]=11162, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11163]={
         ["Set Bonus"]="Augments grimoire", 
@@ -1376,7 +2332,13 @@ return {
         ["id"]=11163, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11281]={
         ["Set Bonus"]="Enhances \"Store TP\" effect", 
@@ -1386,7 +2348,17 @@ return {
         ["set id"]=86, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=5
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={
+                ["Store TP"]=10
+            }, 
+            [4]={
+                ["Store TP"]=15
+            }, 
+            [5]={}
         }
     }, 
     [11362]={
@@ -1396,7 +2368,13 @@ return {
         ["id"]=11362, 
         ["set id"]=141, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11364]={
         ["Set Bonus"]="Enhances \"Store TP\" effect", 
@@ -1406,7 +2384,17 @@ return {
         ["set id"]=86, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=5
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={
+                ["Store TP"]=10
+            }, 
+            [4]={
+                ["Store TP"]=15
+            }, 
+            [5]={}
         }
     }, 
     [11402]={
@@ -1416,7 +2404,13 @@ return {
         ["id"]=11402, 
         ["set id"]=62, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11413]={
         ["Set Bonus"]="Haste+5%", 
@@ -1426,7 +2420,13 @@ return {
         ["set id"]=17, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [11414]={
@@ -1437,7 +2437,13 @@ return {
         ["set id"]=97, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Store TP"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [11415]={
@@ -1447,7 +2453,13 @@ return {
         ["id"]=11415, 
         ["set id"]=4, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11503]={
         ["Set Bonus"]="Haste+5%", 
@@ -1457,7 +2469,13 @@ return {
         ["set id"]=17, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [11504]={
@@ -1468,7 +2486,13 @@ return {
         ["set id"]=97, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Store TP"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [11505]={
@@ -1478,7 +2502,13 @@ return {
         ["id"]=11505, 
         ["set id"]=4, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11798]={
         ["Set Bonus"]="Auto-Reraise", 
@@ -1487,7 +2517,13 @@ return {
         ["id"]=11798, 
         ["set id"]=141, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11808]={
         ["Set Bonus"]="\"Double Attack\"+5%", 
@@ -1497,7 +2533,13 @@ return {
         ["set id"]=398, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11809]={
@@ -1508,7 +2550,13 @@ return {
         ["set id"]=526, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11810]={
@@ -1519,7 +2567,13 @@ return {
         ["set id"]=654, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=2.5
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11824]={
@@ -1530,7 +2584,13 @@ return {
         ["set id"]=398, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11825]={
@@ -1541,7 +2601,13 @@ return {
         ["set id"]=526, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11826]={
@@ -1552,7 +2618,13 @@ return {
         ["set id"]=654, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=2.5
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11850]={
@@ -1563,7 +2635,13 @@ return {
         ["set id"]=398, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11851]={
@@ -1574,7 +2652,13 @@ return {
         ["set id"]=526, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11852]={
@@ -1585,7 +2669,13 @@ return {
         ["set id"]=654, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=2.5
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11855]={
@@ -1596,7 +2686,13 @@ return {
         ["set id"]=278, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11856]={
@@ -1604,9 +2700,17 @@ return {
         ["en"]="Anhur Robe", 
         ["enl"]="anhur robe", 
         ["id"]=11856, 
-        ["set id"]=404, 
+        ["set id"]=654, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [11857]={
         ["Set Bonus"]="\"Double Attack\"+5%", 
@@ -1616,7 +2720,13 @@ return {
         ["set id"]=398, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11858]={
@@ -1627,7 +2737,13 @@ return {
         ["set id"]=398, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11859]={
@@ -1638,7 +2754,13 @@ return {
         ["set id"]=526, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11860]={
@@ -1649,7 +2771,13 @@ return {
         ["set id"]=654, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=2.5
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11863]={
@@ -1660,7 +2788,13 @@ return {
         ["set id"]=57, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Triple Attack"]=1.5
+            [1]={}, 
+            [2]={
+                ["Triple Attack"]=3
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11864]={
@@ -1671,7 +2805,13 @@ return {
         ["set id"]=150, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=2
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11865]={
@@ -1682,7 +2822,13 @@ return {
         ["set id"]=278, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11866]={
@@ -1693,7 +2839,13 @@ return {
         ["set id"]=57, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Triple Attack"]=1.5
+            [1]={}, 
+            [2]={
+                ["Triple Attack"]=3
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11867]={
@@ -1704,7 +2856,13 @@ return {
         ["set id"]=150, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=2
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11868]={
@@ -1715,7 +2873,13 @@ return {
         ["set id"]=278, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11869]={
@@ -1726,7 +2890,13 @@ return {
         ["set id"]=57, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Triple Attack"]=1.5
+            [1]={}, 
+            [2]={
+                ["Triple Attack"]=3
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11870]={
@@ -1737,7 +2907,13 @@ return {
         ["set id"]=150, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=2
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11871]={
@@ -1748,7 +2924,13 @@ return {
         ["set id"]=278, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=4
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [11969]={
@@ -1758,7 +2940,21 @@ return {
         ["id"]=11969, 
         ["set id"]=247, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=1
+            }, 
+            [4]={
+                ["Refresh"]=2
+            }, 
+            [5]={
+                ["Refresh"]=2
+            }
+        }
     }, 
     [11970]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -1768,7 +2964,19 @@ return {
         ["set id"]=375, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=1
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=6
+            }
         }
     }, 
     [11971]={
@@ -1779,7 +2987,19 @@ return {
         ["set id"]=27, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=4
+            }, 
+            [4]={
+                ["Fast Cast"]=10
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [11980]={
@@ -1790,7 +3010,13 @@ return {
         ["set id"]=22, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=6
+            }
         }
     }, 
     [11981]={
@@ -1801,7 +3027,13 @@ return {
         ["set id"]=63, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [11982]={
@@ -1812,7 +3044,13 @@ return {
         ["set id"]=164, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Accuracy"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Accuracy"]=5
+            }
         }
     }, 
     [12745]={
@@ -1823,7 +3061,13 @@ return {
         ["set id"]=17, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [12746]={
@@ -1834,7 +3078,13 @@ return {
         ["set id"]=97, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Store TP"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [12747]={
@@ -1844,7 +3094,13 @@ return {
         ["id"]=12747, 
         ["set id"]=4, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [12999]={
         ["Set Bonus"]="HP+90", 
@@ -1854,7 +3110,13 @@ return {
         ["set id"]=419, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["HP"]=90
+            [1]={}, 
+            [2]={
+                ["HP"]=90
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [13000]={
@@ -1865,7 +3127,13 @@ return {
         ["set id"]=547, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2.5
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [13146]={
@@ -1876,7 +3144,13 @@ return {
         ["set id"]=33, 
         ["minimum peices"]=3, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={
+                ["Haste"]=6
+            }, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [13619]={
@@ -1887,7 +3161,13 @@ return {
         ["set id"]=33, 
         ["minimum peices"]=3, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={
+                ["Haste"]=6
+            }, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [13759]={
@@ -1898,7 +3178,13 @@ return {
         ["set id"]=17, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [13760]={
@@ -1909,7 +3195,13 @@ return {
         ["set id"]=97, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Store TP"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [13778]={
@@ -1919,7 +3211,13 @@ return {
         ["id"]=13778, 
         ["set id"]=4, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14041]={
         ["Set Bonus"]="HP+90", 
@@ -1929,7 +3227,13 @@ return {
         ["set id"]=419, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["HP"]=90
+            [1]={}, 
+            [2]={
+                ["HP"]=90
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [14042]={
@@ -1940,7 +3244,13 @@ return {
         ["set id"]=547, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2.5
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [14085]={
@@ -1951,7 +3261,13 @@ return {
         ["set id"]=160, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency"]=5
+            [1]={}, 
+            [2]={
+                ["Cure potency"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [14210]={
@@ -1962,7 +3278,13 @@ return {
         ["set id"]=17, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [14257]={
@@ -1973,7 +3295,13 @@ return {
         ["set id"]=97, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Store TP"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [14258]={
@@ -1983,7 +3311,13 @@ return {
         ["id"]=14258, 
         ["set id"]=4, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14525]={
         ["Set Bonus"]="Reduces magic and breath damage", 
@@ -1992,7 +3326,13 @@ return {
         ["id"]=14525, 
         ["set id"]=123, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14527]={
         ["Set Bonus"]="Adds \"Refresh\" effect", 
@@ -2001,7 +3341,13 @@ return {
         ["id"]=14527, 
         ["set id"]=116, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14530]={
         ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
@@ -2011,7 +3357,13 @@ return {
         ["set id"]=20, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Subtle Blow"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Subtle Blow"]=8
+            }
         }
     }, 
     [14546]={
@@ -2021,7 +3373,13 @@ return {
         ["id"]=14546, 
         ["set id"]=21, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14550]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -2029,9 +3387,15 @@ return {
         ["enl"]="Skadi's cuirie", 
         ["id"]=14550, 
         ["set id"]=131, 
-        ["minimum peices"]=5, 
+        ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [14554]={
@@ -2042,7 +3406,13 @@ return {
         ["set id"]=29, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [14558]={
@@ -2053,7 +3423,13 @@ return {
         ["set id"]=128, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Fast Cast"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Fast Cast"]=5
+            }
         }
     }, 
     [14562]={
@@ -2064,7 +3440,13 @@ return {
         ["set id"]=23, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Atk. Bonus"]=5
+            }
         }
     }, 
     [14568]={
@@ -2074,7 +3456,13 @@ return {
         ["id"]=14568, 
         ["set id"]=168, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14569]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -2083,7 +3471,13 @@ return {
         ["id"]=14569, 
         ["set id"]=296, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14570]={
         ["Set Bonus"]="\"Magic Def. Bonus\"", 
@@ -2092,7 +3486,13 @@ return {
         ["id"]=14570, 
         ["set id"]=24, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14581]={
         ["Set Bonus"]="Increases Accuracy and Attack", 
@@ -2101,7 +3501,13 @@ return {
         ["id"]=14581, 
         ["set id"]=5, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14582]={
         ["Set Bonus"]="Increases HP", 
@@ -2110,7 +3516,13 @@ return {
         ["id"]=14582, 
         ["set id"]=85, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14583]={
         ["Set Bonus"]="Increases MP", 
@@ -2119,7 +3531,13 @@ return {
         ["id"]=14583, 
         ["set id"]=194, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14588]={
         ["Set Bonus"]="Increases all elemental resistances", 
@@ -2128,7 +3546,13 @@ return {
         ["id"]=14588, 
         ["set id"]=173, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14589]={
         ["Set Bonus"]="Increases Attack", 
@@ -2137,7 +3561,13 @@ return {
         ["id"]=14589, 
         ["set id"]=61, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14590]={
         ["Set Bonus"]="Enhances \"Counter\" effect", 
@@ -2146,7 +3576,13 @@ return {
         ["id"]=14590, 
         ["set id"]=159, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14591]={
         ["Set Bonus"]="Increases Magic Accuracy", 
@@ -2155,7 +3591,13 @@ return {
         ["id"]=14591, 
         ["set id"]=287, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14933]={
         ["Set Bonus"]="Reduces magic and breath damage", 
@@ -2164,7 +3606,13 @@ return {
         ["id"]=14933, 
         ["set id"]=123, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14935]={
         ["Set Bonus"]="Adds \"Refresh\" effect", 
@@ -2173,7 +3621,13 @@ return {
         ["id"]=14935, 
         ["set id"]=116, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14940]={
         ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
@@ -2183,7 +3637,13 @@ return {
         ["set id"]=20, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Subtle Blow"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Subtle Blow"]=8
+            }
         }
     }, 
     [14961]={
@@ -2193,7 +3653,13 @@ return {
         ["id"]=14961, 
         ["set id"]=21, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14965]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -2201,9 +3667,15 @@ return {
         ["enl"]="Skadi's bazubands", 
         ["id"]=14965, 
         ["set id"]=131, 
-        ["minimum peices"]=5, 
+        ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [14969]={
@@ -2214,7 +3686,13 @@ return {
         ["set id"]=29, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [14973]={
@@ -2225,7 +3703,13 @@ return {
         ["set id"]=128, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Fast Cast"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Fast Cast"]=5
+            }
         }
     }, 
     [14977]={
@@ -2236,7 +3720,13 @@ return {
         ["set id"]=23, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Atk. Bonus"]=5
+            }
         }
     }, 
     [14983]={
@@ -2246,7 +3736,13 @@ return {
         ["id"]=14983, 
         ["set id"]=168, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14984]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -2255,7 +3751,13 @@ return {
         ["id"]=14984, 
         ["set id"]=296, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14985]={
         ["Set Bonus"]="\"Magic Def. Bonus\"", 
@@ -2264,7 +3766,13 @@ return {
         ["id"]=14985, 
         ["set id"]=24, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [14999]={
         ["Set Bonus"]="Enhances effect of \"Drain\" and \"Aspir\"", 
@@ -2273,7 +3781,13 @@ return {
         ["id"]=14999, 
         ["set id"]=669, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15000]={
         ["Set Bonus"]="Increases VIT", 
@@ -2282,7 +3796,13 @@ return {
         ["id"]=15000, 
         ["set id"]=69, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15001]={
         ["Set Bonus"]="Increases pet defense and enmity", 
@@ -2291,7 +3811,13 @@ return {
         ["id"]=15001, 
         ["set id"]=554, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15005]={
         ["Set Bonus"]="Increases Accuracy and Attack", 
@@ -2300,7 +3826,13 @@ return {
         ["id"]=15005, 
         ["set id"]=5, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15006]={
         ["Set Bonus"]="Increases HP", 
@@ -2309,7 +3841,13 @@ return {
         ["id"]=15006, 
         ["set id"]=85, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15007]={
         ["Set Bonus"]="Increases MP", 
@@ -2318,7 +3856,13 @@ return {
         ["id"]=15007, 
         ["set id"]=194, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15009]={
         ["Set Bonus"]="Increases all elemental resistances", 
@@ -2327,7 +3871,13 @@ return {
         ["id"]=15009, 
         ["set id"]=173, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15010]={
         ["Set Bonus"]="Increases Attack", 
@@ -2336,7 +3886,13 @@ return {
         ["id"]=15010, 
         ["set id"]=61, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15011]={
         ["Set Bonus"]="Enhances \"Counter\" effect", 
@@ -2345,7 +3901,13 @@ return {
         ["id"]=15011, 
         ["set id"]=159, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15012]={
         ["Set Bonus"]="Increases Magic Accuracy", 
@@ -2354,7 +3916,13 @@ return {
         ["id"]=15012, 
         ["set id"]=287, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15015]={
         ["Set Bonus"]="Enhances \"Store TP\" effect", 
@@ -2364,7 +3932,17 @@ return {
         ["set id"]=86, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=5
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={
+                ["Store TP"]=10
+            }, 
+            [4]={
+                ["Store TP"]=15
+            }, 
+            [5]={}
         }
     }, 
     [15019]={
@@ -2375,7 +3953,13 @@ return {
         ["set id"]=160, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency"]=5
+            [1]={}, 
+            [2]={
+                ["Cure potency"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15042]={
@@ -2385,7 +3969,13 @@ return {
         ["id"]=15042, 
         ["set id"]=62, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15604]={
         ["Set Bonus"]="Reduces magic and breath damage", 
@@ -2394,7 +3984,13 @@ return {
         ["id"]=15604, 
         ["set id"]=123, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15606]={
         ["Set Bonus"]="Adds \"Refresh\" effect", 
@@ -2403,7 +3999,13 @@ return {
         ["id"]=15606, 
         ["set id"]=116, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15609]={
         ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
@@ -2413,7 +4015,13 @@ return {
         ["set id"]=20, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Subtle Blow"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Subtle Blow"]=8
+            }
         }
     }, 
     [15625]={
@@ -2423,7 +4031,13 @@ return {
         ["id"]=15625, 
         ["set id"]=21, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15629]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -2431,9 +4045,15 @@ return {
         ["enl"]="Skadi's chausses", 
         ["id"]=15629, 
         ["set id"]=131, 
-        ["minimum peices"]=5, 
+        ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [15633]={
@@ -2444,7 +4064,13 @@ return {
         ["set id"]=29, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [15637]={
@@ -2455,7 +4081,13 @@ return {
         ["set id"]=128, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Fast Cast"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Fast Cast"]=5
+            }
         }
     }, 
     [15641]={
@@ -2466,7 +4098,13 @@ return {
         ["set id"]=23, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Atk. Bonus"]=5
+            }
         }
     }, 
     [15647]={
@@ -2476,7 +4114,13 @@ return {
         ["id"]=15647, 
         ["set id"]=168, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15648]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -2485,7 +4129,13 @@ return {
         ["id"]=15648, 
         ["set id"]=296, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15649]={
         ["Set Bonus"]="\"Magic Def. Bonus\"", 
@@ -2494,7 +4144,13 @@ return {
         ["id"]=15649, 
         ["set id"]=24, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15688]={
         ["Set Bonus"]="Reduces magic and breath damage", 
@@ -2503,7 +4159,13 @@ return {
         ["id"]=15688, 
         ["set id"]=123, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15690]={
         ["Set Bonus"]="Adds \"Refresh\" effect", 
@@ -2512,7 +4174,13 @@ return {
         ["id"]=15690, 
         ["set id"]=116, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15695]={
         ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
@@ -2522,7 +4190,13 @@ return {
         ["set id"]=20, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Subtle Blow"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Subtle Blow"]=8
+            }
         }
     }, 
     [15711]={
@@ -2532,7 +4206,13 @@ return {
         ["id"]=15711, 
         ["set id"]=21, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15715]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -2540,9 +4220,15 @@ return {
         ["enl"]="Skadi's jambeaux", 
         ["id"]=15715, 
         ["set id"]=131, 
-        ["minimum peices"]=5, 
+        ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [15719]={
@@ -2553,7 +4239,13 @@ return {
         ["set id"]=29, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [15723]={
@@ -2564,7 +4256,13 @@ return {
         ["set id"]=128, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Fast Cast"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Fast Cast"]=5
+            }
         }
     }, 
     [15727]={
@@ -2575,7 +4273,13 @@ return {
         ["set id"]=23, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Atk. Bonus"]=5
+            }
         }
     }, 
     [15733]={
@@ -2585,7 +4289,13 @@ return {
         ["id"]=15733, 
         ["set id"]=168, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15734]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -2594,7 +4304,13 @@ return {
         ["id"]=15734, 
         ["set id"]=296, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15735]={
         ["Set Bonus"]="\"Magic Def. Bonus\"", 
@@ -2603,7 +4319,13 @@ return {
         ["id"]=15735, 
         ["set id"]=24, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15744]={
         ["Set Bonus"]="Increases Ranged Attack", 
@@ -2612,7 +4334,13 @@ return {
         ["id"]=15744, 
         ["set id"]=682, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15745]={
         ["Set Bonus"]="Enhances effect of \"Drain\" and \"Aspir\"", 
@@ -2621,7 +4349,13 @@ return {
         ["id"]=15745, 
         ["set id"]=669, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15749]={
         ["Set Bonus"]="Increases Accuracy and Attack", 
@@ -2630,7 +4364,13 @@ return {
         ["id"]=15749, 
         ["set id"]=5, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15750]={
         ["Set Bonus"]="Increases HP", 
@@ -2639,7 +4379,13 @@ return {
         ["id"]=15750, 
         ["set id"]=85, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15751]={
         ["Set Bonus"]="Increases MP", 
@@ -2648,7 +4394,13 @@ return {
         ["id"]=15751, 
         ["set id"]=194, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15755]={
         ["Set Bonus"]="Increased resistance against all elements", 
@@ -2657,7 +4409,13 @@ return {
         ["id"]=15755, 
         ["set id"]=252, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15756]={
         ["Set Bonus"]="Increases Attack", 
@@ -2666,7 +4424,13 @@ return {
         ["id"]=15756, 
         ["set id"]=61, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15757]={
         ["Set Bonus"]="Enhances \"Counter\" effect", 
@@ -2675,7 +4439,13 @@ return {
         ["id"]=15757, 
         ["set id"]=159, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15758]={
         ["Set Bonus"]="Increases Magic Accuracy", 
@@ -2684,7 +4454,13 @@ return {
         ["id"]=15758, 
         ["set id"]=287, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15818]={
         ["Set Bonus"]="Increases Accuracy Enhances \"Souleater\" effect", 
@@ -2693,7 +4469,13 @@ return {
         ["id"]=15818, 
         ["set id"]=132, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [15850]={
         ["Set Bonus"]="DEF:+6 Accuracy+12 Attack+6", 
@@ -2703,9 +4485,15 @@ return {
         ["set id"]=136, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DEF"]=3, 
-            ["Accuracy"]=6, 
-            ["Attack"]=3
+            [1]={}, 
+            [2]={
+                ["DEF"]=6, 
+                ["Accuracy"]=12, 
+                ["Attack"]=6
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15851]={
@@ -2716,9 +4504,15 @@ return {
         ["set id"]=136, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DEF"]=3, 
-            ["Accuracy"]=6, 
-            ["Attack"]=3
+            [1]={}, 
+            [2]={
+                ["DEF"]=6, 
+                ["Accuracy"]=12, 
+                ["Attack"]=6
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15852]={
@@ -2729,8 +4523,14 @@ return {
         ["set id"]=392, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["HP"]=25, 
-            ["MP"]=25
+            [1]={}, 
+            [2]={
+                ["HP"]=50, 
+                ["MP"]=50
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15853]={
@@ -2741,8 +4541,14 @@ return {
         ["set id"]=392, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["HP"]=25, 
-            ["MP"]=25
+            [1]={}, 
+            [2]={
+                ["HP"]=50, 
+                ["MP"]=50
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15922]={
@@ -2753,7 +4559,13 @@ return {
         ["set id"]=33, 
         ["minimum peices"]=3, 
         ["bonus"]={
-            ["Haste"]=6
+            [1]={}, 
+            [2]={}, 
+            [3]={
+                ["Haste"]=6
+            }, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15995]={
@@ -2763,7 +4575,13 @@ return {
         ["id"]=15995, 
         ["set id"]=282, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16004]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -2772,7 +4590,13 @@ return {
         ["id"]=16004, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16005]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -2781,7 +4605,13 @@ return {
         ["id"]=16005, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16006]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -2790,7 +4620,13 @@ return {
         ["id"]=16006, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16035]={
         ["Set Bonus"]="AGI+8", 
@@ -2800,7 +4636,13 @@ return {
         ["set id"]=415, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=8
+            [1]={}, 
+            [2]={
+                ["AGI"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [16036]={
@@ -2811,7 +4653,13 @@ return {
         ["set id"]=415, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=8
+            [1]={}, 
+            [2]={
+                ["AGI"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [16037]={
@@ -2822,8 +4670,14 @@ return {
         ["set id"]=543, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=2.5, 
-            ["Magic Atk. Bonus"]=2.5
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5, 
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [16038]={
@@ -2834,8 +4688,14 @@ return {
         ["set id"]=543, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=2.5, 
-            ["Magic Atk. Bonus"]=2.5
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5, 
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [16062]={
@@ -2845,7 +4705,13 @@ return {
         ["id"]=16062, 
         ["set id"]=123, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16064]={
         ["Set Bonus"]="Adds \"Refresh\" effect", 
@@ -2854,7 +4720,13 @@ return {
         ["id"]=16064, 
         ["set id"]=116, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16069]={
         ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
@@ -2864,7 +4736,13 @@ return {
         ["set id"]=20, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Subtle Blow"]=8
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Subtle Blow"]=8
+            }
         }
     }, 
     [16084]={
@@ -2874,7 +4752,13 @@ return {
         ["id"]=16084, 
         ["set id"]=21, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16088]={
         ["Set Bonus"]="Increases rate of critical hits", 
@@ -2882,9 +4766,15 @@ return {
         ["enl"]="Skadi's visor", 
         ["id"]=16088, 
         ["set id"]=131, 
-        ["minimum peices"]=5, 
+        ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical Hit Rate"]=5
+            }
         }
     }, 
     [16092]={
@@ -2895,7 +4785,13 @@ return {
         ["set id"]=29, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Haste"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [16096]={
@@ -2906,7 +4802,13 @@ return {
         ["set id"]=128, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Fast Cast"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Fast Cast"]=5
+            }
         }
     }, 
     [16100]={
@@ -2917,7 +4819,13 @@ return {
         ["set id"]=23, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=5
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Magic Atk. Bonus"]=5
+            }
         }
     }, 
     [16106]={
@@ -2927,7 +4835,13 @@ return {
         ["id"]=16106, 
         ["set id"]=168, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16107]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -2936,7 +4850,13 @@ return {
         ["id"]=16107, 
         ["set id"]=296, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16108]={
         ["Set Bonus"]="\"Magic Def. Bonus\"", 
@@ -2945,7 +4865,13 @@ return {
         ["id"]=16108, 
         ["set id"]=24, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16125]={
         ["Set Bonus"]="Increases pet defense and enmity", 
@@ -2954,7 +4880,13 @@ return {
         ["id"]=16125, 
         ["set id"]=554, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16126]={
         ["Set Bonus"]="Increases Ranged Attack", 
@@ -2963,7 +4895,13 @@ return {
         ["id"]=16126, 
         ["set id"]=682, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16127]={
         ["Set Bonus"]="Increases CHR", 
@@ -2972,7 +4910,13 @@ return {
         ["id"]=16127, 
         ["set id"]=282, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16141]={
         ["Set Bonus"]="Increases Accuracy and Attack", 
@@ -2981,7 +4925,13 @@ return {
         ["id"]=16141, 
         ["set id"]=5, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16142]={
         ["Set Bonus"]="Increases HP", 
@@ -2990,7 +4940,13 @@ return {
         ["id"]=16142, 
         ["set id"]=85, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16143]={
         ["Set Bonus"]="Increases MP", 
@@ -2999,7 +4955,13 @@ return {
         ["id"]=16143, 
         ["set id"]=194, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16146]={
         ["Set Bonus"]="Increases all elemental resistances", 
@@ -3008,7 +4970,13 @@ return {
         ["id"]=16146, 
         ["set id"]=173, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16147]={
         ["Set Bonus"]="Increases Attack", 
@@ -3017,7 +4985,13 @@ return {
         ["id"]=16147, 
         ["set id"]=61, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16148]={
         ["Set Bonus"]="Enhances \"Counter\" effect", 
@@ -3026,7 +5000,13 @@ return {
         ["id"]=16148, 
         ["set id"]=159, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16149]={
         ["Set Bonus"]="Increases Magic Accuracy", 
@@ -3035,7 +5015,13 @@ return {
         ["id"]=16149, 
         ["set id"]=287, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16169]={
         ["Set Bonus"]="Increases VIT", 
@@ -3044,7 +5030,13 @@ return {
         ["id"]=16169, 
         ["set id"]=69, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16312]={
         ["Set Bonus"]="Increases Accuracy and Attack", 
@@ -3053,7 +5045,13 @@ return {
         ["id"]=16312, 
         ["set id"]=5, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16313]={
         ["Set Bonus"]="Increases HP", 
@@ -3062,7 +5060,13 @@ return {
         ["id"]=16313, 
         ["set id"]=85, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16314]={
         ["Set Bonus"]="Increases MP", 
@@ -3071,7 +5075,13 @@ return {
         ["id"]=16314, 
         ["set id"]=194, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16315]={
         ["Set Bonus"]="Increased resistance against all elements", 
@@ -3080,7 +5090,13 @@ return {
         ["id"]=16315, 
         ["set id"]=252, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16316]={
         ["Set Bonus"]="Increases Attack", 
@@ -3089,7 +5105,13 @@ return {
         ["id"]=16316, 
         ["set id"]=61, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16317]={
         ["Set Bonus"]="Enhances \"Counter\" effect", 
@@ -3098,7 +5120,13 @@ return {
         ["id"]=16317, 
         ["set id"]=159, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16318]={
         ["Set Bonus"]="Increases Magic Accuracy", 
@@ -3107,7 +5135,13 @@ return {
         ["id"]=16318, 
         ["set id"]=287, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [16337]={
         ["Set Bonus"]="Enhances \"Store TP\" effect", 
@@ -3117,7 +5151,17 @@ return {
         ["set id"]=86, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=5
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={
+                ["Store TP"]=10
+            }, 
+            [4]={
+                ["Store TP"]=15
+            }, 
+            [5]={}
         }
     }, 
     [17756]={
@@ -3127,7 +5171,13 @@ return {
         ["id"]=17756, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [17757]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3136,7 +5186,13 @@ return {
         ["id"]=17757, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [17962]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3145,7 +5201,13 @@ return {
         ["id"]=17962, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18128]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3154,7 +5216,13 @@ return {
         ["id"]=18128, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18449]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3163,7 +5231,13 @@ return {
         ["id"]=18449, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18450]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3172,7 +5246,13 @@ return {
         ["id"]=18450, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18499]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3181,7 +5261,13 @@ return {
         ["id"]=18499, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18500]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3190,7 +5276,13 @@ return {
         ["id"]=18500, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18596]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3199,7 +5291,13 @@ return {
         ["id"]=18596, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18597]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3208,7 +5306,13 @@ return {
         ["id"]=18597, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18760]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3217,7 +5321,13 @@ return {
         ["id"]=18760, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18761]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3226,7 +5336,13 @@ return {
         ["id"]=18761, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18861]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3235,7 +5351,13 @@ return {
         ["id"]=18861, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18862]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3244,7 +5366,13 @@ return {
         ["id"]=18862, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18947]={
         ["Set Bonus"]="Increases Accuracy Enhances \"Souleater\" effect", 
@@ -3253,7 +5381,13 @@ return {
         ["id"]=18947, 
         ["set id"]=132, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18951]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3262,7 +5396,13 @@ return {
         ["id"]=18951, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [18952]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3271,7 +5411,13 @@ return {
         ["id"]=18952, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19111]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3280,7 +5426,13 @@ return {
         ["id"]=19111, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19112]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3289,7 +5441,13 @@ return {
         ["id"]=19112, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19156]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3298,7 +5456,13 @@ return {
         ["id"]=19156, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19215]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3307,7 +5471,13 @@ return {
         ["id"]=19215, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19217]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3316,7 +5486,13 @@ return {
         ["id"]=19217, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19218]={
         ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
@@ -3325,7 +5501,13 @@ return {
         ["id"]=19218, 
         ["set id"]=411, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19271]={
         ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
@@ -3334,7 +5516,13 @@ return {
         ["id"]=19271, 
         ["set id"]=918, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [19272]={
         ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
@@ -3343,7 +5531,13 @@ return {
         ["id"]=19272, 
         ["set id"]=463, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [23040]={
         ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
@@ -3353,9 +5547,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23041]={
@@ -3366,9 +5578,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23042]={
@@ -3379,9 +5609,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23043]={
@@ -3392,9 +5640,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23044]={
@@ -3405,9 +5671,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23045]={
@@ -3418,9 +5702,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23046]={
@@ -3431,9 +5733,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23047]={
@@ -3444,9 +5764,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23048]={
@@ -3457,9 +5795,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23049]={
@@ -3470,9 +5826,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23050]={
@@ -3483,9 +5857,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23051]={
@@ -3496,9 +5888,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23052]={
@@ -3509,9 +5919,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23053]={
@@ -3522,9 +5950,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23055]={
@@ -3535,9 +5981,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23056]={
@@ -3548,9 +6012,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23057]={
@@ -3561,9 +6043,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23058]={
@@ -3574,9 +6074,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23059]={
@@ -3587,9 +6105,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23060]={
@@ -3600,9 +6136,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23061]={
@@ -3613,9 +6167,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23062]={
@@ -3626,9 +6198,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23107]={
@@ -3639,9 +6229,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23108]={
@@ -3652,9 +6260,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23109]={
@@ -3665,9 +6291,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23110]={
@@ -3678,9 +6322,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23111]={
@@ -3691,9 +6353,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23112]={
@@ -3704,9 +6384,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23113]={
@@ -3717,9 +6415,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23114]={
@@ -3730,9 +6446,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23115]={
@@ -3743,9 +6477,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23116]={
@@ -3756,9 +6508,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23117]={
@@ -3769,9 +6539,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23118]={
@@ -3782,9 +6570,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23119]={
@@ -3795,9 +6601,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23120]={
@@ -3808,22 +6632,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
-        }
-    }, 
-    [23121]={
-        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-        ["en"]="Con. Doublet +2", 
-        ["enl"]="convoker's doublet +2", 
-        ["id"]=23121, 
-        ["set id"]=432, 
-        ["minimum peices"]=2, 
-        ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23122]={
@@ -3834,9 +6663,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23123]={
@@ -3847,9 +6694,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23124]={
@@ -3860,9 +6725,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23125]={
@@ -3873,9 +6756,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23126]={
@@ -3886,9 +6787,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23127]={
@@ -3899,9 +6818,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23128]={
@@ -3912,9 +6849,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23129]={
@@ -3925,9 +6880,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23174]={
@@ -3938,9 +6911,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23175]={
@@ -3951,9 +6942,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23176]={
@@ -3964,9 +6973,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23177]={
@@ -3977,9 +7004,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23178]={
@@ -3990,9 +7035,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23179]={
@@ -4003,9 +7066,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23180]={
@@ -4016,9 +7097,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23181]={
@@ -4029,9 +7128,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23182]={
@@ -4042,9 +7159,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23183]={
@@ -4055,9 +7190,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23184]={
@@ -4068,9 +7221,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23185]={
@@ -4081,9 +7252,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23186]={
@@ -4094,9 +7283,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23187]={
@@ -4107,9 +7314,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23189]={
@@ -4120,9 +7345,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23190]={
@@ -4133,9 +7376,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23191]={
@@ -4146,9 +7407,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23192]={
@@ -4159,9 +7438,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23193]={
@@ -4172,9 +7469,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23194]={
@@ -4185,9 +7500,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23195]={
@@ -4198,9 +7531,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23196]={
@@ -4211,9 +7562,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23241]={
@@ -4224,9 +7593,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23242]={
@@ -4237,9 +7624,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23243]={
@@ -4250,9 +7655,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23244]={
@@ -4263,9 +7686,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23245]={
@@ -4276,9 +7717,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23246]={
@@ -4289,9 +7748,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23247]={
@@ -4302,9 +7779,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23248]={
@@ -4315,9 +7810,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23249]={
@@ -4328,9 +7841,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23250]={
@@ -4341,9 +7872,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23251]={
@@ -4354,9 +7903,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23252]={
@@ -4367,9 +7934,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23253]={
@@ -4380,9 +7965,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23254]={
@@ -4393,9 +7996,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23256]={
@@ -4406,9 +8027,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23257]={
@@ -4419,9 +8058,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23258]={
@@ -4432,9 +8089,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23259]={
@@ -4445,9 +8120,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23260]={
@@ -4458,9 +8151,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23261]={
@@ -4471,9 +8182,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23262]={
@@ -4484,9 +8213,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23263]={
@@ -4497,9 +8244,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23308]={
@@ -4510,9 +8275,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23309]={
@@ -4523,9 +8306,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23310]={
@@ -4536,9 +8337,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23311]={
@@ -4549,9 +8368,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23312]={
@@ -4562,9 +8399,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23313]={
@@ -4575,9 +8430,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23314]={
@@ -4588,9 +8461,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23315]={
@@ -4601,9 +8492,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23316]={
@@ -4614,9 +8523,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23317]={
@@ -4627,9 +8554,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23318]={
@@ -4640,9 +8585,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23319]={
@@ -4653,9 +8616,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23320]={
@@ -4666,9 +8647,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23321]={
@@ -4679,9 +8678,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23323]={
@@ -4692,9 +8709,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23324]={
@@ -4705,9 +8740,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23325]={
@@ -4718,9 +8771,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23326]={
@@ -4731,9 +8802,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23327]={
@@ -4744,9 +8833,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23328]={
@@ -4757,9 +8864,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23329]={
@@ -4770,9 +8895,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23330]={
@@ -4783,9 +8926,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23375]={
@@ -4796,9 +8957,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23376]={
@@ -4809,9 +8988,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23377]={
@@ -4822,9 +9019,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23378]={
@@ -4835,9 +9050,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23379]={
@@ -4848,9 +9081,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23380]={
@@ -4861,9 +9112,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23381]={
@@ -4874,9 +9143,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23382]={
@@ -4887,9 +9174,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23383]={
@@ -4900,9 +9205,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23384]={
@@ -4913,9 +9236,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23385]={
@@ -4926,9 +9267,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23386]={
@@ -4939,9 +9298,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23387]={
@@ -4952,9 +9329,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23388]={
@@ -4965,9 +9360,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23390]={
@@ -4978,9 +9391,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23391]={
@@ -4991,9 +9422,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23392]={
@@ -5004,9 +9453,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23393]={
@@ -5017,9 +9484,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23394]={
@@ -5030,9 +9515,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23395]={
@@ -5043,9 +9546,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23396]={
@@ -5056,9 +9577,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23397]={
@@ -5069,9 +9608,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23442]={
@@ -5082,9 +9639,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23443]={
@@ -5095,9 +9670,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23444]={
@@ -5108,9 +9701,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23445]={
@@ -5121,9 +9732,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23446]={
@@ -5134,9 +9763,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23447]={
@@ -5147,9 +9794,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23448]={
@@ -5160,9 +9825,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23449]={
@@ -5173,9 +9856,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23450]={
@@ -5186,9 +9887,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23451]={
@@ -5199,9 +9918,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23452]={
@@ -5212,9 +9949,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23453]={
@@ -5225,9 +9980,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23454]={
@@ -5238,9 +10011,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23455]={
@@ -5251,9 +10042,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23457]={
@@ -5264,9 +10073,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23458]={
@@ -5277,9 +10104,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23459]={
@@ -5290,9 +10135,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23460]={
@@ -5303,9 +10166,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23461]={
@@ -5316,9 +10197,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23462]={
@@ -5329,9 +10228,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23463]={
@@ -5342,9 +10259,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23464]={
@@ -5355,9 +10290,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23509]={
@@ -5368,9 +10321,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23510]={
@@ -5381,9 +10352,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23511]={
@@ -5394,9 +10383,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23512]={
@@ -5407,9 +10414,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23513]={
@@ -5420,9 +10445,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23514]={
@@ -5433,9 +10476,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23515]={
@@ -5446,9 +10507,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23516]={
@@ -5459,9 +10538,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23517]={
@@ -5472,9 +10569,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23518]={
@@ -5485,9 +10600,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23519]={
@@ -5498,9 +10631,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23520]={
@@ -5511,9 +10662,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23521]={
@@ -5524,9 +10693,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23522]={
@@ -5537,9 +10724,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23524]={
@@ -5550,9 +10755,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23525]={
@@ -5563,9 +10786,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23526]={
@@ -5576,9 +10817,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23527]={
@@ -5589,9 +10848,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23528]={
@@ -5602,9 +10879,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23529]={
@@ -5615,9 +10910,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23530]={
@@ -5628,9 +10941,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23531]={
@@ -5641,9 +10972,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23576]={
@@ -5654,9 +11003,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23577]={
@@ -5667,9 +11034,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23578]={
@@ -5680,9 +11065,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23579]={
@@ -5693,9 +11096,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23580]={
@@ -5706,9 +11127,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23581]={
@@ -5719,9 +11158,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23582]={
@@ -5732,9 +11189,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23583]={
@@ -5745,9 +11220,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23584]={
@@ -5758,9 +11251,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23585]={
@@ -5771,9 +11282,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23586]={
@@ -5784,9 +11313,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23587]={
@@ -5797,9 +11344,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23588]={
@@ -5810,9 +11375,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23589]={
@@ -5823,9 +11406,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23591]={
@@ -5836,9 +11437,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23592]={
@@ -5849,9 +11468,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23593]={
@@ -5862,9 +11499,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23594]={
@@ -5875,9 +11530,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23595]={
@@ -5888,9 +11561,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23596]={
@@ -5901,9 +11592,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23597]={
@@ -5914,9 +11623,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23598]={
@@ -5927,9 +11654,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23643]={
@@ -5940,9 +11685,27 @@ return {
         ["set id"]=91, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23644]={
@@ -5953,9 +11716,27 @@ return {
         ["set id"]=9, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23645]={
@@ -5966,9 +11747,27 @@ return {
         ["set id"]=49, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23646]={
@@ -5979,9 +11778,27 @@ return {
         ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23647]={
@@ -5992,9 +11809,27 @@ return {
         ["set id"]=7, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23648]={
@@ -6005,9 +11840,27 @@ return {
         ["set id"]=47, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23649]={
@@ -6018,9 +11871,27 @@ return {
         ["set id"]=87, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23650]={
@@ -6031,9 +11902,27 @@ return {
         ["set id"]=6, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23651]={
@@ -6044,9 +11933,27 @@ return {
         ["set id"]=46, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23652]={
@@ -6057,9 +11964,27 @@ return {
         ["set id"]=112, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23653]={
@@ -6070,9 +11995,27 @@ return {
         ["set id"]=133, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23654]={
@@ -6083,9 +12026,27 @@ return {
         ["set id"]=45, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23655]={
@@ -6096,9 +12057,27 @@ return {
         ["set id"]=84, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23656]={
@@ -6109,9 +12088,27 @@ return {
         ["set id"]=129, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23658]={
@@ -6122,9 +12119,27 @@ return {
         ["set id"]=53, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23659]={
@@ -6135,9 +12150,27 @@ return {
         ["set id"]=92, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23660]={
@@ -6148,9 +12181,27 @@ return {
         ["set id"]=10, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23661]={
@@ -6161,9 +12212,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23662]={
@@ -6174,9 +12243,27 @@ return {
         ["set id"]=50, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23663]={
@@ -6187,9 +12274,27 @@ return {
         ["set id"]=8, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23664]={
@@ -6200,9 +12305,27 @@ return {
         ["set id"]=48, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [23665]={
@@ -6213,9 +12336,27 @@ return {
         ["set id"]=88, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [25569]={
@@ -6226,9 +12367,27 @@ return {
         ["set id"]=218, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["STR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25570]={
@@ -6239,9 +12398,27 @@ return {
         ["set id"]=477, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=4, 
-            ["CHR"]=4, 
-            ["DEX"]=4
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
+            }
         }
     }, 
     [25571]={
@@ -6252,9 +12429,27 @@ return {
         ["set id"]=15, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["INT"]=4, 
-            ["MND"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25572]={
@@ -6265,9 +12460,27 @@ return {
         ["set id"]=96, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MND"]=4, 
-            ["STR"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25573]={
@@ -6278,9 +12491,27 @@ return {
         ["set id"]=154, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["CHR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25574]={
@@ -6291,7 +12522,19 @@ return {
         ["set id"]=161, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Subtle Blow"]=5
+            [1]={}, 
+            [2]={
+                ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
+            }
         }
     }, 
     [25575]={
@@ -6302,7 +12545,19 @@ return {
         ["set id"]=59, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Regen"]=2
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
+            }
         }
     }, 
     [25576]={
@@ -6313,7 +12568,19 @@ return {
         ["set id"]=281, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Counter"]=4
+            [1]={}, 
+            [2]={
+                ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
+            }
         }
     }, 
     [25577]={
@@ -6324,7 +12591,19 @@ return {
         ["set id"]=16, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
+            }
         }
     }, 
     [25578]={
@@ -6335,7 +12614,19 @@ return {
         ["set id"]=138, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=1
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
+            }
         }
     }, 
     [25610]={
@@ -6346,7 +12637,19 @@ return {
         ["set id"]=241, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [25612]={
@@ -6357,7 +12660,19 @@ return {
         ["set id"]=239, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Attack"]=10
+            [1]={}, 
+            [2]={
+                ["Attack"]=20
+            }, 
+            [3]={
+                ["Attack"]=30
+            }, 
+            [4]={
+                ["Attack"]=40
+            }, 
+            [5]={
+                ["Attack"]=50
+            }
         }
     }, 
     [25614]={
@@ -6368,7 +12683,19 @@ return {
         ["set id"]=11, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=6
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=8
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=10
+            }
         }
     }, 
     [25616]={
@@ -6379,7 +12706,19 @@ return {
         ["set id"]=235, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=10
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=20
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=30
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=40
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=50
+            }
         }
     }, 
     [25618]={
@@ -6390,7 +12729,19 @@ return {
         ["set id"]=233, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency II"]=2
+            [1]={}, 
+            [2]={
+                ["Cure potency II"]=4
+            }, 
+            [3]={
+                ["Cure potency II"]=6
+            }, 
+            [4]={
+                ["Cure potency II"]=8
+            }, 
+            [5]={
+                ["Cure potency II"]=10
+            }
         }
     }, 
     [25683]={
@@ -6401,7 +12752,19 @@ return {
         ["set id"]=241, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [25685]={
@@ -6412,7 +12775,19 @@ return {
         ["set id"]=239, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Attack"]=10
+            [1]={}, 
+            [2]={
+                ["Attack"]=20
+            }, 
+            [3]={
+                ["Attack"]=30
+            }, 
+            [4]={
+                ["Attack"]=40
+            }, 
+            [5]={
+                ["Attack"]=50
+            }
         }
     }, 
     [25687]={
@@ -6423,7 +12798,19 @@ return {
         ["set id"]=11, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=6
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=8
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=10
+            }
         }
     }, 
     [25689]={
@@ -6434,7 +12821,19 @@ return {
         ["set id"]=235, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=10
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=20
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=30
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=40
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=50
+            }
         }
     }, 
     [25691]={
@@ -6445,7 +12844,19 @@ return {
         ["set id"]=233, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency II"]=2
+            [1]={}, 
+            [2]={
+                ["Cure potency II"]=4
+            }, 
+            [3]={
+                ["Cure potency II"]=6
+            }, 
+            [4]={
+                ["Cure potency II"]=8
+            }, 
+            [5]={
+                ["Cure potency II"]=10
+            }
         }
     }, 
     [25790]={
@@ -6456,7 +12867,19 @@ return {
         ["set id"]=161, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Subtle Blow"]=5
+            [1]={}, 
+            [2]={
+                ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
+            }
         }
     }, 
     [25791]={
@@ -6467,7 +12890,19 @@ return {
         ["set id"]=59, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Regen"]=2
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
+            }
         }
     }, 
     [25792]={
@@ -6478,7 +12913,19 @@ return {
         ["set id"]=281, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Counter"]=4
+            [1]={}, 
+            [2]={
+                ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
+            }
         }
     }, 
     [25793]={
@@ -6489,7 +12936,19 @@ return {
         ["set id"]=16, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
+            }
         }
     }, 
     [25794]={
@@ -6500,7 +12959,19 @@ return {
         ["set id"]=138, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=1
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
+            }
         }
     }, 
     [25795]={
@@ -6511,9 +12982,27 @@ return {
         ["set id"]=96, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MND"]=4, 
-            ["STR"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25796]={
@@ -6524,9 +13013,27 @@ return {
         ["set id"]=154, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["CHR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25797]={
@@ -6537,9 +13044,27 @@ return {
         ["set id"]=218, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["STR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25798]={
@@ -6550,9 +13075,27 @@ return {
         ["set id"]=477, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=4, 
-            ["CHR"]=4, 
-            ["DEX"]=4
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
+            }
         }
     }, 
     [25799]={
@@ -6563,9 +13106,27 @@ return {
         ["set id"]=15, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["INT"]=4, 
-            ["MND"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25828]={
@@ -6576,7 +13137,19 @@ return {
         ["set id"]=161, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Subtle Blow"]=5
+            [1]={}, 
+            [2]={
+                ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
+            }
         }
     }, 
     [25829]={
@@ -6587,7 +13160,19 @@ return {
         ["set id"]=59, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Regen"]=2
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
+            }
         }
     }, 
     [25830]={
@@ -6598,7 +13183,19 @@ return {
         ["set id"]=281, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Counter"]=4
+            [1]={}, 
+            [2]={
+                ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
+            }
         }
     }, 
     [25831]={
@@ -6609,7 +13206,19 @@ return {
         ["set id"]=16, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
+            }
         }
     }, 
     [25832]={
@@ -6620,7 +13229,19 @@ return {
         ["set id"]=138, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=1
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
+            }
         }
     }, 
     [25833]={
@@ -6631,9 +13252,27 @@ return {
         ["set id"]=96, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MND"]=4, 
-            ["STR"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25834]={
@@ -6644,9 +13283,27 @@ return {
         ["set id"]=154, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["CHR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25835]={
@@ -6657,9 +13314,27 @@ return {
         ["set id"]=218, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["STR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25836]={
@@ -6670,9 +13345,27 @@ return {
         ["set id"]=477, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=4, 
-            ["CHR"]=4, 
-            ["DEX"]=4
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
+            }
         }
     }, 
     [25837]={
@@ -6683,9 +13376,27 @@ return {
         ["set id"]=15, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["INT"]=4, 
-            ["MND"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25879]={
@@ -6696,7 +13407,19 @@ return {
         ["set id"]=161, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Subtle Blow"]=5
+            [1]={}, 
+            [2]={
+                ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
+            }
         }
     }, 
     [25880]={
@@ -6707,7 +13430,19 @@ return {
         ["set id"]=59, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Regen"]=2
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
+            }
         }
     }, 
     [25881]={
@@ -6718,7 +13453,19 @@ return {
         ["set id"]=281, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Counter"]=4
+            [1]={}, 
+            [2]={
+                ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
+            }
         }
     }, 
     [25882]={
@@ -6729,7 +13476,19 @@ return {
         ["set id"]=16, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
+            }
         }
     }, 
     [25883]={
@@ -6740,7 +13499,19 @@ return {
         ["set id"]=138, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=1
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
+            }
         }
     }, 
     [25884]={
@@ -6751,9 +13522,27 @@ return {
         ["set id"]=96, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MND"]=4, 
-            ["STR"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25885]={
@@ -6764,9 +13553,27 @@ return {
         ["set id"]=154, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["CHR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25886]={
@@ -6777,9 +13584,27 @@ return {
         ["set id"]=218, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["STR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25887]={
@@ -6790,9 +13615,27 @@ return {
         ["set id"]=477, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=4, 
-            ["CHR"]=4, 
-            ["DEX"]=4
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
+            }
         }
     }, 
     [25888]={
@@ -6803,9 +13646,27 @@ return {
         ["set id"]=15, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["INT"]=4, 
-            ["MND"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25946]={
@@ -6816,7 +13677,19 @@ return {
         ["set id"]=161, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Subtle Blow"]=5
+            [1]={}, 
+            [2]={
+                ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
+            }
         }
     }, 
     [25947]={
@@ -6827,7 +13700,19 @@ return {
         ["set id"]=59, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Regen"]=2
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
+            }
         }
     }, 
     [25948]={
@@ -6838,7 +13723,19 @@ return {
         ["set id"]=281, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Counter"]=4
+            [1]={}, 
+            [2]={
+                ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
+            }
         }
     }, 
     [25949]={
@@ -6849,7 +13746,19 @@ return {
         ["set id"]=16, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
+            }
         }
     }, 
     [25950]={
@@ -6860,7 +13769,19 @@ return {
         ["set id"]=138, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=1
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
+            }
         }
     }, 
     [25951]={
@@ -6871,9 +13792,27 @@ return {
         ["set id"]=96, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MND"]=4, 
-            ["STR"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25952]={
@@ -6884,9 +13823,27 @@ return {
         ["set id"]=154, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["CHR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25953]={
@@ -6897,9 +13854,27 @@ return {
         ["set id"]=218, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["STR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [25954]={
@@ -6910,9 +13885,27 @@ return {
         ["set id"]=477, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=4, 
-            ["CHR"]=4, 
-            ["DEX"]=4
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
+            }
         }
     }, 
     [25955]={
@@ -6923,9 +13916,27 @@ return {
         ["set id"]=15, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["INT"]=4, 
-            ["MND"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [26085]={
@@ -6933,12 +13944,30 @@ return {
         ["en"]="Regal Earring", 
         ["enl"]="regal earring", 
         ["id"]=26085, 
-        ["set id"]=726, 
+        ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [26191]={
@@ -6946,12 +13975,30 @@ return {
         ["en"]="Regal Ring", 
         ["enl"]="regal ring", 
         ["id"]=26191, 
-        ["set id"]=726, 
+        ["set id"]=89, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=15, 
-            ["Ranged Accuracy"]=15, 
-            ["Magic Accuracy"]=15
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
+                ["Ranged Accuracy"]=15, 
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
         }
     }, 
     [26204]={
@@ -6962,7 +14009,19 @@ return {
         ["set id"]=161, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Subtle Blow"]=5
+            [1]={}, 
+            [2]={
+                ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
+            }
         }
     }, 
     [26205]={
@@ -6973,7 +14032,19 @@ return {
         ["set id"]=59, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Regen"]=2
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
+            }
         }
     }, 
     [26206]={
@@ -6984,7 +14055,19 @@ return {
         ["set id"]=281, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Counter"]=4
+            [1]={}, 
+            [2]={
+                ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
+            }
         }
     }, 
     [26207]={
@@ -6995,7 +14078,19 @@ return {
         ["set id"]=16, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Refresh"]=1
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
+            }
         }
     }, 
     [26208]={
@@ -7006,7 +14101,19 @@ return {
         ["set id"]=138, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=1
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
+            }
         }
     }, 
     [26209]={
@@ -7017,9 +14124,27 @@ return {
         ["set id"]=96, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["MND"]=4, 
-            ["STR"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [26210]={
@@ -7030,9 +14155,27 @@ return {
         ["set id"]=154, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["CHR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [26211]={
@@ -7043,9 +14186,27 @@ return {
         ["set id"]=218, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["STR"]=4, 
-            ["DEX"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [26212]={
@@ -7056,9 +14217,27 @@ return {
         ["set id"]=477, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["AGI"]=4, 
-            ["CHR"]=4, 
-            ["DEX"]=4
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
+            }
         }
     }, 
     [26213]={
@@ -7069,9 +14248,27 @@ return {
         ["set id"]=15, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["INT"]=4, 
-            ["MND"]=4, 
-            ["VIT"]=4
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
+            }
         }
     }, 
     [26669]={
@@ -7082,7 +14279,19 @@ return {
         ["set id"]=328, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Weapon Skill Damage"]=2
+            [1]={}, 
+            [2]={
+                ["Weapon Skill Damage"]=4
+            }, 
+            [3]={
+                ["Weapon Skill Damage"]=6
+            }, 
+            [4]={
+                ["Weapon Skill Damage"]=8
+            }, 
+            [5]={
+                ["Weapon Skill Damage"]=10
+            }
         }
     }, 
     [26671]={
@@ -7093,7 +14302,19 @@ return {
         ["set id"]=263, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DT"]=2
+            [1]={}, 
+            [2]={
+                ["DT"]=4
+            }, 
+            [3]={
+                ["DT"]=6
+            }, 
+            [4]={
+                ["DT"]=8
+            }, 
+            [5]={
+                ["DT"]=10
+            }
         }
     }, 
     [26673]={
@@ -7104,7 +14325,19 @@ return {
         ["set id"]=326, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [26675]={
@@ -7115,7 +14348,19 @@ return {
         ["set id"]=144, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Martial Arts"]=4
+            [1]={}, 
+            [2]={
+                ["Martial Arts"]=8
+            }, 
+            [3]={
+                ["Martial Arts"]=12
+            }, 
+            [4]={
+                ["Martial Arts"]=16
+            }, 
+            [5]={
+                ["Martial Arts"]=20
+            }
         }
     }, 
     [26677]={
@@ -7125,7 +14370,13 @@ return {
         ["id"]=26677, 
         ["set id"]=323, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26679]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -7135,7 +14386,19 @@ return {
         ["set id"]=51, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=10
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=20
+            }, 
+            [3]={
+                ["Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=40
+            }, 
+            [5]={
+                ["Accuracy"]=50
+            }
         }
     }, 
     [26711]={
@@ -7146,7 +14409,19 @@ return {
         ["set id"]=52, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=1
+            [1]={}, 
+            [2]={
+                ["Haste"]=2
+            }, 
+            [3]={
+                ["Haste"]=3
+            }, 
+            [4]={
+                ["Haste"]=4
+            }, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [26712]={
@@ -7157,7 +14432,19 @@ return {
         ["set id"]=107, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2
+            [1]={}, 
+            [2]={
+                ["Store TP"]=2
+            }, 
+            [3]={
+                ["Store TP"]=4
+            }, 
+            [4]={
+                ["Store TP"]=6
+            }, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [26713]={
@@ -7168,7 +14455,19 @@ return {
         ["set id"]=118, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=6
+            }, 
+            [4]={
+                ["Fast Cast"]=8
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [26740]={
@@ -7178,7 +14477,13 @@ return {
         ["id"]=26740, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26741]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -7187,7 +14492,13 @@ return {
         ["id"]=26741, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26742]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -7196,7 +14507,13 @@ return {
         ["id"]=26742, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26743]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -7205,7 +14522,13 @@ return {
         ["id"]=26743, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26744]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -7214,7 +14537,13 @@ return {
         ["id"]=26744, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26745]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -7223,7 +14552,13 @@ return {
         ["id"]=26745, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26746]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -7232,7 +14567,13 @@ return {
         ["id"]=26746, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26747]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -7241,7 +14582,13 @@ return {
         ["id"]=26747, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26748]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -7250,7 +14597,13 @@ return {
         ["id"]=26748, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26749]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -7259,7 +14612,13 @@ return {
         ["id"]=26749, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26750]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -7268,7 +14627,13 @@ return {
         ["id"]=26750, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26751]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -7277,7 +14642,13 @@ return {
         ["id"]=26751, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26752]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -7286,7 +14657,13 @@ return {
         ["id"]=26752, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26753]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -7295,7 +14672,13 @@ return {
         ["id"]=26753, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26754]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -7304,7 +14687,13 @@ return {
         ["id"]=26754, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26755]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -7313,7 +14702,13 @@ return {
         ["id"]=26755, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26756]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -7322,7 +14717,13 @@ return {
         ["id"]=26756, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26757]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -7331,7 +14732,13 @@ return {
         ["id"]=26757, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26758]={
         ["Set Bonus"]="Augments songs", 
@@ -7340,7 +14747,13 @@ return {
         ["id"]=26758, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26759]={
         ["Set Bonus"]="Augments songs", 
@@ -7349,7 +14762,13 @@ return {
         ["id"]=26759, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26760]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -7358,7 +14777,13 @@ return {
         ["id"]=26760, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26761]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -7367,7 +14792,13 @@ return {
         ["id"]=26761, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26762]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -7376,7 +14807,13 @@ return {
         ["id"]=26762, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26763]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -7385,7 +14822,13 @@ return {
         ["id"]=26763, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26764]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -7394,7 +14837,13 @@ return {
         ["id"]=26764, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26765]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -7403,7 +14852,13 @@ return {
         ["id"]=26765, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26766]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -7412,7 +14867,13 @@ return {
         ["id"]=26766, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26767]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -7421,7 +14882,13 @@ return {
         ["id"]=26767, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26768]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -7430,7 +14897,13 @@ return {
         ["id"]=26768, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26769]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -7439,7 +14912,13 @@ return {
         ["id"]=26769, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26770]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -7448,7 +14927,13 @@ return {
         ["id"]=26770, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26771]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -7457,7 +14942,13 @@ return {
         ["id"]=26771, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26772]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -7466,7 +14957,13 @@ return {
         ["id"]=26772, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26773]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -7475,7 +14972,13 @@ return {
         ["id"]=26773, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26774]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -7484,7 +14987,13 @@ return {
         ["id"]=26774, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26775]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -7493,7 +15002,13 @@ return {
         ["id"]=26775, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26776]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -7502,7 +15017,13 @@ return {
         ["id"]=26776, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26777]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -7511,7 +15032,13 @@ return {
         ["id"]=26777, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26778]={
         ["Set Bonus"]="Augments grimoire", 
@@ -7520,7 +15047,13 @@ return {
         ["id"]=26778, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26779]={
         ["Set Bonus"]="Augments grimoire", 
@@ -7529,7 +15062,13 @@ return {
         ["id"]=26779, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26780]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -7538,7 +15077,13 @@ return {
         ["id"]=26780, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26781]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -7547,7 +15092,13 @@ return {
         ["id"]=26781, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26782]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -7556,7 +15107,13 @@ return {
         ["id"]=26782, 
         ["set id"]=25, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26783]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -7565,7 +15122,13 @@ return {
         ["id"]=26783, 
         ["set id"]=25, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26845]={
         ["Set Bonus"]="Increases weapon skill damage", 
@@ -7575,7 +15138,19 @@ return {
         ["set id"]=328, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Weapon Skill Damage"]=2
+            [1]={}, 
+            [2]={
+                ["Weapon Skill Damage"]=4
+            }, 
+            [3]={
+                ["Weapon Skill Damage"]=6
+            }, 
+            [4]={
+                ["Weapon Skill Damage"]=8
+            }, 
+            [5]={
+                ["Weapon Skill Damage"]=10
+            }
         }
     }, 
     [26847]={
@@ -7586,7 +15161,19 @@ return {
         ["set id"]=263, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DT"]=2
+            [1]={}, 
+            [2]={
+                ["DT"]=4
+            }, 
+            [3]={
+                ["DT"]=6
+            }, 
+            [4]={
+                ["DT"]=8
+            }, 
+            [5]={
+                ["DT"]=10
+            }
         }
     }, 
     [26849]={
@@ -7597,7 +15184,19 @@ return {
         ["set id"]=326, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [26851]={
@@ -7608,7 +15207,19 @@ return {
         ["set id"]=144, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Martial Arts"]=4
+            [1]={}, 
+            [2]={
+                ["Martial Arts"]=8
+            }, 
+            [3]={
+                ["Martial Arts"]=12
+            }, 
+            [4]={
+                ["Martial Arts"]=16
+            }, 
+            [5]={
+                ["Martial Arts"]=20
+            }
         }
     }, 
     [26853]={
@@ -7618,7 +15229,13 @@ return {
         ["id"]=26853, 
         ["set id"]=323, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26855]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -7628,7 +15245,19 @@ return {
         ["set id"]=51, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=10
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=20
+            }, 
+            [3]={
+                ["Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=40
+            }, 
+            [5]={
+                ["Accuracy"]=50
+            }
         }
     }, 
     [26898]={
@@ -7638,7 +15267,13 @@ return {
         ["id"]=26898, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26899]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -7647,7 +15282,13 @@ return {
         ["id"]=26899, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26900]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -7656,7 +15297,13 @@ return {
         ["id"]=26900, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26901]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -7665,7 +15312,13 @@ return {
         ["id"]=26901, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26902]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -7674,7 +15327,13 @@ return {
         ["id"]=26902, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26903]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -7683,7 +15342,13 @@ return {
         ["id"]=26903, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26904]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -7692,7 +15357,13 @@ return {
         ["id"]=26904, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26905]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -7701,7 +15372,13 @@ return {
         ["id"]=26905, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26906]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -7710,7 +15387,13 @@ return {
         ["id"]=26906, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26907]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -7719,7 +15402,13 @@ return {
         ["id"]=26907, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26908]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -7728,7 +15417,13 @@ return {
         ["id"]=26908, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26909]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -7737,7 +15432,13 @@ return {
         ["id"]=26909, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26910]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -7746,7 +15447,13 @@ return {
         ["id"]=26910, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26911]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -7755,7 +15462,13 @@ return {
         ["id"]=26911, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26912]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -7764,7 +15477,13 @@ return {
         ["id"]=26912, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26913]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -7773,7 +15492,13 @@ return {
         ["id"]=26913, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26914]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -7782,7 +15507,13 @@ return {
         ["id"]=26914, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26915]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -7791,7 +15522,13 @@ return {
         ["id"]=26915, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26916]={
         ["Set Bonus"]="Augments songs", 
@@ -7800,7 +15537,13 @@ return {
         ["id"]=26916, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26917]={
         ["Set Bonus"]="Augments songs", 
@@ -7809,7 +15552,13 @@ return {
         ["id"]=26917, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26918]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -7818,7 +15567,13 @@ return {
         ["id"]=26918, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26919]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -7827,7 +15582,13 @@ return {
         ["id"]=26919, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26920]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -7836,7 +15597,13 @@ return {
         ["id"]=26920, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26921]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -7845,7 +15612,13 @@ return {
         ["id"]=26921, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26922]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -7854,7 +15627,13 @@ return {
         ["id"]=26922, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26923]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -7863,7 +15642,13 @@ return {
         ["id"]=26923, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26924]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -7872,7 +15657,13 @@ return {
         ["id"]=26924, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26925]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -7881,7 +15672,13 @@ return {
         ["id"]=26925, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26926]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -7890,7 +15687,13 @@ return {
         ["id"]=26926, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26927]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -7899,7 +15702,13 @@ return {
         ["id"]=26927, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26928]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -7908,7 +15717,13 @@ return {
         ["id"]=26928, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26929]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -7917,7 +15732,13 @@ return {
         ["id"]=26929, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26930]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -7926,7 +15747,13 @@ return {
         ["id"]=26930, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26931]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -7935,7 +15762,13 @@ return {
         ["id"]=26931, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26932]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -7944,7 +15777,13 @@ return {
         ["id"]=26932, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26933]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -7953,7 +15792,13 @@ return {
         ["id"]=26933, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26934]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -7962,7 +15807,13 @@ return {
         ["id"]=26934, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26935]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -7971,7 +15822,13 @@ return {
         ["id"]=26935, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26936]={
         ["Set Bonus"]="Augments grimoire", 
@@ -7980,7 +15837,13 @@ return {
         ["id"]=26936, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26937]={
         ["Set Bonus"]="Augments grimoire", 
@@ -7989,7 +15852,13 @@ return {
         ["id"]=26937, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26938]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -7998,7 +15867,13 @@ return {
         ["id"]=26938, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26939]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -8007,7 +15882,13 @@ return {
         ["id"]=26939, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26940]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -8016,7 +15897,13 @@ return {
         ["id"]=26940, 
         ["set id"]=25, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [26941]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -8025,7 +15912,13 @@ return {
         ["id"]=26941, 
         ["set id"]=25, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27021]={
         ["Set Bonus"]="Increases weapon skill damage", 
@@ -8035,7 +15928,19 @@ return {
         ["set id"]=328, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Weapon Skill Damage"]=2
+            [1]={}, 
+            [2]={
+                ["Weapon Skill Damage"]=4
+            }, 
+            [3]={
+                ["Weapon Skill Damage"]=6
+            }, 
+            [4]={
+                ["Weapon Skill Damage"]=8
+            }, 
+            [5]={
+                ["Weapon Skill Damage"]=10
+            }
         }
     }, 
     [27023]={
@@ -8046,7 +15951,19 @@ return {
         ["set id"]=263, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DT"]=2
+            [1]={}, 
+            [2]={
+                ["DT"]=4
+            }, 
+            [3]={
+                ["DT"]=6
+            }, 
+            [4]={
+                ["DT"]=8
+            }, 
+            [5]={
+                ["DT"]=10
+            }
         }
     }, 
     [27025]={
@@ -8057,7 +15974,19 @@ return {
         ["set id"]=326, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [27027]={
@@ -8068,7 +15997,19 @@ return {
         ["set id"]=144, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Martial Arts"]=4
+            [1]={}, 
+            [2]={
+                ["Martial Arts"]=8
+            }, 
+            [3]={
+                ["Martial Arts"]=12
+            }, 
+            [4]={
+                ["Martial Arts"]=16
+            }, 
+            [5]={
+                ["Martial Arts"]=20
+            }
         }
     }, 
     [27029]={
@@ -8078,7 +16019,13 @@ return {
         ["id"]=27029, 
         ["set id"]=323, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27031]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -8088,7 +16035,19 @@ return {
         ["set id"]=51, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=10
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=20
+            }, 
+            [3]={
+                ["Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=40
+            }, 
+            [5]={
+                ["Accuracy"]=50
+            }
         }
     }, 
     [27052]={
@@ -8098,7 +16057,13 @@ return {
         ["id"]=27052, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27053]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -8107,7 +16072,13 @@ return {
         ["id"]=27053, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27054]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -8116,7 +16087,13 @@ return {
         ["id"]=27054, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27055]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -8125,7 +16102,13 @@ return {
         ["id"]=27055, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27056]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -8134,7 +16117,13 @@ return {
         ["id"]=27056, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27057]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -8143,7 +16132,13 @@ return {
         ["id"]=27057, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27058]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -8152,7 +16147,13 @@ return {
         ["id"]=27058, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27059]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -8161,7 +16162,13 @@ return {
         ["id"]=27059, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27060]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -8170,7 +16177,13 @@ return {
         ["id"]=27060, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27061]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -8179,7 +16192,13 @@ return {
         ["id"]=27061, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27062]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -8188,7 +16207,13 @@ return {
         ["id"]=27062, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27063]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -8197,7 +16222,13 @@ return {
         ["id"]=27063, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27064]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -8206,7 +16237,13 @@ return {
         ["id"]=27064, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27065]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -8215,7 +16252,13 @@ return {
         ["id"]=27065, 
         ["set id"]=103, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27066]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -8224,7 +16267,13 @@ return {
         ["id"]=27066, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27067]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -8233,7 +16282,13 @@ return {
         ["id"]=27067, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27068]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -8242,7 +16297,13 @@ return {
         ["id"]=27068, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27069]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -8251,7 +16312,13 @@ return {
         ["id"]=27069, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27070]={
         ["Set Bonus"]="Augments songs", 
@@ -8260,7 +16327,13 @@ return {
         ["id"]=27070, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27071]={
         ["Set Bonus"]="Augments songs", 
@@ -8269,7 +16342,13 @@ return {
         ["id"]=27071, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27072]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -8278,7 +16357,13 @@ return {
         ["id"]=27072, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27073]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -8287,7 +16372,13 @@ return {
         ["id"]=27073, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27074]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -8296,7 +16387,13 @@ return {
         ["id"]=27074, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27075]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -8305,7 +16402,13 @@ return {
         ["id"]=27075, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27076]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -8314,7 +16417,13 @@ return {
         ["id"]=27076, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27077]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -8323,7 +16432,13 @@ return {
         ["id"]=27077, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27078]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -8332,7 +16447,13 @@ return {
         ["id"]=27078, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27079]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -8341,7 +16462,13 @@ return {
         ["id"]=27079, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27080]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -8350,7 +16477,13 @@ return {
         ["id"]=27080, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27081]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -8359,7 +16492,13 @@ return {
         ["id"]=27081, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27082]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -8368,7 +16507,13 @@ return {
         ["id"]=27082, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27083]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -8377,7 +16522,13 @@ return {
         ["id"]=27083, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27084]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -8386,7 +16537,13 @@ return {
         ["id"]=27084, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27085]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -8395,7 +16552,13 @@ return {
         ["id"]=27085, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27086]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -8404,7 +16567,13 @@ return {
         ["id"]=27086, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27087]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -8413,7 +16582,13 @@ return {
         ["id"]=27087, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27088]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -8422,7 +16597,13 @@ return {
         ["id"]=27088, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27089]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -8431,7 +16612,13 @@ return {
         ["id"]=27089, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27090]={
         ["Set Bonus"]="Augments grimoire", 
@@ -8440,7 +16627,13 @@ return {
         ["id"]=27090, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27091]={
         ["Set Bonus"]="Augments grimoire", 
@@ -8449,7 +16642,13 @@ return {
         ["id"]=27091, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27092]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -8458,7 +16657,13 @@ return {
         ["id"]=27092, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27093]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -8467,7 +16672,13 @@ return {
         ["id"]=27093, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27094]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -8476,7 +16687,13 @@ return {
         ["id"]=27094, 
         ["set id"]=25, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27095]={
         ["Set Bonus"]="Occ. absorbs damage taken", 
@@ -8485,7 +16702,13 @@ return {
         ["id"]=27095, 
         ["set id"]=25, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27114]={
         ["Set Bonus"]="Enhances \"Double Attack\" effect", 
@@ -8495,7 +16718,19 @@ return {
         ["set id"]=241, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [27116]={
@@ -8506,7 +16741,19 @@ return {
         ["set id"]=239, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Attack"]=10
+            [1]={}, 
+            [2]={
+                ["Attack"]=20
+            }, 
+            [3]={
+                ["Attack"]=30
+            }, 
+            [4]={
+                ["Attack"]=40
+            }, 
+            [5]={
+                ["Attack"]=50
+            }
         }
     }, 
     [27118]={
@@ -8517,7 +16764,19 @@ return {
         ["set id"]=11, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=6
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=8
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=10
+            }
         }
     }, 
     [27120]={
@@ -8528,7 +16787,19 @@ return {
         ["set id"]=235, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=10
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=20
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=30
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=40
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=50
+            }
         }
     }, 
     [27122]={
@@ -8539,7 +16810,19 @@ return {
         ["set id"]=233, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency II"]=2
+            [1]={}, 
+            [2]={
+                ["Cure potency II"]=4
+            }, 
+            [3]={
+                ["Cure potency II"]=6
+            }, 
+            [4]={
+                ["Cure potency II"]=8
+            }, 
+            [5]={
+                ["Cure potency II"]=10
+            }
         }
     }, 
     [27197]={
@@ -8550,7 +16833,19 @@ return {
         ["set id"]=328, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Weapon Skill Damage"]=2
+            [1]={}, 
+            [2]={
+                ["Weapon Skill Damage"]=4
+            }, 
+            [3]={
+                ["Weapon Skill Damage"]=6
+            }, 
+            [4]={
+                ["Weapon Skill Damage"]=8
+            }, 
+            [5]={
+                ["Weapon Skill Damage"]=10
+            }
         }
     }, 
     [27199]={
@@ -8561,7 +16856,19 @@ return {
         ["set id"]=263, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DT"]=2
+            [1]={}, 
+            [2]={
+                ["DT"]=4
+            }, 
+            [3]={
+                ["DT"]=6
+            }, 
+            [4]={
+                ["DT"]=8
+            }, 
+            [5]={
+                ["DT"]=10
+            }
         }
     }, 
     [27201]={
@@ -8572,7 +16879,19 @@ return {
         ["set id"]=326, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [27203]={
@@ -8583,7 +16902,19 @@ return {
         ["set id"]=144, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Martial Arts"]=4
+            [1]={}, 
+            [2]={
+                ["Martial Arts"]=8
+            }, 
+            [3]={
+                ["Martial Arts"]=12
+            }, 
+            [4]={
+                ["Martial Arts"]=16
+            }, 
+            [5]={
+                ["Martial Arts"]=20
+            }
         }
     }, 
     [27205]={
@@ -8593,7 +16924,13 @@ return {
         ["id"]=27205, 
         ["set id"]=323, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27207]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -8603,7 +16940,19 @@ return {
         ["set id"]=51, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=10
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=20
+            }, 
+            [3]={
+                ["Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=40
+            }, 
+            [5]={
+                ["Accuracy"]=50
+            }
         }
     }, 
     [27237]={
@@ -8613,7 +16962,13 @@ return {
         ["id"]=27237, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27238]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -8622,7 +16977,13 @@ return {
         ["id"]=27238, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27239]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -8631,7 +16992,13 @@ return {
         ["id"]=27239, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27240]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -8640,7 +17007,13 @@ return {
         ["id"]=27240, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27241]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -8649,7 +17022,13 @@ return {
         ["id"]=27241, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27242]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -8658,7 +17037,13 @@ return {
         ["id"]=27242, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27243]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -8667,7 +17052,13 @@ return {
         ["id"]=27243, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27244]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -8676,7 +17067,13 @@ return {
         ["id"]=27244, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27245]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -8685,7 +17082,13 @@ return {
         ["id"]=27245, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27246]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -8694,7 +17097,13 @@ return {
         ["id"]=27246, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27247]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -8703,7 +17112,13 @@ return {
         ["id"]=27247, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27248]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -8712,7 +17127,13 @@ return {
         ["id"]=27248, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27251]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -8721,7 +17142,13 @@ return {
         ["id"]=27251, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27252]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -8730,7 +17157,13 @@ return {
         ["id"]=27252, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27253]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -8739,7 +17172,13 @@ return {
         ["id"]=27253, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27254]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -8748,7 +17187,13 @@ return {
         ["id"]=27254, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27255]={
         ["Set Bonus"]="Augments songs", 
@@ -8757,7 +17202,13 @@ return {
         ["id"]=27255, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27256]={
         ["Set Bonus"]="Augments songs", 
@@ -8766,7 +17217,13 @@ return {
         ["id"]=27256, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27257]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -8775,7 +17232,13 @@ return {
         ["id"]=27257, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27258]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -8784,7 +17247,13 @@ return {
         ["id"]=27258, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27259]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -8793,7 +17262,13 @@ return {
         ["id"]=27259, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27260]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -8802,7 +17277,13 @@ return {
         ["id"]=27260, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27261]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -8811,7 +17292,13 @@ return {
         ["id"]=27261, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27262]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -8820,7 +17307,13 @@ return {
         ["id"]=27262, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27263]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -8829,7 +17322,13 @@ return {
         ["id"]=27263, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27264]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -8838,7 +17337,13 @@ return {
         ["id"]=27264, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27265]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -8847,7 +17352,13 @@ return {
         ["id"]=27265, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27266]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -8856,7 +17367,13 @@ return {
         ["id"]=27266, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27267]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -8865,7 +17382,13 @@ return {
         ["id"]=27267, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27268]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -8874,7 +17397,13 @@ return {
         ["id"]=27268, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27269]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -8883,7 +17412,13 @@ return {
         ["id"]=27269, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27270]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -8892,7 +17427,13 @@ return {
         ["id"]=27270, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27273]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -8901,7 +17442,13 @@ return {
         ["id"]=27273, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27274]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -8910,7 +17457,13 @@ return {
         ["id"]=27274, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27275]={
         ["Set Bonus"]="Augments grimoire", 
@@ -8919,7 +17472,13 @@ return {
         ["id"]=27275, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27276]={
         ["Set Bonus"]="Augments grimoire", 
@@ -8928,7 +17487,13 @@ return {
         ["id"]=27276, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27277]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -8937,7 +17502,13 @@ return {
         ["id"]=27277, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27278]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -8946,7 +17517,13 @@ return {
         ["id"]=27278, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27299]={
         ["Set Bonus"]="Enhances \"Double Attack\" effect", 
@@ -8956,7 +17533,19 @@ return {
         ["set id"]=241, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [27301]={
@@ -8967,7 +17556,19 @@ return {
         ["set id"]=239, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Attack"]=10
+            [1]={}, 
+            [2]={
+                ["Attack"]=20
+            }, 
+            [3]={
+                ["Attack"]=30
+            }, 
+            [4]={
+                ["Attack"]=40
+            }, 
+            [5]={
+                ["Attack"]=50
+            }
         }
     }, 
     [27303]={
@@ -8978,7 +17579,19 @@ return {
         ["set id"]=11, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=6
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=8
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=10
+            }
         }
     }, 
     [27305]={
@@ -8989,7 +17602,19 @@ return {
         ["set id"]=235, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=10
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=20
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=30
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=40
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=50
+            }
         }
     }, 
     [27307]={
@@ -9000,7 +17625,19 @@ return {
         ["set id"]=233, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency II"]=2
+            [1]={}, 
+            [2]={
+                ["Cure potency II"]=4
+            }, 
+            [3]={
+                ["Cure potency II"]=6
+            }, 
+            [4]={
+                ["Cure potency II"]=8
+            }, 
+            [5]={
+                ["Cure potency II"]=10
+            }
         }
     }, 
     [27373]={
@@ -9011,7 +17648,19 @@ return {
         ["set id"]=328, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Weapon Skill Damage"]=2
+            [1]={}, 
+            [2]={
+                ["Weapon Skill Damage"]=4
+            }, 
+            [3]={
+                ["Weapon Skill Damage"]=6
+            }, 
+            [4]={
+                ["Weapon Skill Damage"]=8
+            }, 
+            [5]={
+                ["Weapon Skill Damage"]=10
+            }
         }
     }, 
     [27375]={
@@ -9022,7 +17671,19 @@ return {
         ["set id"]=263, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["DT"]=2
+            [1]={}, 
+            [2]={
+                ["DT"]=4
+            }, 
+            [3]={
+                ["DT"]=6
+            }, 
+            [4]={
+                ["DT"]=8
+            }, 
+            [5]={
+                ["DT"]=10
+            }
         }
     }, 
     [27377]={
@@ -9033,7 +17694,19 @@ return {
         ["set id"]=326, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [27379]={
@@ -9044,7 +17717,19 @@ return {
         ["set id"]=144, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Martial Arts"]=4
+            [1]={}, 
+            [2]={
+                ["Martial Arts"]=8
+            }, 
+            [3]={
+                ["Martial Arts"]=12
+            }, 
+            [4]={
+                ["Martial Arts"]=16
+            }, 
+            [5]={
+                ["Martial Arts"]=20
+            }
         }
     }, 
     [27381]={
@@ -9054,7 +17739,13 @@ return {
         ["id"]=27381, 
         ["set id"]=323, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27383]={
         ["Set Bonus"]="Increases Accuracy", 
@@ -9064,7 +17755,19 @@ return {
         ["set id"]=51, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Accuracy"]=10
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=20
+            }, 
+            [3]={
+                ["Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=40
+            }, 
+            [5]={
+                ["Accuracy"]=50
+            }
         }
     }, 
     [27411]={
@@ -9074,7 +17777,13 @@ return {
         ["id"]=27411, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27412]={
         ["Set Bonus"]="Augments \"Double Attack\"", 
@@ -9083,7 +17792,13 @@ return {
         ["id"]=27412, 
         ["set id"]=34, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27413]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -9092,7 +17807,13 @@ return {
         ["id"]=27413, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27414]={
         ["Set Bonus"]="Augments \"Kick Attacks\"", 
@@ -9101,7 +17822,13 @@ return {
         ["id"]=27414, 
         ["set id"]=12, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27415]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -9110,7 +17837,13 @@ return {
         ["id"]=27415, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27416]={
         ["Set Bonus"]="Augments elemental resistance spells", 
@@ -9119,7 +17852,13 @@ return {
         ["id"]=27416, 
         ["set id"]=93, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27417]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -9128,7 +17867,13 @@ return {
         ["id"]=27417, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27418]={
         ["Set Bonus"]="Augments \"Conserve MP\"", 
@@ -9137,7 +17882,13 @@ return {
         ["id"]=27418, 
         ["set id"]=165, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27419]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -9146,7 +17897,13 @@ return {
         ["id"]=27419, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27420]={
         ["Set Bonus"]="Augments \"Composure\"", 
@@ -9155,7 +17912,13 @@ return {
         ["id"]=27420, 
         ["set id"]=290, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27421]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -9164,7 +17927,13 @@ return {
         ["id"]=27421, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27422]={
         ["Set Bonus"]="Augments \"Triple Attack\"", 
@@ -9173,7 +17942,13 @@ return {
         ["id"]=27422, 
         ["set id"]=65, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27425]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -9182,7 +17957,13 @@ return {
         ["id"]=27425, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27426]={
         ["Set Bonus"]="Attack occ. varies with HP", 
@@ -9191,7 +17972,13 @@ return {
         ["id"]=27426, 
         ["set id"]=231, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27427]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -9200,7 +17987,13 @@ return {
         ["id"]=27427, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27428]={
         ["Set Bonus"]="Attack occ. varies with pet's HP", 
@@ -9209,7 +18002,13 @@ return {
         ["id"]=27428, 
         ["set id"]=35, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27429]={
         ["Set Bonus"]="Augments songs", 
@@ -9218,7 +18017,13 @@ return {
         ["id"]=27429, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27430]={
         ["Set Bonus"]="Augments songs", 
@@ -9227,7 +18032,13 @@ return {
         ["id"]=27430, 
         ["set id"]=2, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27431]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -9236,7 +18047,13 @@ return {
         ["id"]=27431, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27432]={
         ["Set Bonus"]="Augments \"Rapid Shot\"", 
@@ -9245,7 +18062,13 @@ return {
         ["id"]=27432, 
         ["set id"]=18, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27433]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -9254,7 +18077,13 @@ return {
         ["id"]=27433, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27434]={
         ["Set Bonus"]="Augments \"Zanshin\"", 
@@ -9263,7 +18092,13 @@ return {
         ["id"]=27434, 
         ["set id"]=98, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27435]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -9272,7 +18107,13 @@ return {
         ["id"]=27435, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27436]={
         ["Set Bonus"]="Augments \"Dual Wield\"", 
@@ -9281,7 +18122,13 @@ return {
         ["id"]=27436, 
         ["set id"]=222, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27437]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -9290,7 +18137,13 @@ return {
         ["id"]=27437, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27438]={
         ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
@@ -9299,7 +18152,13 @@ return {
         ["id"]=27438, 
         ["set id"]=66, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27439]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -9308,7 +18167,13 @@ return {
         ["id"]=27439, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27440]={
         ["Set Bonus"]="Augments \"Blood Boon\"", 
@@ -9317,7 +18182,13 @@ return {
         ["id"]=27440, 
         ["set id"]=365, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27441]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -9326,7 +18197,13 @@ return {
         ["id"]=27441, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27442]={
         ["Set Bonus"]="Occ. augments blue magic spells", 
@@ -9335,7 +18212,13 @@ return {
         ["id"]=27442, 
         ["set id"]=356, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27443]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -9344,7 +18227,13 @@ return {
         ["id"]=27443, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27444]={
         ["Set Bonus"]="Augments \"Quick Draw\"", 
@@ -9353,7 +18242,13 @@ return {
         ["id"]=27444, 
         ["set id"]=352, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27445]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -9362,7 +18257,13 @@ return {
         ["id"]=27445, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27446]={
         ["Set Bonus"]="Attack occ. varies with automaton's HP", 
@@ -9371,7 +18272,13 @@ return {
         ["id"]=27446, 
         ["set id"]=3, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27447]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -9380,7 +18287,13 @@ return {
         ["id"]=27447, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27448]={
         ["Set Bonus"]="Augments \"Samba\"", 
@@ -9389,7 +18302,13 @@ return {
         ["id"]=27448, 
         ["set id"]=19, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27449]={
         ["Set Bonus"]="Augments grimoire", 
@@ -9398,7 +18317,13 @@ return {
         ["id"]=27449, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27450]={
         ["Set Bonus"]="Augments grimoire", 
@@ -9407,7 +18332,13 @@ return {
         ["id"]=27450, 
         ["set id"]=99, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27451]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -9416,7 +18347,13 @@ return {
         ["id"]=27451, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27452]={
         ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
@@ -9425,7 +18362,13 @@ return {
         ["id"]=27452, 
         ["set id"]=223, 
         ["minimum peices"]=2, 
-        ["bonus"]=""
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
     }, 
     [27470]={
         ["Set Bonus"]="Enhances \"Double Attack\" effect", 
@@ -9435,7 +18378,19 @@ return {
         ["set id"]=241, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
+            }
         }
     }, 
     [27472]={
@@ -9446,7 +18401,19 @@ return {
         ["set id"]=239, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Attack"]=10
+            [1]={}, 
+            [2]={
+                ["Attack"]=20
+            }, 
+            [3]={
+                ["Attack"]=30
+            }, 
+            [4]={
+                ["Attack"]=40
+            }, 
+            [5]={
+                ["Attack"]=50
+            }
         }
     }, 
     [27474]={
@@ -9457,7 +18424,19 @@ return {
         ["set id"]=11, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=6
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=8
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=10
+            }
         }
     }, 
     [27476]={
@@ -9468,7 +18447,19 @@ return {
         ["set id"]=235, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=10
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=20
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=30
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=40
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=50
+            }
         }
     }, 
     [27478]={
@@ -9479,7 +18470,19 @@ return {
         ["set id"]=233, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Cure potency II"]=2
+            [1]={}, 
+            [2]={
+                ["Cure potency II"]=4
+            }, 
+            [3]={
+                ["Cure potency II"]=6
+            }, 
+            [4]={
+                ["Cure potency II"]=8
+            }, 
+            [5]={
+                ["Cure potency II"]=10
+            }
         }
     }, 
     [27648]={
@@ -9490,7 +18493,11 @@ return {
         ["set id"]=21, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [27649]={
@@ -9498,10 +18505,22 @@ return {
         ["en"]="Skadi's Visor +1", 
         ["enl"]="Skadi's visor +1", 
         ["id"]=27649, 
-        ["set id"]=131, 
+        ["set id"]=134, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=7
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=9
+            }
         }
     }, 
     [27650]={
@@ -9509,10 +18528,22 @@ return {
         ["en"]="Usk. Somen +1", 
         ["enl"]="usukane somen +1", 
         ["id"]=27650, 
-        ["set id"]=29, 
+        ["set id"]=30, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=2
+            [1]={}, 
+            [2]={
+                ["Haste"]=3
+            }, 
+            [3]={
+                ["Haste"]=5
+            }, 
+            [4]={
+                ["Haste"]=7
+            }, 
+            [5]={
+                ["Haste"]=9
+            }
         }
     }, 
     [27651]={
@@ -9520,10 +18551,22 @@ return {
         ["en"]="Marduk's Tiara +1", 
         ["enl"]="Marduk's tiara +1", 
         ["id"]=27651, 
-        ["set id"]=128, 
+        ["set id"]=130, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=3
+            }, 
+            [3]={
+                ["Fast Cast"]=5
+            }, 
+            [4]={
+                ["Fast Cast"]=7
+            }, 
+            [5]={
+                ["Fast Cast"]=9
+            }
         }
     }, 
     [27652]={
@@ -9531,10 +18574,22 @@ return {
         ["en"]="Mor. Coronal +1", 
         ["enl"]="Morrigan's coronal +1", 
         ["id"]=27652, 
-        ["set id"]=23, 
+        ["set id"]=26, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=2
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=3
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=7
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=9
+            }
         }
     }, 
     [27740]={
@@ -9545,7 +18600,13 @@ return {
         ["set id"]=113, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["PDT"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["PDT"]=10
+            }
         }
     }, 
     [27741]={
@@ -9556,7 +18617,13 @@ return {
         ["set id"]=111, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical hit damage"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical hit damage"]=10
+            }
         }
     }, 
     [27742]={
@@ -9567,7 +18634,13 @@ return {
         ["set id"]=110, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Refresh"]=3
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Refresh"]=3
+            }
         }
     }, 
     [27788]={
@@ -9578,7 +18651,11 @@ return {
         ["set id"]=21, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [27789]={
@@ -9586,10 +18663,22 @@ return {
         ["en"]="Skadi's Cuirie +1", 
         ["enl"]="Skadi's cuirie +1", 
         ["id"]=27789, 
-        ["set id"]=131, 
+        ["set id"]=134, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=7
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=9
+            }
         }
     }, 
     [27790]={
@@ -9597,10 +18686,22 @@ return {
         ["en"]="Usk. Haramaki +1", 
         ["enl"]="usukane haramaki +1", 
         ["id"]=27790, 
-        ["set id"]=29, 
+        ["set id"]=30, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=2
+            [1]={}, 
+            [2]={
+                ["Haste"]=3
+            }, 
+            [3]={
+                ["Haste"]=5
+            }, 
+            [4]={
+                ["Haste"]=7
+            }, 
+            [5]={
+                ["Haste"]=9
+            }
         }
     }, 
     [27791]={
@@ -9608,10 +18709,22 @@ return {
         ["en"]="Marduk's Jubbah +1", 
         ["enl"]="Marduk's jubbah +1", 
         ["id"]=27791, 
-        ["set id"]=128, 
+        ["set id"]=130, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=3
+            }, 
+            [3]={
+                ["Fast Cast"]=5
+            }, 
+            [4]={
+                ["Fast Cast"]=7
+            }, 
+            [5]={
+                ["Fast Cast"]=9
+            }
         }
     }, 
     [27792]={
@@ -9619,10 +18732,22 @@ return {
         ["en"]="Morrigan's Robe +1", 
         ["enl"]="Morrigan's robe +1", 
         ["id"]=27792, 
-        ["set id"]=23, 
+        ["set id"]=26, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=2
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=3
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=7
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=9
+            }
         }
     }, 
     [27851]={
@@ -9633,7 +18758,19 @@ return {
         ["set id"]=52, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=1
+            [1]={}, 
+            [2]={
+                ["Haste"]=2
+            }, 
+            [3]={
+                ["Haste"]=3
+            }, 
+            [4]={
+                ["Haste"]=4
+            }, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [27852]={
@@ -9644,7 +18781,19 @@ return {
         ["set id"]=107, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2
+            [1]={}, 
+            [2]={
+                ["Store TP"]=2
+            }, 
+            [3]={
+                ["Store TP"]=4
+            }, 
+            [4]={
+                ["Store TP"]=6
+            }, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [27853]={
@@ -9655,7 +18804,19 @@ return {
         ["set id"]=118, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=6
+            }, 
+            [4]={
+                ["Fast Cast"]=8
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [27881]={
@@ -9666,7 +18827,13 @@ return {
         ["set id"]=113, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["PDT"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["PDT"]=10
+            }
         }
     }, 
     [27882]={
@@ -9677,7 +18844,13 @@ return {
         ["set id"]=111, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical hit damage"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical hit damage"]=10
+            }
         }
     }, 
     [27883]={
@@ -9688,7 +18861,13 @@ return {
         ["set id"]=110, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Refresh"]=3
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Refresh"]=3
+            }
         }
     }, 
     [27928]={
@@ -9699,7 +18878,11 @@ return {
         ["set id"]=21, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [27929]={
@@ -9707,10 +18890,22 @@ return {
         ["en"]="Skd. Bazubands +1", 
         ["enl"]="Skadi's bazubands +1", 
         ["id"]=27929, 
-        ["set id"]=131, 
+        ["set id"]=134, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=7
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=9
+            }
         }
     }, 
     [27930]={
@@ -9718,10 +18913,22 @@ return {
         ["en"]="Usk. Gote +1", 
         ["enl"]="usukane gote +1", 
         ["id"]=27930, 
-        ["set id"]=29, 
+        ["set id"]=30, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=2
+            [1]={}, 
+            [2]={
+                ["Haste"]=3
+            }, 
+            [3]={
+                ["Haste"]=5
+            }, 
+            [4]={
+                ["Haste"]=7
+            }, 
+            [5]={
+                ["Haste"]=9
+            }
         }
     }, 
     [27931]={
@@ -9729,10 +18936,22 @@ return {
         ["en"]="Mdk. Dastanas +1", 
         ["enl"]="Marduk's dastanas +1", 
         ["id"]=27931, 
-        ["set id"]=128, 
+        ["set id"]=130, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=3
+            }, 
+            [3]={
+                ["Fast Cast"]=5
+            }, 
+            [4]={
+                ["Fast Cast"]=7
+            }, 
+            [5]={
+                ["Fast Cast"]=9
+            }
         }
     }, 
     [27932]={
@@ -9740,10 +18959,22 @@ return {
         ["en"]="Morrigan's Cuffs +1", 
         ["enl"]="Morrigan's cuffs +1", 
         ["id"]=27932, 
-        ["set id"]=23, 
+        ["set id"]=26, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=2
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=3
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=7
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=9
+            }
         }
     }, 
     [27997]={
@@ -9754,7 +18985,19 @@ return {
         ["set id"]=52, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=1
+            [1]={}, 
+            [2]={
+                ["Haste"]=2
+            }, 
+            [3]={
+                ["Haste"]=3
+            }, 
+            [4]={
+                ["Haste"]=4
+            }, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [27998]={
@@ -9765,7 +19008,19 @@ return {
         ["set id"]=107, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2
+            [1]={}, 
+            [2]={
+                ["Store TP"]=2
+            }, 
+            [3]={
+                ["Store TP"]=4
+            }, 
+            [4]={
+                ["Store TP"]=6
+            }, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [27999]={
@@ -9776,7 +19031,19 @@ return {
         ["set id"]=118, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=6
+            }, 
+            [4]={
+                ["Fast Cast"]=8
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [28029]={
@@ -9787,7 +19054,13 @@ return {
         ["set id"]=113, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["PDT"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["PDT"]=10
+            }
         }
     }, 
     [28030]={
@@ -9798,7 +19071,13 @@ return {
         ["set id"]=111, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical hit damage"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical hit damage"]=10
+            }
         }
     }, 
     [28031]={
@@ -9809,7 +19088,13 @@ return {
         ["set id"]=110, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Refresh"]=3
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Refresh"]=3
+            }
         }
     }, 
     [28071]={
@@ -9820,7 +19105,11 @@ return {
         ["set id"]=21, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28072]={
@@ -9828,10 +19117,22 @@ return {
         ["en"]="Skd. Chausses +1", 
         ["enl"]="Skadi's chausses +1", 
         ["id"]=28072, 
-        ["set id"]=131, 
+        ["set id"]=134, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=7
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=9
+            }
         }
     }, 
     [28073]={
@@ -9839,10 +19140,22 @@ return {
         ["en"]="Usk. Hizayoroi +1", 
         ["enl"]="usukane hizayoroi +1", 
         ["id"]=28073, 
-        ["set id"]=29, 
+        ["set id"]=30, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=2
+            [1]={}, 
+            [2]={
+                ["Haste"]=3
+            }, 
+            [3]={
+                ["Haste"]=5
+            }, 
+            [4]={
+                ["Haste"]=7
+            }, 
+            [5]={
+                ["Haste"]=9
+            }
         }
     }, 
     [28074]={
@@ -9850,10 +19163,22 @@ return {
         ["en"]="Mdk. Shalwar +1", 
         ["enl"]="Marduk's shalwar +1", 
         ["id"]=28074, 
-        ["set id"]=128, 
+        ["set id"]=130, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=3
+            }, 
+            [3]={
+                ["Fast Cast"]=5
+            }, 
+            [4]={
+                ["Fast Cast"]=7
+            }, 
+            [5]={
+                ["Fast Cast"]=9
+            }
         }
     }, 
     [28075]={
@@ -9861,10 +19186,22 @@ return {
         ["en"]="Morrigan's Slops +1", 
         ["enl"]="Morrigan's slops +1", 
         ["id"]=28075, 
-        ["set id"]=23, 
+        ["set id"]=26, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=2
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=3
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=7
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=9
+            }
         }
     }, 
     [28138]={
@@ -9875,7 +19212,19 @@ return {
         ["set id"]=52, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=1
+            [1]={}, 
+            [2]={
+                ["Haste"]=2
+            }, 
+            [3]={
+                ["Haste"]=3
+            }, 
+            [4]={
+                ["Haste"]=4
+            }, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [28139]={
@@ -9886,7 +19235,19 @@ return {
         ["set id"]=107, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2
+            [1]={}, 
+            [2]={
+                ["Store TP"]=2
+            }, 
+            [3]={
+                ["Store TP"]=4
+            }, 
+            [4]={
+                ["Store TP"]=6
+            }, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [28140]={
@@ -9897,7 +19258,19 @@ return {
         ["set id"]=118, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=6
+            }, 
+            [4]={
+                ["Fast Cast"]=8
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [28168]={
@@ -9908,7 +19281,13 @@ return {
         ["set id"]=113, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["PDT"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["PDT"]=10
+            }
         }
     }, 
     [28169]={
@@ -9919,7 +19298,13 @@ return {
         ["set id"]=111, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical hit damage"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical hit damage"]=10
+            }
         }
     }, 
     [28170]={
@@ -9930,7 +19315,13 @@ return {
         ["set id"]=110, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Refresh"]=3
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Refresh"]=3
+            }
         }
     }, 
     [28208]={
@@ -9941,7 +19332,11 @@ return {
         ["set id"]=21, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=2
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28209]={
@@ -9949,10 +19344,22 @@ return {
         ["en"]="Skd. Jambeaux +1", 
         ["enl"]="Skadi's jambeaux +1", 
         ["id"]=28209, 
-        ["set id"]=131, 
+        ["set id"]=134, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Critical Hit Rate"]=2
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=7
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=9
+            }
         }
     }, 
     [28210]={
@@ -9960,10 +19367,22 @@ return {
         ["en"]="Usk. Sune-Ate +1", 
         ["enl"]="usukane sune-ate +1", 
         ["id"]=28210, 
-        ["set id"]=29, 
+        ["set id"]=30, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=2
+            [1]={}, 
+            [2]={
+                ["Haste"]=3
+            }, 
+            [3]={
+                ["Haste"]=5
+            }, 
+            [4]={
+                ["Haste"]=7
+            }, 
+            [5]={
+                ["Haste"]=9
+            }
         }
     }, 
     [28211]={
@@ -9971,10 +19390,22 @@ return {
         ["en"]="Mdk. Crackows +1", 
         ["enl"]="Marduk's crackows +1", 
         ["id"]=28211, 
-        ["set id"]=128, 
+        ["set id"]=130, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=3
+            }, 
+            [3]={
+                ["Fast Cast"]=5
+            }, 
+            [4]={
+                ["Fast Cast"]=7
+            }, 
+            [5]={
+                ["Fast Cast"]=9
+            }
         }
     }, 
     [28212]={
@@ -9982,10 +19413,22 @@ return {
         ["en"]="Morrigan's Pgch. +1", 
         ["enl"]="Morrigan's pigaches +1", 
         ["id"]=28212, 
-        ["set id"]=23, 
+        ["set id"]=26, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Atk. Bonus"]=2
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=3
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=7
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=9
+            }
         }
     }, 
     [28277]={
@@ -9996,7 +19439,19 @@ return {
         ["set id"]=52, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Haste"]=1
+            [1]={}, 
+            [2]={
+                ["Haste"]=2
+            }, 
+            [3]={
+                ["Haste"]=3
+            }, 
+            [4]={
+                ["Haste"]=4
+            }, 
+            [5]={
+                ["Haste"]=5
+            }
         }
     }, 
     [28278]={
@@ -10007,7 +19462,19 @@ return {
         ["set id"]=107, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Store TP"]=2
+            [1]={}, 
+            [2]={
+                ["Store TP"]=2
+            }, 
+            [3]={
+                ["Store TP"]=4
+            }, 
+            [4]={
+                ["Store TP"]=6
+            }, 
+            [5]={
+                ["Store TP"]=8
+            }
         }
     }, 
     [28279]={
@@ -10018,7 +19485,19 @@ return {
         ["set id"]=118, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Fast Cast"]=2
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=6
+            }, 
+            [4]={
+                ["Fast Cast"]=8
+            }, 
+            [5]={
+                ["Fast Cast"]=10
+            }
         }
     }, 
     [28306]={
@@ -10029,7 +19508,13 @@ return {
         ["set id"]=113, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["PDT"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["PDT"]=10
+            }
         }
     }, 
     [28307]={
@@ -10040,7 +19525,13 @@ return {
         ["set id"]=111, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Critical hit damage"]=10
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Critical hit damage"]=10
+            }
         }
     }, 
     [28308]={
@@ -10051,7 +19542,13 @@ return {
         ["set id"]=110, 
         ["minimum peices"]=5, 
         ["bonus"]={
-            ["Refresh"]=3
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
+                ["Refresh"]=3
+            }
         }
     }, 
     [28520]={
@@ -10062,7 +19559,13 @@ return {
         ["set id"]=109, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=3.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=7
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28521]={
@@ -10073,7 +19576,13 @@ return {
         ["set id"]=109, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Double Attack"]=3.5
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=7
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28522]={
@@ -10084,7 +19593,13 @@ return {
         ["set id"]=106, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Dual Wield"]=3.5
+            [1]={}, 
+            [2]={
+                ["Dual Wield"]=7
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28523]={
@@ -10095,7 +19610,13 @@ return {
         ["set id"]=106, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Dual Wield"]=3.5
+            [1]={}, 
+            [2]={
+                ["Dual Wield"]=7
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28524]={
@@ -10106,7 +19627,13 @@ return {
         ["set id"]=100, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=6
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=12
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [28525]={
@@ -10117,7 +19644,13 @@ return {
         ["set id"]=100, 
         ["minimum peices"]=2, 
         ["bonus"]={
-            ["Magic Accuracy"]=6
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=12
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }
 }

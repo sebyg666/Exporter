@@ -1,9436 +1,7280 @@
 return {
     [2]={
         [11073]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="aoidos' calot +2", 
-            ["en"]="Aoidos' Calot +2", 
             ["id"]=11073, 
-            ["bonus"]=""
+            ["enl"]="aoidos' calot +2", 
+            ["en"]="Aoidos' Calot +2"
         }, 
         [11093]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="aoidos' hongreline +2", 
-            ["en"]="Aoidos' Hngrln. +2", 
             ["id"]=11093, 
-            ["bonus"]=""
+            ["enl"]="aoidos' hongreline +2", 
+            ["en"]="Aoidos' Hngrln. +2"
         }, 
         [11113]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="aoidos' manchettes +2", 
-            ["en"]="Ad. Mnchtte. +2", 
             ["id"]=11113, 
-            ["bonus"]=""
+            ["enl"]="aoidos' manchettes +2", 
+            ["en"]="Ad. Mnchtte. +2"
         }, 
         [11133]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="aoidos' rhingrave +2", 
-            ["en"]="Aoidos' Rhing. +2", 
             ["id"]=11133, 
-            ["bonus"]=""
+            ["enl"]="aoidos' rhingrave +2", 
+            ["en"]="Aoidos' Rhing. +2"
         }, 
         [11153]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="aoidos' cothurnes +2", 
-            ["en"]="Aoidos' Cothrn. +2", 
             ["id"]=11153, 
-            ["bonus"]=""
+            ["enl"]="aoidos' cothurnes +2", 
+            ["en"]="Aoidos' Cothrn. +2"
         }, 
         [26758]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili calot", 
-            ["en"]="Fili Calot", 
             ["id"]=26758, 
-            ["bonus"]=""
+            ["enl"]="fili calot", 
+            ["en"]="Fili Calot"
         }, 
         [26759]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili calot +1", 
-            ["en"]="Fili Calot +1", 
             ["id"]=26759, 
-            ["bonus"]=""
+            ["enl"]="fili calot +1", 
+            ["en"]="Fili Calot +1"
         }, 
         [26916]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili hongreline", 
-            ["en"]="Fili Hongreline", 
             ["id"]=26916, 
-            ["bonus"]=""
+            ["enl"]="fili hongreline", 
+            ["en"]="Fili Hongreline"
         }, 
         [26917]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili hongreline +1", 
-            ["en"]="Fili Hongreline +1", 
             ["id"]=26917, 
-            ["bonus"]=""
+            ["enl"]="fili hongreline +1", 
+            ["en"]="Fili Hongreline +1"
         }, 
         [27070]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili manchettes", 
-            ["en"]="Fili Manchettes", 
             ["id"]=27070, 
-            ["bonus"]=""
+            ["enl"]="fili manchettes", 
+            ["en"]="Fili Manchettes"
         }, 
         [27071]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili manchettes +1", 
-            ["en"]="Fili Manchettes +1", 
             ["id"]=27071, 
-            ["bonus"]=""
+            ["enl"]="fili manchettes +1", 
+            ["en"]="Fili Manchettes +1"
         }, 
         [27255]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili rhingrave", 
-            ["en"]="Fili Rhingrave", 
             ["id"]=27255, 
-            ["bonus"]=""
+            ["enl"]="fili rhingrave", 
+            ["en"]="Fili Rhingrave"
         }, 
         [27256]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili rhingrave +1", 
-            ["en"]="Fili Rhingrave +1", 
             ["id"]=27256, 
-            ["bonus"]=""
+            ["enl"]="fili rhingrave +1", 
+            ["en"]="Fili Rhingrave +1"
         }, 
         [27429]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili cothurnes", 
-            ["en"]="Fili Cothurnes", 
             ["id"]=27429, 
-            ["bonus"]=""
+            ["enl"]="fili cothurnes", 
+            ["en"]="Fili Cothurnes"
         }, 
         [27430]={
-            ["Set Bonus"]="Augments songs", 
-            ["minimum peices"]=2, 
-            ["enl"]="fili cothurnes +1", 
-            ["en"]="Fili Cothurnes +1", 
             ["id"]=27430, 
-            ["bonus"]=""
-        }
+            ["enl"]="fili cothurnes +1", 
+            ["en"]="Fili Cothurnes +1"
+        }, 
+        ["set id"]=2, 
+        ["Set Bonus"]="Augments songs", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["minimum peices"]=2
     }, 
     [3]={
         [11081]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="cirque cappello +2", 
-            ["en"]="Cirque Cappello +2", 
             ["id"]=11081, 
-            ["bonus"]=""
+            ["enl"]="cirque cappello +2", 
+            ["en"]="Cirque Cappello +2"
         }, 
         [11101]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="cirque farsetto +2", 
-            ["en"]="Cirque Farsetto +2", 
             ["id"]=11101, 
-            ["bonus"]=""
+            ["enl"]="cirque farsetto +2", 
+            ["en"]="Cirque Farsetto +2"
         }, 
         [11121]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="cirque guanti +2", 
-            ["en"]="Cirque Guanti +2", 
             ["id"]=11121, 
-            ["bonus"]=""
+            ["enl"]="cirque guanti +2", 
+            ["en"]="Cirque Guanti +2"
         }, 
         [11141]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="cirque pantaloni +2", 
-            ["en"]="Cirq. Pantaloni +2", 
             ["id"]=11141, 
-            ["bonus"]=""
+            ["enl"]="cirque pantaloni +2", 
+            ["en"]="Cirq. Pantaloni +2"
         }, 
         [11161]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="cirque scarpe +2", 
-            ["en"]="Cirque Scarpe +2", 
             ["id"]=11161, 
-            ["bonus"]=""
+            ["enl"]="cirque scarpe +2", 
+            ["en"]="Cirque Scarpe +2"
         }, 
         [26774]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz capello", 
-            ["en"]="Karagoz Capello", 
             ["id"]=26774, 
-            ["bonus"]=""
+            ["enl"]="karagoz capello", 
+            ["en"]="Karagoz Capello"
         }, 
         [26775]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz capello +1", 
-            ["en"]="Karagoz Capello +1", 
             ["id"]=26775, 
-            ["bonus"]=""
+            ["enl"]="karagoz capello +1", 
+            ["en"]="Karagoz Capello +1"
         }, 
         [26932]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz farsetto", 
-            ["en"]="Karagoz Farsetto", 
             ["id"]=26932, 
-            ["bonus"]=""
+            ["enl"]="karagoz farsetto", 
+            ["en"]="Karagoz Farsetto"
         }, 
         [26933]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz farsetto +1", 
-            ["en"]="Kara. Farsetto +1", 
             ["id"]=26933, 
-            ["bonus"]=""
+            ["enl"]="karagoz farsetto +1", 
+            ["en"]="Kara. Farsetto +1"
         }, 
         [27086]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz guanti", 
-            ["en"]="Karagoz Guanti", 
             ["id"]=27086, 
-            ["bonus"]=""
+            ["enl"]="karagoz guanti", 
+            ["en"]="Karagoz Guanti"
         }, 
         [27087]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz guanti +1", 
-            ["en"]="Karagoz Guanti +1", 
             ["id"]=27087, 
-            ["bonus"]=""
+            ["enl"]="karagoz guanti +1", 
+            ["en"]="Karagoz Guanti +1"
         }, 
         [27445]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz scarpe", 
-            ["en"]="Karagoz Scarpe", 
             ["id"]=27445, 
-            ["bonus"]=""
+            ["enl"]="karagoz scarpe", 
+            ["en"]="Karagoz Scarpe"
         }, 
         [27446]={
-            ["Set Bonus"]="Attack occ. varies with automaton's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="karagoz scarpe +1", 
-            ["en"]="Karagoz Scarpe +1", 
             ["id"]=27446, 
-            ["bonus"]=""
-        }
+            ["enl"]="karagoz scarpe +1", 
+            ["en"]="Karagoz Scarpe +1"
+        }, 
+        ["set id"]=3, 
+        ["Set Bonus"]="Attack occ. varies with automaton's HP", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["minimum peices"]=2
     }, 
     [4]={
         [11415]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal pigaches", 
-            ["en"]="Teal Pigaches", 
             ["id"]=11415, 
-            ["bonus"]=""
+            ["enl"]="teal pigaches", 
+            ["en"]="Teal Pigaches"
         }, 
         [11505]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal chapeau", 
-            ["en"]="Teal Chapeau", 
             ["id"]=11505, 
-            ["bonus"]=""
+            ["enl"]="teal chapeau", 
+            ["en"]="Teal Chapeau"
         }, 
         [12747]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal cuffs", 
-            ["en"]="Teal Cuffs", 
             ["id"]=12747, 
-            ["bonus"]=""
+            ["enl"]="teal cuffs", 
+            ["en"]="Teal Cuffs"
         }, 
         [13778]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal saio", 
-            ["en"]="Teal Saio", 
             ["id"]=13778, 
-            ["bonus"]=""
+            ["enl"]="teal saio", 
+            ["en"]="Teal Saio"
         }, 
         [14258]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal slops", 
-            ["en"]="Teal Slops", 
             ["id"]=14258, 
-            ["bonus"]=""
+            ["enl"]="teal slops", 
+            ["en"]="Teal Slops"
+        }, 
+        ["set id"]=4, 
+        ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [5]={
         [14581]={
-            ["Set Bonus"]="Increases Accuracy and Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram chainmail", 
-            ["en"]="I.R. Chainmail", 
             ["id"]=14581, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram chainmail", 
+            ["en"]="I.R. Chainmail"
         }, 
         [15005]={
-            ["Set Bonus"]="Increases Accuracy and Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram mufflers", 
-            ["en"]="Iron Ram Mufflers", 
             ["id"]=15005, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram mufflers", 
+            ["en"]="Iron Ram Mufflers"
         }, 
         [15749]={
-            ["Set Bonus"]="Increases Accuracy and Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram sollerets", 
-            ["en"]="I.R. Sollerets", 
             ["id"]=15749, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram sollerets", 
+            ["en"]="I.R. Sollerets"
         }, 
         [16141]={
-            ["Set Bonus"]="Increases Accuracy and Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram helm", 
-            ["en"]="Iron Ram Helm", 
             ["id"]=16141, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram helm", 
+            ["en"]="Iron Ram Helm"
         }, 
         [16312]={
-            ["Set Bonus"]="Increases Accuracy and Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram breeches", 
-            ["en"]="I.R. Breeches", 
             ["id"]=16312, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram breeches", 
+            ["en"]="I.R. Breeches"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy and Attack", 
+        ["set id"]=5, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [6]={
         [23047]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy burgonet +2", 
-            ["en"]="Ig. Burgonet +2", 
             ["id"]=23047, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy burgonet +2", 
+            ["en"]="Ig. Burgonet +2"
         }, 
         [23114]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy cuirass +2", 
-            ["en"]="Ignominy Cuirass +2", 
             ["id"]=23114, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy cuirass +2", 
+            ["en"]="Ignominy Cuirass +2"
         }, 
         [23181]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy gauntlets +2", 
-            ["en"]="Ig. Gauntlets +2", 
             ["id"]=23181, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy gauntlets +2", 
+            ["en"]="Ig. Gauntlets +2"
         }, 
         [23248]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy flanchard +2", 
-            ["en"]="Ig. Flanchard +2", 
             ["id"]=23248, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy flanchard +2", 
+            ["en"]="Ig. Flanchard +2"
         }, 
         [23315]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy sollerets +2", 
-            ["en"]="Ig. Sollerets +2", 
             ["id"]=23315, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy sollerets +2", 
+            ["en"]="Ig. Sollerets +2"
         }, 
         [23382]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy burgonet +3", 
-            ["en"]="Ig. Burgonet +3", 
             ["id"]=23382, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy burgonet +3", 
+            ["en"]="Ig. Burgonet +3"
         }, 
         [23449]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy cuirass +3", 
-            ["en"]="Ignominy Cuirass +3", 
             ["id"]=23449, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy cuirass +3", 
+            ["en"]="Ignominy Cuirass +3"
         }, 
         [23516]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy gauntlets +3", 
-            ["en"]="Ig. Gauntlets +3", 
             ["id"]=23516, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy gauntlets +3", 
+            ["en"]="Ig. Gauntlets +3"
         }, 
         [23583]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy flanchard +3", 
-            ["en"]="Ig. Flanchard +3", 
             ["id"]=23583, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="ignominy flanchard +3", 
+            ["en"]="Ig. Flanchard +3"
         }, 
         [23650]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="ignominy sollerets +3", 
-            ["en"]="Ig. Sollerets +3", 
             ["id"]=23650, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="ignominy sollerets +3", 
+            ["en"]="Ig. Sollerets +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["set id"]=6, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [7]={
         [23044]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy chapeau +2", 
-            ["en"]="Atro. Chapeau +2", 
             ["id"]=23044, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy chapeau +2", 
+            ["en"]="Atro. Chapeau +2"
         }, 
         [23111]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy tabard +2", 
-            ["en"]="Atrophy Tabard +2", 
             ["id"]=23111, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy tabard +2", 
+            ["en"]="Atrophy Tabard +2"
         }, 
         [23178]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy gloves +2", 
-            ["en"]="Atrophy Gloves +2", 
             ["id"]=23178, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy gloves +2", 
+            ["en"]="Atrophy Gloves +2"
         }, 
         [23245]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy tights +2", 
-            ["en"]="Atrophy Tights +2", 
             ["id"]=23245, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy tights +2", 
+            ["en"]="Atrophy Tights +2"
         }, 
         [23312]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy boots +2", 
-            ["en"]="Atro. Boots +2", 
             ["id"]=23312, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy boots +2", 
+            ["en"]="Atro. Boots +2"
         }, 
         [23379]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy chapeau +3", 
-            ["en"]="Atrophy Chapeau +3", 
             ["id"]=23379, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy chapeau +3", 
+            ["en"]="Atrophy Chapeau +3"
         }, 
         [23446]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy tabard +3", 
-            ["en"]="Atrophy Tabard +3", 
             ["id"]=23446, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy tabard +3", 
+            ["en"]="Atrophy Tabard +3"
         }, 
         [23513]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy gloves +3", 
-            ["en"]="Atrophy Gloves +3", 
             ["id"]=23513, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy gloves +3", 
+            ["en"]="Atrophy Gloves +3"
         }, 
         [23580]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy tights +3", 
-            ["en"]="Atrophy Tights +3", 
             ["id"]=23580, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="atrophy tights +3", 
+            ["en"]="Atrophy Tights +3"
         }, 
         [23647]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="atrophy boots +3", 
-            ["en"]="Atro. Boots +3", 
             ["id"]=23647, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="atrophy boots +3", 
+            ["en"]="Atro. Boots +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=7, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [8]={
         [23060]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's mortarboard +2", 
-            ["en"]="Acad. Mortar. +2", 
             ["id"]=23060, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's mortarboard +2", 
+            ["en"]="Acad. Mortar. +2"
         }, 
         [23127]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's gown +2", 
-            ["en"]="Acad. Gown +2", 
             ["id"]=23127, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's gown +2", 
+            ["en"]="Acad. Gown +2"
         }, 
         [23194]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's bracers +2", 
-            ["en"]="Acad. Bracers +2", 
             ["id"]=23194, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's bracers +2", 
+            ["en"]="Acad. Bracers +2"
         }, 
         [23261]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's pants +2", 
-            ["en"]="Acad. Pants +2", 
             ["id"]=23261, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's pants +2", 
+            ["en"]="Acad. Pants +2"
         }, 
         [23328]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's loafers +2", 
-            ["en"]="Acad. Loafers +2", 
             ["id"]=23328, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's loafers +2", 
+            ["en"]="Acad. Loafers +2"
         }, 
         [23395]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's mortarboard +3", 
-            ["en"]="Acad. Mortar. +3", 
             ["id"]=23395, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's mortarboard +3", 
+            ["en"]="Acad. Mortar. +3"
         }, 
         [23462]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's gown +3", 
-            ["en"]="Acad. Gown +3", 
             ["id"]=23462, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's gown +3", 
+            ["en"]="Acad. Gown +3"
         }, 
         [23529]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's bracers +3", 
-            ["en"]="Acad. Bracers +3", 
             ["id"]=23529, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's bracers +3", 
+            ["en"]="Acad. Bracers +3"
         }, 
         [23596]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's pants +3", 
-            ["en"]="Acad. Pants +3", 
             ["id"]=23596, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="academic's pants +3", 
+            ["en"]="Acad. Pants +3"
         }, 
         [23663]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="academic's loafers +3", 
-            ["en"]="Acad. Loafers +3", 
             ["id"]=23663, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="academic's loafers +3", 
+            ["en"]="Acad. Loafers +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["set id"]=8, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [9]={
         [23041]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's crown +2", 
-            ["en"]="Anch. Crown +2", 
             ["id"]=23041, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's crown +2", 
+            ["en"]="Anch. Crown +2"
         }, 
         [23108]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's cyclas +2", 
-            ["en"]="Anch. Cyclas +2", 
             ["id"]=23108, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's cyclas +2", 
+            ["en"]="Anch. Cyclas +2"
         }, 
         [23175]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's gloves +2", 
-            ["en"]="Anchor. Gloves +2", 
             ["id"]=23175, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's gloves +2", 
+            ["en"]="Anchor. Gloves +2"
         }, 
         [23242]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's hose +2", 
-            ["en"]="Anch. Hose +2", 
             ["id"]=23242, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's hose +2", 
+            ["en"]="Anch. Hose +2"
         }, 
         [23309]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's gaiters +2", 
-            ["en"]="Anch. Gaiters +2", 
             ["id"]=23309, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's gaiters +2", 
+            ["en"]="Anch. Gaiters +2"
         }, 
         [23376]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's crown +3", 
-            ["en"]="Anch. Crown +3", 
             ["id"]=23376, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's crown +3", 
+            ["en"]="Anch. Crown +3"
         }, 
         [23443]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's cyclas +3", 
-            ["en"]="Anch. Cyclas +3", 
             ["id"]=23443, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's cyclas +3", 
+            ["en"]="Anch. Cyclas +3"
         }, 
         [23510]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's gloves +3", 
-            ["en"]="Anchor. Gloves +3", 
             ["id"]=23510, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's gloves +3", 
+            ["en"]="Anchor. Gloves +3"
         }, 
         [23577]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's hose +3", 
-            ["en"]="Anch. Hose +3", 
             ["id"]=23577, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="anchorite's hose +3", 
+            ["en"]="Anch. Hose +3"
         }, 
         [23644]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="anchorite's gaiters +3", 
-            ["en"]="Anch. Gaiters +3", 
             ["id"]=23644, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="anchorite's gaiters +3", 
+            ["en"]="Anch. Gaiters +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=9, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [10]={
         [23057]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire taj +2", 
-            ["en"]="Foire Taj +2", 
             ["id"]=23057, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire taj +2", 
+            ["en"]="Foire Taj +2"
         }, 
         [23124]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire tobe +2", 
-            ["en"]="Foire Tobe +2", 
             ["id"]=23124, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire tobe +2", 
+            ["en"]="Foire Tobe +2"
         }, 
         [23191]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire dastanas +2", 
-            ["en"]="Foire Dastanas +2", 
             ["id"]=23191, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire dastanas +2", 
+            ["en"]="Foire Dastanas +2"
         }, 
         [23258]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire churidars +2", 
-            ["en"]="Foire Churidars +2", 
             ["id"]=23258, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire churidars +2", 
+            ["en"]="Foire Churidars +2"
         }, 
         [23325]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire babouches +2", 
-            ["en"]="Foire Babouches +2", 
             ["id"]=23325, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire babouches +2", 
+            ["en"]="Foire Babouches +2"
         }, 
         [23392]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire taj +3", 
-            ["en"]="Foire Taj +3", 
             ["id"]=23392, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire taj +3", 
+            ["en"]="Foire Taj +3"
         }, 
         [23459]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire tobe +3", 
-            ["en"]="Foire Tobe +3", 
             ["id"]=23459, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire tobe +3", 
+            ["en"]="Foire Tobe +3"
         }, 
         [23526]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire dastanas +3", 
-            ["en"]="Foire Dastanas +3", 
             ["id"]=23526, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire dastanas +3", 
+            ["en"]="Foire Dastanas +3"
         }, 
         [23593]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire churidars +3", 
-            ["en"]="Foire Churidars +3", 
             ["id"]=23593, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="foire churidars +3", 
+            ["en"]="Foire Churidars +3"
         }, 
         [23660]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="foire babouches +3", 
-            ["en"]="Foire Babouches +3", 
             ["id"]=23660, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="foire babouches +3", 
+            ["en"]="Foire Babouches +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=10, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [11]={
         [25614]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="adhemar bonnet +1", 
-            ["en"]="Adhemar Bonnet +1", 
             ["id"]=25614, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
+            ["enl"]="adhemar bonnet +1", 
+            ["en"]="Adhemar Bonnet +1"
         }, 
         [25687]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="adhemar jacket +1", 
-            ["en"]="Adhemar Jacket +1", 
             ["id"]=25687, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
+            ["enl"]="adhemar jacket +1", 
+            ["en"]="Adhemar Jacket +1"
         }, 
         [27118]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="adhemar wristbands +1", 
-            ["en"]="Adhemar Wrist. +1", 
             ["id"]=27118, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
+            ["enl"]="adhemar wristbands +1", 
+            ["en"]="Adhemar Wrist. +1"
         }, 
         [27303]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="adhemar kecks +1", 
-            ["en"]="Adhemar Kecks +1", 
             ["id"]=27303, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
+            ["enl"]="adhemar kecks +1", 
+            ["en"]="Adhemar Kecks +1"
         }, 
         [27474]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="adhemar gamashes +1", 
-            ["en"]="Adhe. Gamashes +1", 
             ["id"]=27474, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
+            ["enl"]="adhemar gamashes +1", 
+            ["en"]="Adhe. Gamashes +1"
+        }, 
+        ["Set Bonus"]="Increases rate of critical hits", 
+        ["minimum peices"]=2, 
+        ["set id"]=11, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=6
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=8
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=10
             }
         }
     }, 
     [12]={
         [11065]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="tantra crown +2", 
-            ["en"]="Tantra Crown +2", 
             ["id"]=11065, 
-            ["bonus"]=""
+            ["enl"]="tantra crown +2", 
+            ["en"]="Tantra Crown +2"
         }, 
         [11085]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="tantra cyclas +2", 
-            ["en"]="Tantra Cyclas +2", 
             ["id"]=11085, 
-            ["bonus"]=""
+            ["enl"]="tantra cyclas +2", 
+            ["en"]="Tantra Cyclas +2"
         }, 
         [11105]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="tantra gloves +2", 
-            ["en"]="Tantra Gloves +2", 
             ["id"]=11105, 
-            ["bonus"]=""
+            ["enl"]="tantra gloves +2", 
+            ["en"]="Tantra Gloves +2"
         }, 
         [11125]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="tantra hose +2", 
-            ["en"]="Tantra Hose +2", 
             ["id"]=11125, 
-            ["bonus"]=""
+            ["enl"]="tantra hose +2", 
+            ["en"]="Tantra Hose +2"
         }, 
         [11145]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="tantra gaiters +2", 
-            ["en"]="Tantra Gaiters +2", 
             ["id"]=11145, 
-            ["bonus"]=""
+            ["enl"]="tantra gaiters +2", 
+            ["en"]="Tantra Gaiters +2"
         }, 
         [26742]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku crown", 
-            ["en"]="Bhikku Crown", 
             ["id"]=26742, 
-            ["bonus"]=""
+            ["enl"]="bhikku crown", 
+            ["en"]="Bhikku Crown"
         }, 
         [26743]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku crown +1", 
-            ["en"]="Bhikku Crown +1", 
             ["id"]=26743, 
-            ["bonus"]=""
+            ["enl"]="bhikku crown +1", 
+            ["en"]="Bhikku Crown +1"
         }, 
         [26900]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku cyclas", 
-            ["en"]="Bhikku Cyclas", 
             ["id"]=26900, 
-            ["bonus"]=""
+            ["enl"]="bhikku cyclas", 
+            ["en"]="Bhikku Cyclas"
         }, 
         [26901]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku cyclas +1", 
-            ["en"]="Bhikku Cyclas +1", 
             ["id"]=26901, 
-            ["bonus"]=""
+            ["enl"]="bhikku cyclas +1", 
+            ["en"]="Bhikku Cyclas +1"
         }, 
         [27054]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku gloves", 
-            ["en"]="Bhikku Gloves", 
             ["id"]=27054, 
-            ["bonus"]=""
+            ["enl"]="bhikku gloves", 
+            ["en"]="Bhikku Gloves"
         }, 
         [27055]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku gloves +1", 
-            ["en"]="Bhikku Gloves +1", 
             ["id"]=27055, 
-            ["bonus"]=""
+            ["enl"]="bhikku gloves +1", 
+            ["en"]="Bhikku Gloves +1"
         }, 
         [27239]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku hose", 
-            ["en"]="Bhikku Hose", 
             ["id"]=27239, 
-            ["bonus"]=""
+            ["enl"]="bhikku hose", 
+            ["en"]="Bhikku Hose"
         }, 
         [27240]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku hose +1", 
-            ["en"]="Bhikku Hose +1", 
             ["id"]=27240, 
-            ["bonus"]=""
+            ["enl"]="bhikku hose +1", 
+            ["en"]="Bhikku Hose +1"
         }, 
         [27413]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku gaiters", 
-            ["en"]="Bhikku Gaiters", 
             ["id"]=27413, 
-            ["bonus"]=""
+            ["enl"]="bhikku gaiters", 
+            ["en"]="Bhikku Gaiters"
         }, 
         [27414]={
-            ["Set Bonus"]="Augments \"Kick Attacks\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="bhikku gaiters +1", 
-            ["en"]="Bhikku Gaiters +1", 
             ["id"]=27414, 
-            ["bonus"]=""
+            ["enl"]="bhikku gaiters +1", 
+            ["en"]="Bhikku Gaiters +1"
+        }, 
+        ["Set Bonus"]="Augments \"Kick Attacks\"", 
+        ["set id"]=12, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [15]={
         [25571]={
-            ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="mallquis chapeau +2", 
-            ["en"]="Mall. Chapeau +2", 
             ["id"]=25571, 
-            ["bonus"]={
-                ["INT"]=4, 
-                ["MND"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="mallquis chapeau +2", 
+            ["en"]="Mall. Chapeau +2"
         }, 
         [25799]={
-            ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="mallquis saio +2", 
-            ["en"]="Mallquis Saio +2", 
             ["id"]=25799, 
-            ["bonus"]={
-                ["INT"]=4, 
-                ["MND"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="mallquis saio +2", 
+            ["en"]="Mallquis Saio +2"
         }, 
         [25837]={
-            ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="mallquis cuffs +2", 
-            ["en"]="Mallquis Cuffs +2", 
             ["id"]=25837, 
-            ["bonus"]={
-                ["INT"]=4, 
-                ["MND"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="mallquis cuffs +2", 
+            ["en"]="Mallquis Cuffs +2"
         }, 
         [25888]={
-            ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="mallquis trews +2", 
-            ["en"]="Mallquis Trews +2", 
             ["id"]=25888, 
-            ["bonus"]={
-                ["INT"]=4, 
-                ["MND"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="mallquis trews +2", 
+            ["en"]="Mallquis Trews +2"
         }, 
         [25955]={
-            ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="mallquis clogs +2", 
-            ["en"]="Mallquis Clogs +2", 
             ["id"]=25955, 
-            ["bonus"]={
-                ["INT"]=4, 
-                ["MND"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="mallquis clogs +2", 
+            ["en"]="Mallquis Clogs +2"
         }, 
         [26213]={
-            ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="mallquis ring", 
-            ["en"]="Mallquis Ring", 
             ["id"]=26213, 
-            ["bonus"]={
-                ["INT"]=4, 
-                ["MND"]=4, 
-                ["VIT"]=4
+            ["enl"]="mallquis ring", 
+            ["en"]="Mallquis Ring"
+        }, 
+        ["Set Bonus"]="Increases Vitality, Intelligence, and Mind", 
+        ["minimum peices"]=2, 
+        ["set id"]=15, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["INT"]=8, 
+                ["MND"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["INT"]=16, 
+                ["MND"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["INT"]=24, 
+                ["MND"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["INT"]=32, 
+                ["MND"]=32, 
+                ["VIT"]=32
             }
         }
     }, 
     [16]={
         [25577]={
-            ["Set Bonus"]="Enhances \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Inyanga tiara +2", 
-            ["en"]="Inyanga Tiara +2", 
             ["id"]=25577, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="Inyanga tiara +2", 
+            ["en"]="Inyanga Tiara +2"
         }, 
         [25793]={
-            ["Set Bonus"]="Enhances \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Inyanga jubbah +2", 
-            ["en"]="Inyanga Jubbah +2", 
             ["id"]=25793, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="Inyanga jubbah +2", 
+            ["en"]="Inyanga Jubbah +2"
         }, 
         [25831]={
-            ["Set Bonus"]="Enhances \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Inyanga dastanas +2", 
-            ["en"]="Inyan. Dastanas +2", 
             ["id"]=25831, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="Inyanga dastanas +2", 
+            ["en"]="Inyan. Dastanas +2"
         }, 
         [25882]={
-            ["Set Bonus"]="Enhances \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Inyanga shalwar +2", 
-            ["en"]="Inyanga Shalwar +2", 
             ["id"]=25882, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="Inyanga shalwar +2", 
+            ["en"]="Inyanga Shalwar +2"
         }, 
         [25949]={
-            ["Set Bonus"]="Enhances \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Inyanga crackows +2", 
-            ["en"]="Inyan. Crackows +2", 
             ["id"]=25949, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="Inyanga crackows +2", 
+            ["en"]="Inyan. Crackows +2"
         }, 
         [26207]={
-            ["Set Bonus"]="Enhances \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Inyanga ring", 
-            ["en"]="Inyanga Ring", 
             ["id"]=26207, 
-            ["bonus"]={
+            ["enl"]="Inyanga ring", 
+            ["en"]="Inyanga Ring"
+        }, 
+        ["set id"]=16, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Refresh\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=2
+            }, 
+            [4]={
+                ["Refresh"]=3
+            }, 
+            [5]={
+                ["Refresh"]=4
             }
         }
     }, 
     [17]={
         [11413]={
-            ["Set Bonus"]="Haste+5%", 
-            ["minimum peices"]=5, 
-            ["enl"]="perle sollerets", 
-            ["en"]="Perle Sollerets", 
             ["id"]=11413, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="perle sollerets", 
+            ["en"]="Perle Sollerets"
         }, 
         [11503]={
-            ["Set Bonus"]="Haste+5%", 
-            ["minimum peices"]=5, 
-            ["enl"]="perle salade", 
-            ["en"]="Perle Salade", 
             ["id"]=11503, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="perle salade", 
+            ["en"]="Perle Salade"
         }, 
         [12745]={
-            ["Set Bonus"]="Haste+5%", 
-            ["minimum peices"]=5, 
-            ["enl"]="perle moufles", 
-            ["en"]="Perle Moufles", 
             ["id"]=12745, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="perle moufles", 
+            ["en"]="Perle Moufles"
         }, 
         [13759]={
-            ["Set Bonus"]="Haste+5%", 
-            ["minimum peices"]=5, 
-            ["enl"]="perle hauberk", 
-            ["en"]="Perle Hauberk", 
             ["id"]=13759, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="perle hauberk", 
+            ["en"]="Perle Hauberk"
         }, 
         [14210]={
-            ["Set Bonus"]="Haste+5%", 
-            ["minimum peices"]=5, 
-            ["enl"]="perle brayettes", 
-            ["en"]="Perle Brayettes", 
             ["id"]=14210, 
-            ["bonus"]={
+            ["enl"]="perle brayettes", 
+            ["en"]="Perle Brayettes"
+        }, 
+        ["Set Bonus"]="Haste+5%", 
+        ["minimum peices"]=5, 
+        ["set id"]=17, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Haste"]=5
             }
         }
     }, 
     [18]={
         [11074]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="sylvan gapette +2", 
-            ["en"]="Sylvan Gapette +2", 
             ["id"]=11074, 
-            ["bonus"]=""
+            ["enl"]="sylvan gapette +2", 
+            ["en"]="Sylvan Gapette +2"
         }, 
         [11094]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="sylvan caban +2", 
-            ["en"]="Sylvan Caban +2", 
             ["id"]=11094, 
-            ["bonus"]=""
+            ["enl"]="sylvan caban +2", 
+            ["en"]="Sylvan Caban +2"
         }, 
         [11114]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="sylvan glovelettes +2", 
-            ["en"]="Syl. Glvltte. +2", 
             ["id"]=11114, 
-            ["bonus"]=""
+            ["enl"]="sylvan glovelettes +2", 
+            ["en"]="Syl. Glvltte. +2"
         }, 
         [11134]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="sylvan bragues +2", 
-            ["en"]="Sylvan Bragues +2", 
             ["id"]=11134, 
-            ["bonus"]=""
+            ["enl"]="sylvan bragues +2", 
+            ["en"]="Sylvan Bragues +2"
         }, 
         [11154]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="sylvan bottillons +2", 
-            ["en"]="Sylvan Bottln. +2", 
             ["id"]=11154, 
-            ["bonus"]=""
+            ["enl"]="sylvan bottillons +2", 
+            ["en"]="Sylvan Bottln. +2"
         }, 
         [26760]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini gapette", 
-            ["en"]="Amini Gapette", 
             ["id"]=26760, 
-            ["bonus"]=""
+            ["enl"]="amini gapette", 
+            ["en"]="Amini Gapette"
         }, 
         [26761]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini gapette +1", 
-            ["en"]="Amini Gapette +1", 
             ["id"]=26761, 
-            ["bonus"]=""
+            ["enl"]="amini gapette +1", 
+            ["en"]="Amini Gapette +1"
         }, 
         [26918]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini caban", 
-            ["en"]="Amini Caban", 
             ["id"]=26918, 
-            ["bonus"]=""
+            ["enl"]="amini caban", 
+            ["en"]="Amini Caban"
         }, 
         [26919]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini caban +1", 
-            ["en"]="Amini Caban +1", 
             ["id"]=26919, 
-            ["bonus"]=""
+            ["enl"]="amini caban +1", 
+            ["en"]="Amini Caban +1"
         }, 
         [27072]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini glovelettes", 
-            ["en"]="Amini Glovelettes", 
             ["id"]=27072, 
-            ["bonus"]=""
+            ["enl"]="amini glovelettes", 
+            ["en"]="Amini Glovelettes"
         }, 
         [27073]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini glovelettes +1", 
-            ["en"]="Amini Glove. +1", 
             ["id"]=27073, 
-            ["bonus"]=""
+            ["enl"]="amini glovelettes +1", 
+            ["en"]="Amini Glove. +1"
         }, 
         [27257]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini brague", 
-            ["en"]="Amini Brague", 
             ["id"]=27257, 
-            ["bonus"]=""
+            ["enl"]="amini brague", 
+            ["en"]="Amini Brague"
         }, 
         [27258]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini brague +1", 
-            ["en"]="Amini Brague +1", 
             ["id"]=27258, 
-            ["bonus"]=""
+            ["enl"]="amini brague +1", 
+            ["en"]="Amini Brague +1"
         }, 
         [27431]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini bottillons", 
-            ["en"]="Amini Bottillons", 
             ["id"]=27431, 
-            ["bonus"]=""
+            ["enl"]="amini bottillons", 
+            ["en"]="Amini Bottillons"
         }, 
         [27432]={
-            ["Set Bonus"]="Augments \"Rapid Shot\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="amini bottillons +1", 
-            ["en"]="Amini Bottillons +1", 
             ["id"]=27432, 
-            ["bonus"]=""
-        }
+            ["enl"]="amini bottillons +1", 
+            ["en"]="Amini Bottillons +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["set id"]=18, 
+        ["Set Bonus"]="Augments \"Rapid Shot\""
     }, 
     [19]={
         [11082]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="charis tiara +2", 
-            ["en"]="Charis Tiara +2", 
             ["id"]=11082, 
-            ["bonus"]=""
+            ["enl"]="charis tiara +2", 
+            ["en"]="Charis Tiara +2"
         }, 
         [11102]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="charis casaque +2", 
-            ["en"]="Charis Casaque +2", 
             ["id"]=11102, 
-            ["bonus"]=""
+            ["enl"]="charis casaque +2", 
+            ["en"]="Charis Casaque +2"
         }, 
         [11122]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="charis bangles +2", 
-            ["en"]="Charis Bangles +2", 
             ["id"]=11122, 
-            ["bonus"]=""
+            ["enl"]="charis bangles +2", 
+            ["en"]="Charis Bangles +2"
         }, 
         [11142]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="charis tights +2", 
-            ["en"]="Charis Tights +2", 
             ["id"]=11142, 
-            ["bonus"]=""
+            ["enl"]="charis tights +2", 
+            ["en"]="Charis Tights +2"
         }, 
         [11162]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="charis toe shoes +2", 
-            ["en"]="Charis Shoes +2", 
             ["id"]=11162, 
-            ["bonus"]=""
+            ["enl"]="charis toe shoes +2", 
+            ["en"]="Charis Shoes +2"
         }, 
         [26776]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele tiara", 
-            ["en"]="Maculele Tiara", 
             ["id"]=26776, 
-            ["bonus"]=""
+            ["enl"]="maculele tiara", 
+            ["en"]="Maculele Tiara"
         }, 
         [26777]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele tiara +1", 
-            ["en"]="Maculele Tiara +1", 
             ["id"]=26777, 
-            ["bonus"]=""
+            ["enl"]="maculele tiara +1", 
+            ["en"]="Maculele Tiara +1"
         }, 
         [26934]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele casaque", 
-            ["en"]="Maculele Casaque", 
             ["id"]=26934, 
-            ["bonus"]=""
+            ["enl"]="maculele casaque", 
+            ["en"]="Maculele Casaque"
         }, 
         [26935]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele casaque +1", 
-            ["en"]="Macu. Casaque +1", 
             ["id"]=26935, 
-            ["bonus"]=""
+            ["enl"]="maculele casaque +1", 
+            ["en"]="Macu. Casaque +1"
         }, 
         [27088]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele bangles", 
-            ["en"]="Maculele Bangles", 
             ["id"]=27088, 
-            ["bonus"]=""
+            ["enl"]="maculele bangles", 
+            ["en"]="Maculele Bangles"
         }, 
         [27089]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele bangles +1", 
-            ["en"]="Macu. Bangles +1", 
             ["id"]=27089, 
-            ["bonus"]=""
+            ["enl"]="maculele bangles +1", 
+            ["en"]="Macu. Bangles +1"
         }, 
         [27273]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele tights", 
-            ["en"]="Maculele Tights", 
             ["id"]=27273, 
-            ["bonus"]=""
+            ["enl"]="maculele tights", 
+            ["en"]="Maculele Tights"
         }, 
         [27274]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele tights +1", 
-            ["en"]="Maculele Tights +1", 
             ["id"]=27274, 
-            ["bonus"]=""
+            ["enl"]="maculele tights +1", 
+            ["en"]="Maculele Tights +1"
         }, 
         [27447]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele toeshose", 
-            ["en"]="Maculele Toeshoes", 
             ["id"]=27447, 
-            ["bonus"]=""
+            ["enl"]="maculele toeshose", 
+            ["en"]="Maculele Toeshoes"
         }, 
         [27448]={
-            ["Set Bonus"]="Augments \"Samba\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="maculele toeshoes +1", 
-            ["en"]="Macu. Toeshoes +1", 
             ["id"]=27448, 
-            ["bonus"]=""
-        }
+            ["enl"]="maculele toeshoes +1", 
+            ["en"]="Macu. Toeshoes +1"
+        }, 
+        ["Set Bonus"]="Augments \"Samba\"", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["set id"]=19
     }, 
     [20]={
         [14530]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="pahluwan khazagand", 
-            ["en"]="Pln. Khazagand", 
             ["id"]=14530, 
-            ["bonus"]={
-                ["Subtle Blow"]=8
-            }
+            ["enl"]="pahluwan khazagand", 
+            ["en"]="Pln. Khazagand"
         }, 
         [14940]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="pahluwan dastanas", 
-            ["en"]="Pln. Dastanas", 
             ["id"]=14940, 
-            ["bonus"]={
-                ["Subtle Blow"]=8
-            }
+            ["enl"]="pahluwan dastanas", 
+            ["en"]="Pln. Dastanas"
         }, 
         [15609]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="pahluwan seraweels", 
-            ["en"]="Pln. Seraweels", 
             ["id"]=15609, 
-            ["bonus"]={
-                ["Subtle Blow"]=8
-            }
+            ["enl"]="pahluwan seraweels", 
+            ["en"]="Pln. Seraweels"
         }, 
         [15695]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="pahluwan crackows", 
-            ["en"]="Pln. Crackows", 
             ["id"]=15695, 
-            ["bonus"]={
-                ["Subtle Blow"]=8
-            }
+            ["enl"]="pahluwan crackows", 
+            ["en"]="Pln. Crackows"
         }, 
         [16069]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="pahluwan qalansuwa", 
-            ["en"]="Pln. Qalansuwa", 
             ["id"]=16069, 
-            ["bonus"]={
+            ["enl"]="pahluwan qalansuwa", 
+            ["en"]="Pln. Qalansuwa"
+        }, 
+        ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
+        ["minimum peices"]=5, 
+        ["set id"]=20, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Subtle Blow"]=8
             }
         }
     }, 
     [21]={
         [14546]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' cuirass", 
-            ["en"]="Ares' Cuirass", 
             ["id"]=14546, 
-            ["bonus"]=""
+            ["enl"]="Ares' cuirass", 
+            ["en"]="Ares' Cuirass"
         }, 
         [14961]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' gauntlets", 
-            ["en"]="Ares' Gauntlets", 
             ["id"]=14961, 
-            ["bonus"]=""
+            ["enl"]="Ares' gauntlets", 
+            ["en"]="Ares' Gauntlets"
         }, 
         [15625]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' flanchard", 
-            ["en"]="Ares' Flanchard", 
             ["id"]=15625, 
-            ["bonus"]=""
+            ["enl"]="Ares' flanchard", 
+            ["en"]="Ares' Flanchard"
         }, 
         [15711]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' sollerets", 
-            ["en"]="Ares' Sollerets", 
             ["id"]=15711, 
-            ["bonus"]=""
+            ["enl"]="Ares' sollerets", 
+            ["en"]="Ares' Sollerets"
         }, 
         [16084]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' mask", 
-            ["en"]="Ares' Mask", 
             ["id"]=16084, 
-            ["bonus"]=""
+            ["enl"]="Ares' mask", 
+            ["en"]="Ares' Mask"
         }, 
         [27648]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' mask +1", 
-            ["en"]="Ares' Mask +1", 
             ["id"]=27648, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="Ares' mask +1", 
+            ["en"]="Ares' Mask +1"
         }, 
         [27788]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' cuirass +1", 
-            ["en"]="Ares' Cuirass +1", 
             ["id"]=27788, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="Ares' cuirass +1", 
+            ["en"]="Ares' Cuirass +1"
         }, 
         [27928]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' gauntlets +1", 
-            ["en"]="Ares' Gauntlets +1", 
             ["id"]=27928, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="Ares' gauntlets +1", 
+            ["en"]="Ares' Gauntlets +1"
         }, 
         [28071]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' flanchard +1", 
-            ["en"]="Ares' Flanchard +1", 
             ["id"]=28071, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="Ares' flanchard +1", 
+            ["en"]="Ares' Flanchard +1"
         }, 
         [28208]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ares' sollerets +1", 
-            ["en"]="Ares' Sollerets +1", 
             ["id"]=28208, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="Ares' sollerets +1", 
+            ["en"]="Ares' Sollerets +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Double Attack\" effect", 
+        ["set id"]=21, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [22]={
         [10462]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=5, 
-            ["enl"]="calma breastplate", 
-            ["en"]="Calma Breastplate", 
             ["id"]=10462, 
-            ["bonus"]={
-                ["Haste"]=6
-            }
+            ["enl"]="calma breastplate", 
+            ["en"]="Calma Breastplate"
         }, 
         [10512]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=5, 
-            ["enl"]="calma gauntlets", 
-            ["en"]="Calma Gauntlets", 
             ["id"]=10512, 
-            ["bonus"]={
-                ["Haste"]=6
-            }
+            ["enl"]="calma gauntlets", 
+            ["en"]="Calma Gauntlets"
         }, 
         [10610]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=5, 
-            ["enl"]="calma leggings", 
-            ["en"]="Calma Leggings", 
             ["id"]=10610, 
-            ["bonus"]={
-                ["Haste"]=6
-            }
+            ["enl"]="calma leggings", 
+            ["en"]="Calma Leggings"
         }, 
         [10890]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=5, 
-            ["enl"]="calma armet", 
-            ["en"]="Calma Armet", 
             ["id"]=10890, 
-            ["bonus"]={
-                ["Haste"]=6
-            }
+            ["enl"]="calma armet", 
+            ["en"]="Calma Armet"
         }, 
         [11980]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=5, 
-            ["enl"]="calma hose", 
-            ["en"]="Calma Hose", 
             ["id"]=11980, 
-            ["bonus"]={
+            ["enl"]="calma hose", 
+            ["en"]="Calma Hose"
+        }, 
+        ["Set Bonus"]="Haste+6%", 
+        ["minimum peices"]=5, 
+        ["set id"]=22, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Haste"]=6
             }
         }
     }, 
     [23]={
         [14562]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Morrigan's robe", 
-            ["en"]="Morrigan's Robe", 
             ["id"]=14562, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=5
-            }
+            ["enl"]="Morrigan's robe", 
+            ["en"]="Morrigan's Robe"
         }, 
         [14977]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Morrigan's cuffs", 
-            ["en"]="Morrigan's Cuffs", 
             ["id"]=14977, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=5
-            }
+            ["enl"]="Morrigan's cuffs", 
+            ["en"]="Morrigan's Cuffs"
         }, 
         [15641]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Morrigan's slops", 
-            ["en"]="Morrigan's Slops", 
             ["id"]=15641, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=5
-            }
+            ["enl"]="Morrigan's slops", 
+            ["en"]="Morrigan's Slops"
         }, 
         [15727]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Morrigan's pigaches", 
-            ["en"]="Morrigan's Pgch.", 
             ["id"]=15727, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=5
-            }
+            ["enl"]="Morrigan's pigaches", 
+            ["en"]="Morrigan's Pgch."
         }, 
         [16100]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Morrigan's coronal", 
-            ["en"]="Morrigan's Coron.", 
             ["id"]=16100, 
-            ["bonus"]={
+            ["enl"]="Morrigan's coronal", 
+            ["en"]="Morrigan's Coron."
+        }, 
+        ["minimum peices"]=5, 
+        ["set id"]=23, 
+        ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Magic Atk. Bonus"]=5
-            }
-        }, 
-        [27652]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Morrigan's coronal +1", 
-            ["en"]="Mor. Coronal +1", 
-            ["id"]=27652, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2
-            }
-        }, 
-        [27792]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Morrigan's robe +1", 
-            ["en"]="Morrigan's Robe +1", 
-            ["id"]=27792, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2
-            }
-        }, 
-        [27932]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Morrigan's cuffs +1", 
-            ["en"]="Morrigan's Cuffs +1", 
-            ["id"]=27932, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2
-            }
-        }, 
-        [28075]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Morrigan's slops +1", 
-            ["en"]="Morrigan's Slops +1", 
-            ["id"]=28075, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2
-            }
-        }, 
-        [28212]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Morrigan's pigaches +1", 
-            ["en"]="Morrigan's Pgch. +1", 
-            ["id"]=28212, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2
             }
         }
     }, 
     [24]={
         [14570]={
-            ["Set Bonus"]="\"Magic Def. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goliard saio", 
-            ["en"]="Goliard Saio", 
             ["id"]=14570, 
-            ["bonus"]=""
+            ["enl"]="goliard saio", 
+            ["en"]="Goliard Saio"
         }, 
         [14985]={
-            ["Set Bonus"]="\"Magic Def. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goliard cuffs", 
-            ["en"]="Goliard Cuffs", 
             ["id"]=14985, 
-            ["bonus"]=""
+            ["enl"]="goliard cuffs", 
+            ["en"]="Goliard Cuffs"
         }, 
         [15649]={
-            ["Set Bonus"]="\"Magic Def. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goliard trews", 
-            ["en"]="Goliard Trews", 
             ["id"]=15649, 
-            ["bonus"]=""
+            ["enl"]="goliard trews", 
+            ["en"]="Goliard Trews"
         }, 
         [15735]={
-            ["Set Bonus"]="\"Magic Def. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goliard clogs", 
-            ["en"]="Goliard Clogs", 
             ["id"]=15735, 
-            ["bonus"]=""
+            ["enl"]="goliard clogs", 
+            ["en"]="Goliard Clogs"
         }, 
         [16108]={
-            ["Set Bonus"]="\"Magic Def. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goliard chapeau", 
-            ["en"]="Goliard Chapeau", 
             ["id"]=16108, 
-            ["bonus"]=""
+            ["enl"]="goliard chapeau", 
+            ["en"]="Goliard Chapeau"
+        }, 
+        ["set id"]=24, 
+        ["Set Bonus"]="\"Magic Def. Bonus\"", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [25]={
         [26782]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="erilaz galea", 
-            ["en"]="Erilaz Galea", 
             ["id"]=26782, 
-            ["bonus"]=""
+            ["enl"]="erilaz galea", 
+            ["en"]="Erilaz Galea"
         }, 
         [26783]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="erilaz galea +1", 
-            ["en"]="Erilaz Galea +1", 
             ["id"]=26783, 
-            ["bonus"]=""
+            ["enl"]="erilaz galea +1", 
+            ["en"]="Erilaz Galea +1"
         }, 
         [26940]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="erilaz surcoat", 
-            ["en"]="Erilaz Surcoat", 
             ["id"]=26940, 
-            ["bonus"]=""
+            ["enl"]="erilaz surcoat", 
+            ["en"]="Erilaz Surcoat"
         }, 
         [26941]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="erilaz surcoat +1", 
-            ["en"]="Erilaz Surcoat +1", 
             ["id"]=26941, 
-            ["bonus"]=""
+            ["enl"]="erilaz surcoat +1", 
+            ["en"]="Erilaz Surcoat +1"
         }, 
         [27094]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="erilaz gauntlets", 
-            ["en"]="Erilaz Gauntlets", 
             ["id"]=27094, 
-            ["bonus"]=""
+            ["enl"]="erilaz gauntlets", 
+            ["en"]="Erilaz Gauntlets"
         }, 
         [27095]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="erilaz gauntlets +1", 
-            ["en"]="Erilaz Gauntlets +1", 
             ["id"]=27095, 
-            ["bonus"]=""
+            ["enl"]="erilaz gauntlets +1", 
+            ["en"]="Erilaz Gauntlets +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=25, 
+        ["Set Bonus"]="Occ. absorbs damage taken", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }
+    }, 
+    [26]={
+        [27652]={
+            ["id"]=27652, 
+            ["enl"]="Morrigan's coronal +1", 
+            ["en"]="Mor. Coronal +1"
+        }, 
+        [27792]={
+            ["id"]=27792, 
+            ["enl"]="Morrigan's robe +1", 
+            ["en"]="Morrigan's Robe +1"
+        }, 
+        [27932]={
+            ["id"]=27932, 
+            ["enl"]="Morrigan's cuffs +1", 
+            ["en"]="Morrigan's Cuffs +1"
+        }, 
+        [28075]={
+            ["id"]=28075, 
+            ["enl"]="Morrigan's slops +1", 
+            ["en"]="Morrigan's Slops +1"
+        }, 
+        [28212]={
+            ["id"]=28212, 
+            ["enl"]="Morrigan's pigaches +1", 
+            ["en"]="Morrigan's Pgch. +1"
+        }, 
+        ["set id"]=26, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=3
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=7
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=9
+            }
         }
     }, 
     [27]={
         [10452]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="rubeus jacket", 
-            ["en"]="Rubeus Jacket", 
             ["id"]=10452, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="rubeus jacket", 
+            ["en"]="Rubeus Jacket"
         }, 
         [10502]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="rubeus gloves", 
-            ["en"]="Rubeus Gloves", 
             ["id"]=10502, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="rubeus gloves", 
+            ["en"]="Rubeus Gloves"
         }, 
         [10602]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="rubeus boots", 
-            ["en"]="Rubeus Boots", 
             ["id"]=10602, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="rubeus boots", 
+            ["en"]="Rubeus Boots"
         }, 
         [10878]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="rubeus bandeau", 
-            ["en"]="Rubeus Bandeau", 
             ["id"]=10878, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="rubeus bandeau", 
+            ["en"]="Rubeus Bandeau"
         }, 
         [11971]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="rubeus spats", 
-            ["en"]="Rubeus Spats", 
             ["id"]=11971, 
-            ["bonus"]={
-                ["Fast Cast"]=2
+            ["enl"]="rubeus spats", 
+            ["en"]="Rubeus Spats"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
+        ["set id"]=27, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=4
+            }, 
+            [4]={
+                ["Fast Cast"]=10
+            }, 
+            [5]={
+                ["Fast Cast"]=10
             }
         }
     }, 
     [29]={
         [14554]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="usukane haramaki", 
-            ["en"]="Usukane Haramaki", 
             ["id"]=14554, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="usukane haramaki", 
+            ["en"]="Usukane Haramaki"
         }, 
         [14969]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="usukane gote", 
-            ["en"]="Usukane Gote", 
             ["id"]=14969, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="usukane gote", 
+            ["en"]="Usukane Gote"
         }, 
         [15633]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="usukane hizayoroi", 
-            ["en"]="Usukane Hizayoroi", 
             ["id"]=15633, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="usukane hizayoroi", 
+            ["en"]="Usukane Hizayoroi"
         }, 
         [15719]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="usukane sune-ate", 
-            ["en"]="Usukane Sune-Ate", 
             ["id"]=15719, 
-            ["bonus"]={
-                ["Haste"]=5
-            }
+            ["enl"]="usukane sune-ate", 
+            ["en"]="Usukane Sune-Ate"
         }, 
         [16092]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="usukane somen", 
-            ["en"]="Usukane Somen", 
             ["id"]=16092, 
-            ["bonus"]={
+            ["enl"]="usukane somen", 
+            ["en"]="Usukane Somen"
+        }, 
+        ["Set Bonus"]="Enhances Haste effect", 
+        ["minimum peices"]=5, 
+        ["set id"]=29, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Haste"]=5
             }
-        }, 
+        }
+    }, 
+    [30]={
         [27650]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="usukane somen +1", 
-            ["en"]="Usk. Somen +1", 
             ["id"]=27650, 
-            ["bonus"]={
-                ["Haste"]=2
-            }
+            ["enl"]="usukane somen +1", 
+            ["en"]="Usk. Somen +1"
         }, 
         [27790]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="usukane haramaki +1", 
-            ["en"]="Usk. Haramaki +1", 
             ["id"]=27790, 
-            ["bonus"]={
-                ["Haste"]=2
-            }
+            ["enl"]="usukane haramaki +1", 
+            ["en"]="Usk. Haramaki +1"
         }, 
         [27930]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="usukane gote +1", 
-            ["en"]="Usk. Gote +1", 
             ["id"]=27930, 
-            ["bonus"]={
-                ["Haste"]=2
-            }
+            ["enl"]="usukane gote +1", 
+            ["en"]="Usk. Gote +1"
         }, 
         [28073]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="usukane hizayoroi +1", 
-            ["en"]="Usk. Hizayoroi +1", 
             ["id"]=28073, 
-            ["bonus"]={
-                ["Haste"]=2
-            }
+            ["enl"]="usukane hizayoroi +1", 
+            ["en"]="Usk. Hizayoroi +1"
         }, 
         [28210]={
-            ["Set Bonus"]="Enhances Haste effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="usukane sune-ate +1", 
-            ["en"]="Usk. Sune-Ate +1", 
             ["id"]=28210, 
-            ["bonus"]={
-                ["Haste"]=2
+            ["enl"]="usukane sune-ate +1", 
+            ["en"]="Usk. Sune-Ate +1"
+        }, 
+        ["Set Bonus"]="Enhances Haste effect", 
+        ["set id"]=30, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Haste"]=3
+            }, 
+            [3]={
+                ["Haste"]=5
+            }, 
+            [4]={
+                ["Haste"]=7
+            }, 
+            [5]={
+                ["Haste"]=9
             }
         }
     }, 
     [33]={
         [13146]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=3, 
-            ["enl"]="tern necklace", 
-            ["en"]="Tern Necklace", 
             ["id"]=13146, 
-            ["bonus"]={
-                ["Haste"]=6
-            }
+            ["enl"]="tern necklace", 
+            ["en"]="Tern Necklace"
         }, 
         [13619]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=3, 
-            ["enl"]="tern cape", 
-            ["en"]="Tern Cape", 
             ["id"]=13619, 
-            ["bonus"]={
-                ["Haste"]=6
-            }
+            ["enl"]="tern cape", 
+            ["en"]="Tern Cape"
         }, 
         [15922]={
-            ["Set Bonus"]="Haste+6%", 
-            ["minimum peices"]=3, 
-            ["enl"]="tern stone", 
-            ["en"]="Tern Stone", 
             ["id"]=15922, 
-            ["bonus"]={
+            ["enl"]="tern stone", 
+            ["en"]="Tern Stone"
+        }, 
+        ["Set Bonus"]="Haste+6%", 
+        ["minimum peices"]=3, 
+        ["set id"]=33, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={
                 ["Haste"]=6
-            }
+            }, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [34]={
         [11064]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="ravager's mask +2", 
-            ["en"]="Ravager's Mask +2", 
             ["id"]=11064, 
-            ["bonus"]=""
+            ["enl"]="ravager's mask +2", 
+            ["en"]="Ravager's Mask +2"
         }, 
         [11084]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="ravager's lorica +2", 
-            ["en"]="Rvg. Lorica +2", 
             ["id"]=11084, 
-            ["bonus"]=""
+            ["enl"]="ravager's lorica +2", 
+            ["en"]="Rvg. Lorica +2"
         }, 
         [11104]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="ravager's mufflers +2", 
-            ["en"]="Rvg. Mufflers +2", 
             ["id"]=11104, 
-            ["bonus"]=""
+            ["enl"]="ravager's mufflers +2", 
+            ["en"]="Rvg. Mufflers +2"
         }, 
         [11124]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="ravager's cuisses +2", 
-            ["en"]="Rvg. Cuisses +2", 
             ["id"]=11124, 
-            ["bonus"]=""
+            ["enl"]="ravager's cuisses +2", 
+            ["en"]="Rvg. Cuisses +2"
         }, 
         [11144]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="ravager's calligae +2", 
-            ["en"]="Rvg. Calligae +2", 
             ["id"]=11144, 
-            ["bonus"]=""
+            ["enl"]="ravager's calligae +2", 
+            ["en"]="Rvg. Calligae +2"
         }, 
         [26740]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii mask", 
-            ["en"]="Boii Mask", 
             ["id"]=26740, 
-            ["bonus"]=""
+            ["enl"]="boii mask", 
+            ["en"]="Boii Mask"
         }, 
         [26741]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii mask +1", 
-            ["en"]="Boii Mask +1", 
             ["id"]=26741, 
-            ["bonus"]=""
+            ["enl"]="boii mask +1", 
+            ["en"]="Boii Mask +1"
         }, 
         [26898]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii lorica", 
-            ["en"]="Boii Lorica", 
             ["id"]=26898, 
-            ["bonus"]=""
+            ["enl"]="boii lorica", 
+            ["en"]="Boii Lorica"
         }, 
         [26899]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii lorica +1", 
-            ["en"]="Boii Lorica +1", 
             ["id"]=26899, 
-            ["bonus"]=""
+            ["enl"]="boii lorica +1", 
+            ["en"]="Boii Lorica +1"
         }, 
         [27052]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii mufflers", 
-            ["en"]="Boii Mufflers", 
             ["id"]=27052, 
-            ["bonus"]=""
+            ["enl"]="boii mufflers", 
+            ["en"]="Boii Mufflers"
         }, 
         [27053]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii mufflers +1", 
-            ["en"]="Boii Mufflers +1", 
             ["id"]=27053, 
-            ["bonus"]=""
+            ["enl"]="boii mufflers +1", 
+            ["en"]="Boii Mufflers +1"
         }, 
         [27237]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii cuisses", 
-            ["en"]="Boii Cuisses", 
             ["id"]=27237, 
-            ["bonus"]=""
+            ["enl"]="boii cuisses", 
+            ["en"]="Boii Cuisses"
         }, 
         [27238]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii cuisses +1", 
-            ["en"]="Boii Cuisses +1", 
             ["id"]=27238, 
-            ["bonus"]=""
+            ["enl"]="boii cuisses +1", 
+            ["en"]="Boii Cuisses +1"
         }, 
         [27411]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii calligae", 
-            ["en"]="Boii Calligae", 
             ["id"]=27411, 
-            ["bonus"]=""
+            ["enl"]="boii calligae", 
+            ["en"]="Boii Calligae"
         }, 
         [27412]={
-            ["Set Bonus"]="Augments \"Double Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="boii calligae +1", 
-            ["en"]="Boii Calligae +1", 
             ["id"]=27412, 
-            ["bonus"]=""
-        }
+            ["enl"]="boii calligae +1", 
+            ["en"]="Boii Calligae +1"
+        }, 
+        ["Set Bonus"]="Augments \"Double Attack\"", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["set id"]=34
     }, 
     [35]={
         [11072]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="ferine cabasset +2", 
-            ["en"]="Ferine Cabasset +2", 
             ["id"]=11072, 
-            ["bonus"]=""
+            ["enl"]="ferine cabasset +2", 
+            ["en"]="Ferine Cabasset +2"
         }, 
         [11092]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="ferine gausape +2", 
-            ["en"]="Ferine Gausape +2", 
             ["id"]=11092, 
-            ["bonus"]=""
+            ["enl"]="ferine gausape +2", 
+            ["en"]="Ferine Gausape +2"
         }, 
         [11112]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="ferine manoplas +2", 
-            ["en"]="Frn. Manoplas +2", 
             ["id"]=11112, 
-            ["bonus"]=""
+            ["enl"]="ferine manoplas +2", 
+            ["en"]="Frn. Manoplas +2"
         }, 
         [11132]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="ferine quijotes +2", 
-            ["en"]="Ferine Quijotes +2", 
             ["id"]=11132, 
-            ["bonus"]=""
+            ["enl"]="ferine quijotes +2", 
+            ["en"]="Ferine Quijotes +2"
         }, 
         [11152]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="ferine ocreae +2", 
-            ["en"]="Ferine Ocreae +2", 
             ["id"]=11152, 
-            ["bonus"]=""
+            ["enl"]="ferine ocreae +2", 
+            ["en"]="Ferine Ocreae +2"
         }, 
         [26756]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi cabasset", 
-            ["en"]="Nukumi Cabasset", 
             ["id"]=26756, 
-            ["bonus"]=""
+            ["enl"]="nukumi cabasset", 
+            ["en"]="Nukumi Cabasset"
         }, 
         [26757]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi cabasset +1", 
-            ["en"]="Nuk. Cabasset +1", 
             ["id"]=26757, 
-            ["bonus"]=""
+            ["enl"]="nukumi cabasset +1", 
+            ["en"]="Nuk. Cabasset +1"
         }, 
         [26914]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi gausape", 
-            ["en"]="Nukumi Gausape", 
             ["id"]=26914, 
-            ["bonus"]=""
+            ["enl"]="nukumi gausape", 
+            ["en"]="Nukumi Gausape"
         }, 
         [26915]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi gausape +1", 
-            ["en"]="Nukumi Gausape +1", 
             ["id"]=26915, 
-            ["bonus"]=""
+            ["enl"]="nukumi gausape +1", 
+            ["en"]="Nukumi Gausape +1"
         }, 
         [27068]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi manoplas", 
-            ["en"]="Nukumi Manoplas", 
             ["id"]=27068, 
-            ["bonus"]=""
+            ["enl"]="nukumi manoplas", 
+            ["en"]="Nukumi Manoplas"
         }, 
         [27069]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi manoplas +1", 
-            ["en"]="Nukumi Manoplas +1", 
             ["id"]=27069, 
-            ["bonus"]=""
+            ["enl"]="nukumi manoplas +1", 
+            ["en"]="Nukumi Manoplas +1"
         }, 
         [27253]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi quijotes", 
-            ["en"]="Nukumi Quijotes", 
             ["id"]=27253, 
-            ["bonus"]=""
+            ["enl"]="nukumi quijotes", 
+            ["en"]="Nukumi Quijotes"
         }, 
         [27254]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi quijotes +1", 
-            ["en"]="Nukumi Quijotes +1", 
             ["id"]=27254, 
-            ["bonus"]=""
+            ["enl"]="nukumi quijotes +1", 
+            ["en"]="Nukumi Quijotes +1"
         }, 
         [27427]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi ocreae", 
-            ["en"]="Nukumi Ocreae", 
             ["id"]=27427, 
-            ["bonus"]=""
+            ["enl"]="nukumi ocreae", 
+            ["en"]="Nukumi Ocreae"
         }, 
         [27428]={
-            ["Set Bonus"]="Attack occ. varies with pet's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="nukumi ocreae +1", 
-            ["en"]="Nukumi Ocreae +1", 
             ["id"]=27428, 
-            ["bonus"]=""
+            ["enl"]="nukumi ocreae +1", 
+            ["en"]="Nukumi Ocreae +1"
+        }, 
+        ["set id"]=35, 
+        ["Set Bonus"]="Attack occ. varies with pet's HP", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [38]={
         [10315]={
-            ["Set Bonus"]="Magic damage taken -5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="alcedo gauntlets", 
-            ["en"]="Alcedo Gauntlets", 
             ["id"]=10315, 
-            ["bonus"]={
-                ["MDT"]=2.5
-            }
+            ["enl"]="alcedo gauntlets", 
+            ["en"]="Alcedo Gauntlets"
         }, 
         [10598]={
-            ["Set Bonus"]="Magic damage taken -5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="alcedo cuisses", 
-            ["en"]="Alcedo Cuisses", 
             ["id"]=10598, 
-            ["bonus"]={
-                ["MDT"]=2.5
-            }
+            ["enl"]="alcedo cuisses", 
+            ["en"]="Alcedo Cuisses"
+        }, 
+        ["set id"]=38, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Magic damage taken -5%", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["MDT"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [41]={
         [10484]={
-            ["Set Bonus"]="Increases STR, INT, MND, CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="Nares saio", 
-            ["en"]="Nares Saio", 
             ["id"]=10484, 
-            ["bonus"]=""
+            ["enl"]="Nares saio", 
+            ["en"]="Nares Saio"
         }, 
         [10533]={
-            ["Set Bonus"]="Increases STR, INT, MND, CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="Nares cuffs", 
-            ["en"]="Nares Cuffs", 
             ["id"]=10533, 
-            ["bonus"]=""
+            ["enl"]="Nares cuffs", 
+            ["en"]="Nares Cuffs"
         }, 
         [10564]={
-            ["Set Bonus"]="Increases STR, INT, MND, CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="Nares trews", 
-            ["en"]="Nares Trews", 
             ["id"]=10564, 
-            ["bonus"]=""
+            ["enl"]="Nares trews", 
+            ["en"]="Nares Trews"
         }, 
         [10630]={
-            ["Set Bonus"]="Increases STR, INT, MND, CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="Nares clogs", 
-            ["en"]="Nares Clogs", 
             ["id"]=10630, 
-            ["bonus"]=""
+            ["enl"]="Nares clogs", 
+            ["en"]="Nares Clogs"
         }, 
         [10911]={
-            ["Set Bonus"]="Increases STR, INT, MND, CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="Nares cap", 
-            ["en"]="Nares Cap", 
             ["id"]=10911, 
-            ["bonus"]=""
+            ["enl"]="Nares cap", 
+            ["en"]="Nares Cap"
+        }, 
+        ["Set Bonus"]="Increases STR, INT, MND, CHR", 
+        ["minimum peices"]=2, 
+        ["set id"]=41, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [45]={
         [23051]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido kabuto +2", 
-            ["en"]="Wakido Kabuto +2", 
             ["id"]=23051, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido kabuto +2", 
+            ["en"]="Wakido Kabuto +2"
         }, 
         [23118]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido domaru +2", 
-            ["en"]="Wakido Domaru +2", 
             ["id"]=23118, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido domaru +2", 
+            ["en"]="Wakido Domaru +2"
         }, 
         [23185]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido kote +2", 
-            ["en"]="Wakido Kote +2", 
             ["id"]=23185, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido kote +2", 
+            ["en"]="Wakido Kote +2"
         }, 
         [23252]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido haidate +2", 
-            ["en"]="Wakido Haidate +2", 
             ["id"]=23252, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido haidate +2", 
+            ["en"]="Wakido Haidate +2"
         }, 
         [23319]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido sune-ate +2", 
-            ["en"]="Wakido Sune. +2", 
             ["id"]=23319, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido sune-ate +2", 
+            ["en"]="Wakido Sune. +2"
         }, 
         [23386]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido kabuto +3", 
-            ["en"]="Wakido Kabuto +3", 
             ["id"]=23386, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido kabuto +3", 
+            ["en"]="Wakido Kabuto +3"
         }, 
         [23453]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido domaru +3", 
-            ["en"]="Wakido Domaru +3", 
             ["id"]=23453, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido domaru +3", 
+            ["en"]="Wakido Domaru +3"
         }, 
         [23520]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido kote +3", 
-            ["en"]="Wakido Kote +3", 
             ["id"]=23520, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido kote +3", 
+            ["en"]="Wakido Kote +3"
         }, 
         [23587]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido haidate +3", 
-            ["en"]="Wakido Haidate +3", 
             ["id"]=23587, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="wakido haidate +3", 
+            ["en"]="Wakido Haidate +3"
         }, 
         [23654]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="wakido sune-ate +3", 
-            ["en"]="Wakido Sune. +3", 
             ["id"]=23654, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="wakido sune-ate +3", 
+            ["en"]="Wakido Sune. +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=45, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [46]={
         [23048]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic helm +2", 
-            ["en"]="Totemic Helm +2", 
             ["id"]=23048, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic helm +2", 
+            ["en"]="Totemic Helm +2"
         }, 
         [23115]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic jackcoat +2", 
-            ["en"]="Tot. Jackcoat +2", 
             ["id"]=23115, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic jackcoat +2", 
+            ["en"]="Tot. Jackcoat +2"
         }, 
         [23182]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic gloves +2", 
-            ["en"]="Totemic Gloves +2", 
             ["id"]=23182, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic gloves +2", 
+            ["en"]="Totemic Gloves +2"
         }, 
         [23249]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic trousers +2", 
-            ["en"]="Tot. Trousers +2", 
             ["id"]=23249, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic trousers +2", 
+            ["en"]="Tot. Trousers +2"
         }, 
         [23316]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic gaiters +2", 
-            ["en"]="Tot. Gaiters +2", 
             ["id"]=23316, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic gaiters +2", 
+            ["en"]="Tot. Gaiters +2"
         }, 
         [23383]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic helm +3", 
-            ["en"]="Totemic Helm +3", 
             ["id"]=23383, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic helm +3", 
+            ["en"]="Totemic Helm +3"
         }, 
         [23450]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic jackcoat +3", 
-            ["en"]="Tot. Jackcoat +3", 
             ["id"]=23450, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic jackcoat +3", 
+            ["en"]="Tot. Jackcoat +3"
         }, 
         [23517]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic gloves +3", 
-            ["en"]="Totemic Gloves +3", 
             ["id"]=23517, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic gloves +3", 
+            ["en"]="Totemic Gloves +3"
         }, 
         [23584]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic trousers +3", 
-            ["en"]="Tot. Trousers +3", 
             ["id"]=23584, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="totemic trousers +3", 
+            ["en"]="Tot. Trousers +3"
         }, 
         [23651]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="totemic gaiters +3", 
-            ["en"]="Tot. Gaiters +3", 
             ["id"]=23651, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="totemic gaiters +3", 
+            ["en"]="Tot. Gaiters +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["set id"]=46, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [47]={
         [23045]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's bonnet +2", 
-            ["en"]="Pill. Bonnet +2", 
             ["id"]=23045, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's bonnet +2", 
+            ["en"]="Pill. Bonnet +2"
         }, 
         [23112]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's vest +2", 
-            ["en"]="Pillager's Vest +2", 
             ["id"]=23112, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's vest +2", 
+            ["en"]="Pillager's Vest +2"
         }, 
         [23179]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's armlets +2", 
-            ["en"]="Pill. Armlets +2", 
             ["id"]=23179, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's armlets +2", 
+            ["en"]="Pill. Armlets +2"
         }, 
         [23246]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's culottes +2", 
-            ["en"]="Pill. Culottes +2", 
             ["id"]=23246, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's culottes +2", 
+            ["en"]="Pill. Culottes +2"
         }, 
         [23313]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's poulaines +2", 
-            ["en"]="Pill. Poulaines +2", 
             ["id"]=23313, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's poulaines +2", 
+            ["en"]="Pill. Poulaines +2"
         }, 
         [23380]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's bonnet +3", 
-            ["en"]="Pill. Bonnet +3", 
             ["id"]=23380, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's bonnet +3", 
+            ["en"]="Pill. Bonnet +3"
         }, 
         [23447]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's vest +3", 
-            ["en"]="Pillager's Vest +3", 
             ["id"]=23447, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's vest +3", 
+            ["en"]="Pillager's Vest +3"
         }, 
         [23514]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's armlets +3", 
-            ["en"]="Pill. Armlets +3", 
             ["id"]=23514, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's armlets +3", 
+            ["en"]="Pill. Armlets +3"
         }, 
         [23581]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's culottes +3", 
-            ["en"]="Pill. Culottes +3", 
             ["id"]=23581, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pillager's culottes +3", 
+            ["en"]="Pill. Culottes +3"
         }, 
         [23648]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pillager's poulaines +3", 
-            ["en"]="Pill. Poulaines +3", 
             ["id"]=23648, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="pillager's poulaines +3", 
+            ["en"]="Pill. Poulaines +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["set id"]=47, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [48]={
         [23061]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy galero +2", 
-            ["en"]="Geo. Galero +2", 
             ["id"]=23061, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy galero +2", 
+            ["en"]="Geo. Galero +2"
         }, 
         [23128]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy tunic +2", 
-            ["en"]="Geomancy Tunic +2", 
             ["id"]=23128, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy tunic +2", 
+            ["en"]="Geomancy Tunic +2"
         }, 
         [23195]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy mitaines +2", 
-            ["en"]="Geo. Mitaines +2", 
             ["id"]=23195, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy mitaines +2", 
+            ["en"]="Geo. Mitaines +2"
         }, 
         [23262]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy pants +2", 
-            ["en"]="Geomancy Pants +2", 
             ["id"]=23262, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy pants +2", 
+            ["en"]="Geomancy Pants +2"
         }, 
         [23329]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy sandals +2", 
-            ["en"]="Geo. Sandals +2", 
             ["id"]=23329, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy sandals +2", 
+            ["en"]="Geo. Sandals +2"
         }, 
         [23396]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy galero +3", 
-            ["en"]="Geo. Galero +3", 
             ["id"]=23396, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy galero +3", 
+            ["en"]="Geo. Galero +3"
         }, 
         [23463]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy tunic +3", 
-            ["en"]="Geomancy Tunic +3", 
             ["id"]=23463, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy tunic +3", 
+            ["en"]="Geomancy Tunic +3"
         }, 
         [23530]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy mitaines +3", 
-            ["en"]="Geo. Mitaines +3", 
             ["id"]=23530, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy mitaines +3", 
+            ["en"]="Geo. Mitaines +3"
         }, 
         [23597]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy pants +3", 
-            ["en"]="Geomancy Pants +3", 
             ["id"]=23597, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="geomancy pants +3", 
+            ["en"]="Geomancy Pants +3"
         }, 
         [23664]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="geomancy sandals +3", 
-            ["en"]="Geo. Sandals +3", 
             ["id"]=23664, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="geomancy sandals +3", 
+            ["en"]="Geo. Sandals +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=48, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [49]={
         [23042]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany cap +2", 
-            ["en"]="Theophany Cap +2", 
             ["id"]=23042, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany cap +2", 
+            ["en"]="Theophany Cap +2"
         }, 
         [23109]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany briault +2", 
-            ["en"]="Theo. Briault +2", 
             ["id"]=23109, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany briault +2", 
+            ["en"]="Theo. Briault +2"
         }, 
         [23176]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany mitts +2", 
-            ["en"]="Theophany Mitts +2", 
             ["id"]=23176, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany mitts +2", 
+            ["en"]="Theophany Mitts +2"
         }, 
         [23243]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany pantaloons +2", 
-            ["en"]="Th. Pantaloons +2", 
             ["id"]=23243, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany pantaloons +2", 
+            ["en"]="Th. Pantaloons +2"
         }, 
         [23310]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany duckbills +2", 
-            ["en"]="Theo. Duckbills +2", 
             ["id"]=23310, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany duckbills +2", 
+            ["en"]="Theo. Duckbills +2"
         }, 
         [23377]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany cap +3", 
-            ["en"]="Theophany Cap +3", 
             ["id"]=23377, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany cap +3", 
+            ["en"]="Theophany Cap +3"
         }, 
         [23444]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany briault +3", 
-            ["en"]="Theo. Briault +3", 
             ["id"]=23444, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany briault +3", 
+            ["en"]="Theo. Briault +3"
         }, 
         [23511]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany mitts +3", 
-            ["en"]="Theophany Mitts +3", 
             ["id"]=23511, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany mitts +3", 
+            ["en"]="Theophany Mitts +3"
         }, 
         [23578]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany pantaloons +3", 
-            ["en"]="Th. Pant. +3", 
             ["id"]=23578, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="theophany pantaloons +3", 
+            ["en"]="Th. Pant. +3"
         }, 
         [23645]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="theophany duckbills +3", 
-            ["en"]="Theo. Duckbills +3", 
             ["id"]=23645, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="theophany duckbills +3", 
+            ["en"]="Theo. Duckbills +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["set id"]=49, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [50]={
         [23058]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tiara +2", 
-            ["en"]="Maxixi Tiara +2", 
             ["id"]=23058, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tiara +2", 
+            ["en"]="Maxixi Tiara +2"
         }, 
         [23059]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tiara +2", 
-            ["en"]="Maxixi Tiara +2", 
             ["id"]=23059, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tiara +2", 
+            ["en"]="Maxixi Tiara +2"
         }, 
         [23125]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi casaque +2", 
-            ["en"]="Maxixi Casaque +2", 
             ["id"]=23125, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi casaque +2", 
+            ["en"]="Maxixi Casaque +2"
         }, 
         [23126]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi casaque +2", 
-            ["en"]="Maxixi Casaque +2", 
             ["id"]=23126, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi casaque +2", 
+            ["en"]="Maxixi Casaque +2"
         }, 
         [23192]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi bangles +2", 
-            ["en"]="Maxixi Bangles +2", 
             ["id"]=23192, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi bangles +2", 
+            ["en"]="Maxixi Bangles +2"
         }, 
         [23193]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi bangles +2", 
-            ["en"]="Maxixi Bangles +2", 
             ["id"]=23193, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi bangles +2", 
+            ["en"]="Maxixi Bangles +2"
         }, 
         [23259]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tights +2", 
-            ["en"]="Maxixi Tights +2", 
             ["id"]=23259, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tights +2", 
+            ["en"]="Maxixi Tights +2"
         }, 
         [23260]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tights +2", 
-            ["en"]="Maxixi Tights +2", 
             ["id"]=23260, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tights +2", 
+            ["en"]="Maxixi Tights +2"
         }, 
         [23326]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi toeshoes +2", 
-            ["en"]="Maxixi Toeshoes +2", 
             ["id"]=23326, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi toeshoes +2", 
+            ["en"]="Maxixi Toeshoes +2"
         }, 
         [23327]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi toeshoes +2", 
-            ["en"]="Maxixi Toeshoes +2", 
             ["id"]=23327, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi toeshoes +2", 
+            ["en"]="Maxixi Toeshoes +2"
         }, 
         [23393]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tiara +3", 
-            ["en"]="Maxixi Tiara +3", 
             ["id"]=23393, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tiara +3", 
+            ["en"]="Maxixi Tiara +3"
         }, 
         [23394]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tiara +3", 
-            ["en"]="Maxixi Tiara +3", 
             ["id"]=23394, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tiara +3", 
+            ["en"]="Maxixi Tiara +3"
         }, 
         [23460]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi casaque +3", 
-            ["en"]="Maxixi Casaque +3", 
             ["id"]=23460, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi casaque +3", 
+            ["en"]="Maxixi Casaque +3"
         }, 
         [23461]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi casaque +3", 
-            ["en"]="Maxixi Casaque +3", 
             ["id"]=23461, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi casaque +3", 
+            ["en"]="Maxixi Casaque +3"
         }, 
         [23527]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi bangles +3", 
-            ["en"]="Maxixi Bangles +3", 
             ["id"]=23527, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi bangles +3", 
+            ["en"]="Maxixi Bangles +3"
         }, 
         [23528]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi bangles +3", 
-            ["en"]="Maxixi Bangles +3", 
             ["id"]=23528, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi bangles +3", 
+            ["en"]="Maxixi Bangles +3"
         }, 
         [23594]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tights +3", 
-            ["en"]="Maxixi Tights +3", 
             ["id"]=23594, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tights +3", 
+            ["en"]="Maxixi Tights +3"
         }, 
         [23595]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi tights +3", 
-            ["en"]="Maxixi Tights +3", 
             ["id"]=23595, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi tights +3", 
+            ["en"]="Maxixi Tights +3"
         }, 
         [23661]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi toeshoes +3", 
-            ["en"]="Maxixi Toeshoes +3", 
             ["id"]=23661, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="maxixi toeshoes +3", 
+            ["en"]="Maxixi Toeshoes +3"
         }, 
         [23662]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="maxixi toeshoes +3", 
-            ["en"]="Maxixi Toeshoes +3", 
             ["id"]=23662, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="maxixi toeshoes +3", 
+            ["en"]="Maxixi Toeshoes +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
-        }
+        }, 
+        ["set id"]=50
     }, 
     [51]={
         [26679]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="carmine mask +1", 
-            ["en"]="Carmine Mask +1", 
             ["id"]=26679, 
-            ["bonus"]={
-                ["Accuracy"]=10
-            }
+            ["enl"]="carmine mask +1", 
+            ["en"]="Carmine Mask +1"
         }, 
         [26855]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="carmine scale mail +1", 
-            ["en"]="Carm. Sc. Mail +1", 
             ["id"]=26855, 
-            ["bonus"]={
-                ["Accuracy"]=10
-            }
+            ["enl"]="carmine scale mail +1", 
+            ["en"]="Carm. Sc. Mail +1"
         }, 
         [27031]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="carmine finger gauntlets +1", 
-            ["en"]="Carmine Fin. Ga. +1", 
             ["id"]=27031, 
-            ["bonus"]={
-                ["Accuracy"]=10
-            }
+            ["enl"]="carmine finger gauntlets +1", 
+            ["en"]="Carmine Fin. Ga. +1"
         }, 
         [27207]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="carmine cuisses +1", 
-            ["en"]="Carmine Cuisses +1", 
             ["id"]=27207, 
-            ["bonus"]={
-                ["Accuracy"]=10
-            }
+            ["enl"]="carmine cuisses +1", 
+            ["en"]="Carmine Cuisses +1"
         }, 
         [27383]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="carmine greaves +1", 
-            ["en"]="Carmine Greaves +1", 
             ["id"]=27383, 
-            ["bonus"]={
-                ["Accuracy"]=10
+            ["enl"]="carmine greaves +1", 
+            ["en"]="Carmine Greaves +1"
+        }, 
+        ["Set Bonus"]="Increases Accuracy", 
+        ["minimum peices"]=2, 
+        ["set id"]=51, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=20
+            }, 
+            [3]={
+                ["Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=40
+            }, 
+            [5]={
+                ["Accuracy"]=50
             }
         }
     }, 
     [52]={
         [26711]={
-            ["Set Bonus"]="Haste+2-5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="perle salade +1", 
-            ["en"]="Perle Salade +1", 
             ["id"]=26711, 
-            ["bonus"]={
-                ["Haste"]=1
-            }
+            ["enl"]="perle salade +1", 
+            ["en"]="Perle Salade +1"
         }, 
         [27851]={
-            ["Set Bonus"]="Haste+2-5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="perle hauberk +1", 
-            ["en"]="Perle Hauberk +1", 
             ["id"]=27851, 
-            ["bonus"]={
-                ["Haste"]=1
-            }
+            ["enl"]="perle hauberk +1", 
+            ["en"]="Perle Hauberk +1"
         }, 
         [27997]={
-            ["Set Bonus"]="Haste+2-5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="perle moufles +1", 
-            ["en"]="Perle Moufles +1", 
             ["id"]=27997, 
-            ["bonus"]={
-                ["Haste"]=1
-            }
+            ["enl"]="perle moufles +1", 
+            ["en"]="Perle Moufles +1"
         }, 
         [28138]={
-            ["Set Bonus"]="Haste+2-5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="perle brayettes +1", 
-            ["en"]="Perle Brayettes +1", 
             ["id"]=28138, 
-            ["bonus"]={
-                ["Haste"]=1
-            }
+            ["enl"]="perle brayettes +1", 
+            ["en"]="Perle Brayettes +1"
         }, 
         [28277]={
-            ["Set Bonus"]="Haste+2-5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="perle sollerets +1", 
-            ["en"]="Perle Sollerets +1", 
             ["id"]=28277, 
-            ["bonus"]={
-                ["Haste"]=1
+            ["enl"]="perle sollerets +1", 
+            ["en"]="Perle Sollerets +1"
+        }, 
+        ["Set Bonus"]="Haste+2-5%", 
+        ["set id"]=52, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Haste"]=2
+            }, 
+            [3]={
+                ["Haste"]=3
+            }, 
+            [4]={
+                ["Haste"]=4
+            }, 
+            [5]={
+                ["Haste"]=5
             }
         }
     }, 
     [53]={
         [23055]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's keffiyeh +2", 
-            ["en"]="Assim. Keffiyeh +2", 
             ["id"]=23055, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's keffiyeh +2", 
+            ["en"]="Assim. Keffiyeh +2"
         }, 
         [23122]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's jubbah +2", 
-            ["en"]="Assim. Jubbah +2", 
             ["id"]=23122, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's jubbah +2", 
+            ["en"]="Assim. Jubbah +2"
         }, 
         [23189]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's bazubands +2", 
-            ["en"]="Assim. Bazu. +2", 
             ["id"]=23189, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's bazubands +2", 
+            ["en"]="Assim. Bazu. +2"
         }, 
         [23256]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's shalwar +2", 
-            ["en"]="Assim. Shalwar +2", 
             ["id"]=23256, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's shalwar +2", 
+            ["en"]="Assim. Shalwar +2"
         }, 
         [23323]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's charuqs +2", 
-            ["en"]="Assim. Charuqs +2", 
             ["id"]=23323, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's charuqs +2", 
+            ["en"]="Assim. Charuqs +2"
         }, 
         [23390]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's keffiyeh +3", 
-            ["en"]="Assim. Keffiyeh +3", 
             ["id"]=23390, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's keffiyeh +3", 
+            ["en"]="Assim. Keffiyeh +3"
         }, 
         [23457]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's jubbah +3", 
-            ["en"]="Assim. Jubbah +3", 
             ["id"]=23457, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's jubbah +3", 
+            ["en"]="Assim. Jubbah +3"
         }, 
         [23524]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's bazubands +3", 
-            ["en"]="Assim. Bazu. +3", 
             ["id"]=23524, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's bazubands +3", 
+            ["en"]="Assim. Bazu. +3"
         }, 
         [23591]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's shalwar +3", 
-            ["en"]="Assim. Shalwar +3", 
             ["id"]=23591, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="assimilator's shalwar +3", 
+            ["en"]="Assim. Shalwar +3"
         }, 
         [23658]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="assimilator's charuqs +3", 
-            ["en"]="Assim. Charuqs +3", 
             ["id"]=23658, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="assimilator's charuqs +3", 
+            ["en"]="Assim. Charuqs +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=53, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [57]={
         [10864]={
-            ["Set Bonus"]="\"Triple Attack\"+3%", 
-            ["minimum peices"]=2, 
-            ["enl"]="ocelomeh headpiece", 
-            ["en"]="Ocelo. Headpiece", 
             ["id"]=10864, 
-            ["bonus"]={
-                ["Triple Attack"]=1.5
-            }
+            ["enl"]="ocelomeh headpiece", 
+            ["en"]="Ocelo. Headpiece"
         }, 
         [10867]={
-            ["Set Bonus"]="\"Triple Attack\"+3%", 
-            ["minimum peices"]=2, 
-            ["enl"]="ocelomeh headpiece +1", 
-            ["en"]="Oce. Headpiece +1", 
             ["id"]=10867, 
-            ["bonus"]={
-                ["Triple Attack"]=1.5
-            }
+            ["enl"]="ocelomeh headpiece +1", 
+            ["en"]="Oce. Headpiece +1"
         }, 
         [11863]={
-            ["Set Bonus"]="\"Triple Attack\"+3%", 
-            ["minimum peices"]=2, 
-            ["enl"]="ocelomeh harness", 
-            ["en"]="Ocelomeh Harness", 
             ["id"]=11863, 
-            ["bonus"]={
-                ["Triple Attack"]=1.5
-            }
+            ["enl"]="ocelomeh harness", 
+            ["en"]="Ocelomeh Harness"
         }, 
         [11866]={
-            ["Set Bonus"]="\"Triple Attack\"+3%", 
-            ["minimum peices"]=2, 
-            ["enl"]="Toci's harness", 
-            ["en"]="Toci's Harness", 
             ["id"]=11866, 
-            ["bonus"]={
-                ["Triple Attack"]=1.5
-            }
+            ["enl"]="Toci's harness", 
+            ["en"]="Toci's Harness"
         }, 
         [11869]={
-            ["Set Bonus"]="\"Triple Attack\"+3%", 
-            ["minimum peices"]=2, 
-            ["enl"]="ocelomeh harness +1", 
-            ["en"]="Ocelm. Harness +1", 
             ["id"]=11869, 
-            ["bonus"]={
-                ["Triple Attack"]=1.5
-            }
+            ["enl"]="ocelomeh harness +1", 
+            ["en"]="Ocelm. Harness +1"
+        }, 
+        ["Set Bonus"]="\"Triple Attack\"+3%", 
+        ["minimum peices"]=2, 
+        ["set id"]=57, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Triple Attack"]=3
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [59]={
         [25575]={
-            ["Set Bonus"]="Enhances \"Regen\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="meghanada visor +2", 
-            ["en"]="Meghanada Visor +2", 
             ["id"]=25575, 
-            ["bonus"]={
-                ["Regen"]=2
-            }
+            ["enl"]="meghanada visor +2", 
+            ["en"]="Meghanada Visor +2"
         }, 
         [25791]={
-            ["Set Bonus"]="Enhances \"Regen\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="meghanada cuirie +2", 
-            ["en"]="Meg. Cuirie +2", 
             ["id"]=25791, 
-            ["bonus"]={
-                ["Regen"]=2
-            }
+            ["enl"]="meghanada cuirie +2", 
+            ["en"]="Meg. Cuirie +2"
         }, 
         [25829]={
-            ["Set Bonus"]="Enhances \"Regen\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="meghanada gloves +2", 
-            ["en"]="Meg. Gloves +2", 
             ["id"]=25829, 
-            ["bonus"]={
-                ["Regen"]=2
-            }
+            ["enl"]="meghanada gloves +2", 
+            ["en"]="Meg. Gloves +2"
         }, 
         [25880]={
-            ["Set Bonus"]="Enhances \"Regen\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="meghanada chausses +2", 
-            ["en"]="Meg. Chausses +2", 
             ["id"]=25880, 
-            ["bonus"]={
-                ["Regen"]=2
-            }
+            ["enl"]="meghanada chausses +2", 
+            ["en"]="Meg. Chausses +2"
         }, 
         [25947]={
-            ["Set Bonus"]="Enhances \"Regen\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="meghanada jambeaux +2", 
-            ["en"]="Meg. Jam. +2", 
             ["id"]=25947, 
-            ["bonus"]={
-                ["Regen"]=2
-            }
+            ["enl"]="meghanada jambeaux +2", 
+            ["en"]="Meg. Jam. +2"
         }, 
         [26205]={
-            ["Set Bonus"]="Enhances \"Regen\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="meghanada ring", 
-            ["en"]="Meghanada Ring", 
             ["id"]=26205, 
-            ["bonus"]={
-                ["Regen"]=2
+            ["enl"]="meghanada ring", 
+            ["en"]="Meghanada Ring"
+        }, 
+        ["Set Bonus"]="Enhances \"Regen\" effect", 
+        ["minimum peices"]=2, 
+        ["set id"]=59, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Regen"]=3
+            }, 
+            [3]={
+                ["Regen"]=6
+            }, 
+            [4]={
+                ["Regen"]=9
+            }, 
+            [5]={
+                ["Regen"]=12
             }
         }
     }, 
     [61]={
         [14589]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division brunne", 
-            ["en"]="Fourth Brunne", 
             ["id"]=14589, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division brunne", 
+            ["en"]="Fourth Brunne"
         }, 
         [15010]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division hentzes", 
-            ["en"]="Fourth Hentzes", 
             ["id"]=15010, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division hentzes", 
+            ["en"]="Fourth Hentzes"
         }, 
         [15756]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division schuhs", 
-            ["en"]="Fourth Schuhs", 
             ["id"]=15756, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division schuhs", 
+            ["en"]="Fourth Schuhs"
         }, 
         [16147]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division haube", 
-            ["en"]="Fourth Haube", 
             ["id"]=16147, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division haube", 
+            ["en"]="Fourth Haube"
         }, 
         [16316]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division schoss", 
-            ["en"]="Fourth Schoss", 
             ["id"]=16316, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division schoss", 
+            ["en"]="Fourth Schoss"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Attack", 
+        ["set id"]=61, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [62]={
         [11402]={
-            ["Set Bonus"]="Increases Attack and Ranged Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="gothic sabatons", 
-            ["en"]="Gothic Sabatons", 
             ["id"]=11402, 
-            ["bonus"]=""
+            ["enl"]="gothic sabatons", 
+            ["en"]="Gothic Sabatons"
         }, 
         [15042]={
-            ["Set Bonus"]="Increases Attack and Ranged Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="gothic gauntlets", 
-            ["en"]="Gothic Gauntlets", 
             ["id"]=15042, 
-            ["bonus"]=""
+            ["enl"]="gothic gauntlets", 
+            ["en"]="Gothic Gauntlets"
+        }, 
+        ["set id"]=62, 
+        ["Set Bonus"]="Increases Attack and Ranged Attack", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [63]={
         [10463]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="mustela harness", 
-            ["en"]="Mustela Harness", 
             ["id"]=10463, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="mustela harness", 
+            ["en"]="Mustela Harness"
         }, 
         [10513]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="mustela gloves", 
-            ["en"]="Mustela Gloves", 
             ["id"]=10513, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="mustela gloves", 
+            ["en"]="Mustela Gloves"
         }, 
         [10611]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="mustela boots", 
-            ["en"]="Mustela Boots", 
             ["id"]=10611, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="mustela boots", 
+            ["en"]="Mustela Boots"
         }, 
         [10891]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="mustela mask", 
-            ["en"]="Mustela Mask", 
             ["id"]=10891, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="mustela mask", 
+            ["en"]="Mustela Mask"
         }, 
         [11981]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="mustela brais", 
-            ["en"]="Mustela Brais", 
             ["id"]=11981, 
-            ["bonus"]={
+            ["enl"]="mustela brais", 
+            ["en"]="Mustela Brais"
+        }, 
+        ["minimum peices"]=5, 
+        ["Set Bonus"]="Increases rate of critical hits", 
+        ["set id"]=63, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Critical Hit Rate"]=5
             }
         }
     }, 
     [65]={
         [11069]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="raider's bonnet +2", 
-            ["en"]="Raid. Bonnet +2", 
             ["id"]=11069, 
-            ["bonus"]=""
+            ["enl"]="raider's bonnet +2", 
+            ["en"]="Raid. Bonnet +2"
         }, 
         [11089]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="raider's vest +2", 
-            ["en"]="Raider's Vest +2", 
             ["id"]=11089, 
-            ["bonus"]=""
+            ["enl"]="raider's vest +2", 
+            ["en"]="Raider's Vest +2"
         }, 
         [11109]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="raider's armlets +2", 
-            ["en"]="Raid. Armlets +2", 
             ["id"]=11109, 
-            ["bonus"]=""
+            ["enl"]="raider's armlets +2", 
+            ["en"]="Raid. Armlets +2"
         }, 
         [11129]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="raider's culottes +2", 
-            ["en"]="Raid. Culottes +2", 
             ["id"]=11129, 
-            ["bonus"]=""
+            ["enl"]="raider's culottes +2", 
+            ["en"]="Raid. Culottes +2"
         }, 
         [11149]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="raider's poulaines +2", 
-            ["en"]="Raid. Poulaines +2", 
             ["id"]=11149, 
-            ["bonus"]=""
+            ["enl"]="raider's poulaines +2", 
+            ["en"]="Raid. Poulaines +2"
         }, 
         [26750]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's bonnet", 
-            ["en"]="Skulker's Bonnet", 
             ["id"]=26750, 
-            ["bonus"]=""
+            ["enl"]="skulker's bonnet", 
+            ["en"]="Skulker's Bonnet"
         }, 
         [26751]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's bonnet +1", 
-            ["en"]="Skulker's Bonnet +1", 
             ["id"]=26751, 
-            ["bonus"]=""
+            ["enl"]="skulker's bonnet +1", 
+            ["en"]="Skulker's Bonnet +1"
         }, 
         [26908]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's vest", 
-            ["en"]="Skulker's Vest", 
             ["id"]=26908, 
-            ["bonus"]=""
+            ["enl"]="skulker's vest", 
+            ["en"]="Skulker's Vest"
         }, 
         [26909]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's vest +1", 
-            ["en"]="Skulker's Vest +1", 
             ["id"]=26909, 
-            ["bonus"]=""
+            ["enl"]="skulker's vest +1", 
+            ["en"]="Skulker's Vest +1"
         }, 
         [27062]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's armlets", 
-            ["en"]="Skulker's Armlets", 
             ["id"]=27062, 
-            ["bonus"]=""
+            ["enl"]="skulker's armlets", 
+            ["en"]="Skulker's Armlets"
         }, 
         [27063]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's armlets +1", 
-            ["en"]="Skulk. Armlets +1", 
             ["id"]=27063, 
-            ["bonus"]=""
+            ["enl"]="skulker's armlets +1", 
+            ["en"]="Skulk. Armlets +1"
         }, 
         [27247]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's culottes", 
-            ["en"]="Skulker's Culottes", 
             ["id"]=27247, 
-            ["bonus"]=""
+            ["enl"]="skulker's culottes", 
+            ["en"]="Skulker's Culottes"
         }, 
         [27248]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's culottes +1", 
-            ["en"]="Skulk. Culottes +1", 
             ["id"]=27248, 
-            ["bonus"]=""
+            ["enl"]="skulker's culottes +1", 
+            ["en"]="Skulk. Culottes +1"
         }, 
         [27421]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's poulaines", 
-            ["en"]="Skulk. Poulaines", 
             ["id"]=27421, 
-            ["bonus"]=""
+            ["enl"]="skulker's poulaines", 
+            ["en"]="Skulk. Poulaines"
         }, 
         [27422]={
-            ["Set Bonus"]="Augments \"Triple Attack\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skulker's poulaines +1", 
-            ["en"]="Skulk. Poulaines +1", 
             ["id"]=27422, 
-            ["bonus"]=""
-        }
+            ["enl"]="skulker's poulaines +1", 
+            ["en"]="Skulk. Poulaines +1"
+        }, 
+        ["set id"]=65, 
+        ["Set Bonus"]="Augments \"Triple Attack\"", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["minimum peices"]=2
     }, 
     [66]={
         [11077]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="lancer's mezail +2", 
-            ["en"]="Lancer's Mezail +2", 
             ["id"]=11077, 
-            ["bonus"]=""
+            ["enl"]="lancer's mezail +2", 
+            ["en"]="Lancer's Mezail +2"
         }, 
         [11097]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="lancer's plackart +2", 
-            ["en"]="Lncr. Plackart +2", 
             ["id"]=11097, 
-            ["bonus"]=""
+            ["enl"]="lancer's plackart +2", 
+            ["en"]="Lncr. Plackart +2"
         }, 
         [11117]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="lancer's vambraces +2", 
-            ["en"]="Lncr. Vmbrc. +2", 
             ["id"]=11117, 
-            ["bonus"]=""
+            ["enl"]="lancer's vambraces +2", 
+            ["en"]="Lncr. Vmbrc. +2"
         }, 
         [11137]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="lancer's cuissots +2", 
-            ["en"]="Lncr. Cuissots +2", 
             ["id"]=11137, 
-            ["bonus"]=""
+            ["enl"]="lancer's cuissots +2", 
+            ["en"]="Lncr. Cuissots +2"
         }, 
         [11157]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="lancer's schynbalds +2", 
-            ["en"]="Lncr. Schynbld. +2", 
             ["id"]=11157, 
-            ["bonus"]=""
+            ["enl"]="lancer's schynbalds +2", 
+            ["en"]="Lncr. Schynbld. +2"
         }, 
         [26766]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's mezail", 
-            ["en"]="Peltast's Mezail", 
             ["id"]=26766, 
-            ["bonus"]=""
+            ["enl"]="peltast's mezail", 
+            ["en"]="Peltast's Mezail"
         }, 
         [26767]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's mezail +1", 
-            ["en"]="Peltast's Mezail +1", 
             ["id"]=26767, 
-            ["bonus"]=""
+            ["enl"]="peltast's mezail +1", 
+            ["en"]="Peltast's Mezail +1"
         }, 
         [26924]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's plackart", 
-            ["en"]="Peltast's Plackart", 
             ["id"]=26924, 
-            ["bonus"]=""
+            ["enl"]="peltast's plackart", 
+            ["en"]="Peltast's Plackart"
         }, 
         [26925]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's plackart +1", 
-            ["en"]="Pelt. Plackart +1", 
             ["id"]=26925, 
-            ["bonus"]=""
+            ["enl"]="peltast's plackart +1", 
+            ["en"]="Pelt. Plackart +1"
         }, 
         [27078]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's vambraces", 
-            ["en"]="Pel. Vambraces", 
             ["id"]=27078, 
-            ["bonus"]=""
+            ["enl"]="peltast's vambraces", 
+            ["en"]="Pel. Vambraces"
         }, 
         [27079]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's vambraces +1", 
-            ["en"]="Pel. Vambraces +1", 
             ["id"]=27079, 
-            ["bonus"]=""
+            ["enl"]="peltast's vambraces +1", 
+            ["en"]="Pel. Vambraces +1"
         }, 
         [27263]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's cuissots", 
-            ["en"]="Peltast's Cuissots", 
             ["id"]=27263, 
-            ["bonus"]=""
+            ["enl"]="peltast's cuissots", 
+            ["en"]="Peltast's Cuissots"
         }, 
         [27264]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's cuissots +1", 
-            ["en"]="Pelt. Cuissots +1", 
             ["id"]=27264, 
-            ["bonus"]=""
+            ["enl"]="peltast's cuissots +1", 
+            ["en"]="Pelt. Cuissots +1"
         }, 
         [27437]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's schynbalds", 
-            ["en"]="Pelt. Schynbalds", 
             ["id"]=27437, 
-            ["bonus"]=""
+            ["enl"]="peltast's schynbalds", 
+            ["en"]="Pelt. Schynbalds"
         }, 
         [27438]={
-            ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="peltast's schynbalds +1", 
-            ["en"]="Pelt. Schyn. +1", 
             ["id"]=27438, 
-            ["bonus"]=""
-        }
+            ["enl"]="peltast's schynbalds +1", 
+            ["en"]="Pelt. Schyn. +1"
+        }, 
+        ["Set Bonus"]="Attack occ. varies with wyvern's HP", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=66
     }, 
     [69]={
         [15000]={
-            ["Set Bonus"]="Increases VIT", 
-            ["minimum peices"]=2, 
-            ["enl"]="caballero gauntlets", 
-            ["en"]="Caballero Gnt.", 
             ["id"]=15000, 
-            ["bonus"]=""
+            ["enl"]="caballero gauntlets", 
+            ["en"]="Caballero Gnt."
         }, 
         [16169]={
-            ["Set Bonus"]="Increases VIT", 
-            ["minimum peices"]=2, 
-            ["enl"]="caballero shield", 
-            ["en"]="Caballero Shield", 
             ["id"]=16169, 
-            ["bonus"]=""
+            ["enl"]="caballero shield", 
+            ["en"]="Caballero Shield"
+        }, 
+        ["set id"]=69, 
+        ["Set Bonus"]="Increases VIT", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [84]={
         [23052]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya hatsuburi +2", 
-            ["en"]="Hachiya Hatsu. +2", 
             ["id"]=23052, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya hatsuburi +2", 
+            ["en"]="Hachiya Hatsu. +2"
         }, 
         [23119]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya chainmail +2", 
-            ["en"]="Hachiya Chain. +2", 
             ["id"]=23119, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya chainmail +2", 
+            ["en"]="Hachiya Chain. +2"
         }, 
         [23186]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya tekko +2", 
-            ["en"]="Hachiya Tekko +2", 
             ["id"]=23186, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya tekko +2", 
+            ["en"]="Hachiya Tekko +2"
         }, 
         [23253]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya hakama +2", 
-            ["en"]="Hachiya Hakama +2", 
             ["id"]=23253, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya hakama +2", 
+            ["en"]="Hachiya Hakama +2"
         }, 
         [23320]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya kyahan +2", 
-            ["en"]="Hachiya Kyahan +2", 
             ["id"]=23320, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya kyahan +2", 
+            ["en"]="Hachiya Kyahan +2"
         }, 
         [23387]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya hatsuburi +3", 
-            ["en"]="Hachiya Hatsu. +3", 
             ["id"]=23387, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya hatsuburi +3", 
+            ["en"]="Hachiya Hatsu. +3"
         }, 
         [23454]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya chainmail +3", 
-            ["en"]="Hachiya Chain. +3", 
             ["id"]=23454, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya chainmail +3", 
+            ["en"]="Hachiya Chain. +3"
         }, 
         [23521]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya tekko +3", 
-            ["en"]="Hachiya Tekko +3", 
             ["id"]=23521, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya tekko +3", 
+            ["en"]="Hachiya Tekko +3"
         }, 
         [23588]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya hakama +3", 
-            ["en"]="Hachiya Hakama +3", 
             ["id"]=23588, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="hachiya hakama +3", 
+            ["en"]="Hachiya Hakama +3"
         }, 
         [23655]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiya kyahan +3", 
-            ["en"]="Hachiya Kyahan +3", 
             ["id"]=23655, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="hachiya kyahan +3", 
+            ["en"]="Hachiya Kyahan +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=84, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [85]={
         [14582]={
-            ["Set Bonus"]="Increases HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division cuirass", 
-            ["en"]="Fourth Cuirass", 
             ["id"]=14582, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division cuirass", 
+            ["en"]="Fourth Cuirass"
         }, 
         [15006]={
-            ["Set Bonus"]="Increases HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division gauntlets", 
-            ["en"]="Fourth Gauntlets", 
             ["id"]=15006, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division gauntlets", 
+            ["en"]="Fourth Gauntlets"
         }, 
         [15750]={
-            ["Set Bonus"]="Increases HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division sabatons", 
-            ["en"]="Fourth Sabatons", 
             ["id"]=15750, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division sabatons", 
+            ["en"]="Fourth Sabatons"
         }, 
         [16142]={
-            ["Set Bonus"]="Increases HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division armet", 
-            ["en"]="Fourth Armet", 
             ["id"]=16142, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division armet", 
+            ["en"]="Fourth Armet"
         }, 
         [16313]={
-            ["Set Bonus"]="Increases HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Fourth Division cuisses", 
-            ["en"]="Fourth Cuisses", 
             ["id"]=16313, 
-            ["bonus"]=""
+            ["enl"]="Fourth Division cuisses", 
+            ["en"]="Fourth Cuisses"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases HP", 
+        ["set id"]=85, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [86]={
         [11281]={
-            ["Set Bonus"]="Enhances \"Store TP\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiryu haramaki", 
-            ["en"]="Hachiryu Haramaki", 
             ["id"]=11281, 
-            ["bonus"]={
-                ["Store TP"]=5
-            }
+            ["enl"]="hachiryu haramaki", 
+            ["en"]="Hachiryu Haramaki"
         }, 
         [11364]={
-            ["Set Bonus"]="Enhances \"Store TP\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiryu sune-ate", 
-            ["en"]="Hachiryu Sune-Ate", 
             ["id"]=11364, 
-            ["bonus"]={
-                ["Store TP"]=5
-            }
+            ["enl"]="hachiryu sune-ate", 
+            ["en"]="Hachiryu Sune-Ate"
         }, 
         [15015]={
-            ["Set Bonus"]="Enhances \"Store TP\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiryu kote", 
-            ["en"]="Hachiryu Kote", 
             ["id"]=15015, 
-            ["bonus"]={
-                ["Store TP"]=5
-            }
+            ["enl"]="hachiryu kote", 
+            ["en"]="Hachiryu Kote"
         }, 
         [16337]={
-            ["Set Bonus"]="Enhances \"Store TP\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="hachiryu haidate", 
-            ["en"]="Hachiryu Haidate", 
             ["id"]=16337, 
-            ["bonus"]={
+            ["enl"]="hachiryu haidate", 
+            ["en"]="Hachiryu Haidate"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=86, 
+        ["Set Bonus"]="Enhances \"Store TP\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Store TP"]=5
-            }
+            }, 
+            [3]={
+                ["Store TP"]=10
+            }, 
+            [4]={
+                ["Store TP"]=15
+            }, 
+            [5]={}
         }
     }, 
     [87]={
         [23046]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence coronet +2", 
-            ["en"]="Rev. Coronet +2", 
             ["id"]=23046, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence coronet +2", 
+            ["en"]="Rev. Coronet +2"
         }, 
         [23113]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence surcoat +2", 
-            ["en"]="Rev. Surcoat +2", 
             ["id"]=23113, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence surcoat +2", 
+            ["en"]="Rev. Surcoat +2"
         }, 
         [23180]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence gauntlets +2", 
-            ["en"]="Rev. Gauntlets +2", 
             ["id"]=23180, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence gauntlets +2", 
+            ["en"]="Rev. Gauntlets +2"
         }, 
         [23247]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence breeches +2", 
-            ["en"]="Rev. Breeches +2", 
             ["id"]=23247, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence breeches +2", 
+            ["en"]="Rev. Breeches +2"
         }, 
         [23314]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence leggings +2", 
-            ["en"]="Rev. Leggings +2", 
             ["id"]=23314, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence leggings +2", 
+            ["en"]="Rev. Leggings +2"
         }, 
         [23381]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence coronet +3", 
-            ["en"]="Rev. Coronet +3", 
             ["id"]=23381, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence coronet +3", 
+            ["en"]="Rev. Coronet +3"
         }, 
         [23448]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence surcoat +3", 
-            ["en"]="Rev. Surcoat +3", 
             ["id"]=23448, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence surcoat +3", 
+            ["en"]="Rev. Surcoat +3"
         }, 
         [23515]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence gauntlets +3", 
-            ["en"]="Rev. Gauntlets +3", 
             ["id"]=23515, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence gauntlets +3", 
+            ["en"]="Rev. Gauntlets +3"
         }, 
         [23582]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence breeches +3", 
-            ["en"]="Rev. Breeches +3", 
             ["id"]=23582, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="reverence breeches +3", 
+            ["en"]="Rev. Breeches +3"
         }, 
         [23649]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="reverence leggings +3", 
-            ["en"]="Rev. Leggings +3", 
             ["id"]=23649, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="reverence leggings +3", 
+            ["en"]="Rev. Leggings +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=87, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [88]={
         [23062]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's bandeau +2", 
-            ["en"]="Rune. Bandeau +2", 
             ["id"]=23062, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's bandeau +2", 
+            ["en"]="Rune. Bandeau +2"
         }, 
         [23129]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's coat +2", 
-            ["en"]="Runeist's Coat +2", 
             ["id"]=23129, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's coat +2", 
+            ["en"]="Runeist's Coat +2"
         }, 
         [23196]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's mitons +2", 
-            ["en"]="Runeist's Mitons +2", 
             ["id"]=23196, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's mitons +2", 
+            ["en"]="Runeist's Mitons +2"
+        }, 
+        [23263]={
+            ["id"]=23263, 
+            ["enl"]="runiest's trousers +2", 
+            ["en"]="Rune. Trousers +2"
         }, 
         [23330]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's boots +2", 
-            ["en"]="Runeist's Boots +2", 
             ["id"]=23330, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
-        },
-		[23263]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runiest's trousers +2", 
-            ["en"]="Rune. Trousers +2", 
-            ["id"]=23263, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
-        },
+            ["enl"]="runeist's boots +2", 
+            ["en"]="Runeist's Boots +2"
+        }, 
         [23397]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's bandeau +3", 
-            ["en"]="Rune. Bandeau +3", 
             ["id"]=23397, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's bandeau +3", 
+            ["en"]="Rune. Bandeau +3"
         }, 
         [23464]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's coat +3", 
-            ["en"]="Runeist's Coat +3", 
             ["id"]=23464, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's coat +3", 
+            ["en"]="Runeist's Coat +3"
         }, 
         [23531]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's mitons +3", 
-            ["en"]="Runeist's Mitons +3", 
             ["id"]=23531, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's mitons +3", 
+            ["en"]="Runeist's Mitons +3"
         }, 
         [23598]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's trousers +3", 
-            ["en"]="Rune. Trousers +3", 
             ["id"]=23598, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="runeist's trousers +3", 
+            ["en"]="Rune. Trousers +3"
         }, 
         [23665]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="runeist's boots +3", 
-            ["en"]="Runeist's Boots +3", 
             ["id"]=23665, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="runeist's boots +3", 
+            ["en"]="Runeist's Boots +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["set id"]=88, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [89]={
         [23043]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's petasos +2", 
-            ["en"]="Spae. Petasos +2", 
             ["id"]=23043, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's petasos +2", 
+            ["en"]="Spae. Petasos +2"
         }, 
         [23110]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's coat +2", 
-            ["en"]="Spaekona's Coat +2", 
             ["id"]=23110, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's coat +2", 
+            ["en"]="Spaekona's Coat +2"
         }, 
         [23177]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's gloves +2", 
-            ["en"]="Spae. Gloves +2", 
             ["id"]=23177, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's gloves +2", 
+            ["en"]="Spae. Gloves +2"
         }, 
         [23244]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's tonban +2", 
-            ["en"]="Spae. Tonban +2", 
             ["id"]=23244, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's tonban +2", 
+            ["en"]="Spae. Tonban +2"
         }, 
         [23311]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's sabots +2", 
-            ["en"]="Spae. Sabots +2", 
             ["id"]=23311, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's sabots +2", 
+            ["en"]="Spae. Sabots +2"
         }, 
         [23378]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's petasos +3", 
-            ["en"]="Spae. Petasos +3", 
             ["id"]=23378, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's petasos +3", 
+            ["en"]="Spae. Petasos +3"
         }, 
         [23445]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's coat +3", 
-            ["en"]="Spaekona's Coat +3", 
             ["id"]=23445, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's coat +3", 
+            ["en"]="Spaekona's Coat +3"
         }, 
         [23512]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's gloves +3", 
-            ["en"]="Spae. Gloves +3", 
             ["id"]=23512, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's gloves +3", 
+            ["en"]="Spae. Gloves +3"
         }, 
         [23579]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's tonban +3", 
-            ["en"]="Spae. Tonban +3", 
             ["id"]=23579, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="spaekona's tonban +3", 
+            ["en"]="Spae. Tonban +3"
         }, 
         [23646]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="spaekona's sabots +3", 
-            ["en"]="Spae. Sabots +3", 
             ["id"]=23646, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="spaekona's sabots +3", 
+            ["en"]="Spae. Sabots +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["set id"]=89, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [91]={
         [23040]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's mask +2", 
-            ["en"]="Pummeler's Mask +2", 
             ["id"]=23040, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's mask +2", 
+            ["en"]="Pummeler's Mask +2"
         }, 
         [23107]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's lorica +2", 
-            ["en"]="Pumm. Lorica +2", 
             ["id"]=23107, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's lorica +2", 
+            ["en"]="Pumm. Lorica +2"
         }, 
         [23174]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's mufflers +2", 
-            ["en"]="Pumm. Mufflers +2", 
             ["id"]=23174, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's mufflers +2", 
+            ["en"]="Pumm. Mufflers +2"
         }, 
         [23241]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's cuisses +2", 
-            ["en"]="Pumm. Cuisses +2", 
             ["id"]=23241, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's cuisses +2", 
+            ["en"]="Pumm. Cuisses +2"
         }, 
         [23308]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's calligae +2", 
-            ["en"]="Pumm. Calligae +2", 
             ["id"]=23308, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's calligae +2", 
+            ["en"]="Pumm. Calligae +2"
         }, 
         [23375]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's mask +3", 
-            ["en"]="Pummeler's Mask +3", 
             ["id"]=23375, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's mask +3", 
+            ["en"]="Pummeler's Mask +3"
         }, 
         [23442]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's lorica +3", 
-            ["en"]="Pumm. Lorica +3", 
             ["id"]=23442, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's lorica +3", 
+            ["en"]="Pumm. Lorica +3"
         }, 
         [23509]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's mufflers +3", 
-            ["en"]="Pumm. Mufflers +3", 
             ["id"]=23509, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's mufflers +3", 
+            ["en"]="Pumm. Mufflers +3"
         }, 
         [23576]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's cuisses +3", 
-            ["en"]="Pumm. Cuisses +3", 
             ["id"]=23576, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="pummeler's cuisses +3", 
+            ["en"]="Pumm. Cuisses +3"
         }, 
         [23643]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="pummeler's calligae +3", 
-            ["en"]="Pumm. Calligae +3", 
             ["id"]=23643, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="pummeler's calligae +3", 
+            ["en"]="Pumm. Calligae +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=91, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [92]={
         [23056]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's tricorne +2", 
-            ["en"]="Laksa. Tricorne +2", 
             ["id"]=23056, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's tricorne +2", 
+            ["en"]="Laksa. Tricorne +2"
         }, 
         [23123]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's frac +2", 
-            ["en"]="Laksa. Frac +2", 
             ["id"]=23123, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's frac +2", 
+            ["en"]="Laksa. Frac +2"
+        }, 
+        [23190]={
+            ["id"]=23190, 
+            ["enl"]="laskamana's gants +2", 
+            ["en"]="Laksa. Gants +2"
         }, 
         [23257]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's trews +2", 
-            ["en"]="Laksa. Trews +2", 
             ["id"]=23257, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's trews +2", 
+            ["en"]="Laksa. Trews +2"
         }, 
         [23324]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's boots +2", 
-            ["en"]="Laksa. Boots +2", 
             ["id"]=23324, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's boots +2", 
+            ["en"]="Laksa. Boots +2"
         }, 
-		[23190]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laskamana's gants +2", 
-            ["en"]="Laksa. Gants +2", 
-            ["id"]=23190, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
-        }, 
-        [23525]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laskamana's gants +3", 
-            ["en"]="Laksa. Gants +3", 
-            ["id"]=23525, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
-        },
         [23391]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's tricorne +3", 
-            ["en"]="Laksa. Tricorne +3", 
             ["id"]=23391, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's tricorne +3", 
+            ["en"]="Laksa. Tricorne +3"
         }, 
         [23458]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's frac +3", 
-            ["en"]="Laksa. Frac +3", 
             ["id"]=23458, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's frac +3", 
+            ["en"]="Laksa. Frac +3"
+        }, 
+        [23525]={
+            ["id"]=23525, 
+            ["enl"]="laskamana's gants +3", 
+            ["en"]="Laksa. Gants +3"
         }, 
         [23592]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's trews +3", 
-            ["en"]="Laksa. Trews +3", 
             ["id"]=23592, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="laksamana's trews +3", 
+            ["en"]="Laksa. Trews +3"
         }, 
         [23659]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="laksamana's boots +3", 
-            ["en"]="Laksa. Boots +3", 
             ["id"]=23659, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="laksamana's boots +3", 
+            ["en"]="Laksa. Boots +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=92, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [93]={
         [11066]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="orison cap +2", 
-            ["en"]="Orison Cap +2", 
             ["id"]=11066, 
-            ["bonus"]=""
+            ["enl"]="orison cap +2", 
+            ["en"]="Orison Cap +2"
         }, 
         [11086]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="orison bliaud +2", 
-            ["en"]="Orison Bliaud +2", 
             ["id"]=11086, 
-            ["bonus"]=""
+            ["enl"]="orison bliaud +2", 
+            ["en"]="Orison Bliaud +2"
         }, 
         [11106]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="orison mitts +2", 
-            ["en"]="Orison Mitts +2", 
             ["id"]=11106, 
-            ["bonus"]=""
+            ["enl"]="orison mitts +2", 
+            ["en"]="Orison Mitts +2"
         }, 
         [11126]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="orison pantaloons +2", 
-            ["en"]="Orsn. Pantaln. +2", 
             ["id"]=11126, 
-            ["bonus"]=""
+            ["enl"]="orison pantaloons +2", 
+            ["en"]="Orsn. Pantaln. +2"
         }, 
         [11146]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="orison duckbills +2", 
-            ["en"]="Orsn. Duckbills +2", 
             ["id"]=11146, 
-            ["bonus"]=""
+            ["enl"]="orison duckbills +2", 
+            ["en"]="Orsn. Duckbills +2"
         }, 
         [26744]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers cap", 
-            ["en"]="Ebers Cap", 
             ["id"]=26744, 
-            ["bonus"]=""
+            ["enl"]="ebers cap", 
+            ["en"]="Ebers Cap"
         }, 
         [26745]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers cap +1", 
-            ["en"]="Ebers Cap +1", 
             ["id"]=26745, 
-            ["bonus"]=""
+            ["enl"]="ebers cap +1", 
+            ["en"]="Ebers Cap +1"
         }, 
         [26902]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers bliaud", 
-            ["en"]="Ebers Bliaud", 
             ["id"]=26902, 
-            ["bonus"]=""
+            ["enl"]="ebers bliaud", 
+            ["en"]="Ebers Bliaud"
         }, 
         [26903]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers bliaud +1", 
-            ["en"]="Ebers Bliaud +1", 
             ["id"]=26903, 
-            ["bonus"]=""
+            ["enl"]="ebers bliaud +1", 
+            ["en"]="Ebers Bliaud +1"
         }, 
         [27056]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers mitts", 
-            ["en"]="Ebers Mitts", 
             ["id"]=27056, 
-            ["bonus"]=""
+            ["enl"]="ebers mitts", 
+            ["en"]="Ebers Mitts"
         }, 
         [27057]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers mitts +1", 
-            ["en"]="Ebers Mitts +1", 
             ["id"]=27057, 
-            ["bonus"]=""
+            ["enl"]="ebers mitts +1", 
+            ["en"]="Ebers Mitts +1"
         }, 
         [27241]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers pantaloons", 
-            ["en"]="Ebers Pantaloons", 
             ["id"]=27241, 
-            ["bonus"]=""
+            ["enl"]="ebers pantaloons", 
+            ["en"]="Ebers Pantaloons"
         }, 
         [27242]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers pantaloons +1", 
-            ["en"]="Ebers Pant. +1", 
             ["id"]=27242, 
-            ["bonus"]=""
+            ["enl"]="ebers pantaloons +1", 
+            ["en"]="Ebers Pant. +1"
         }, 
         [27415]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers duckbills", 
-            ["en"]="Ebers Duckbills", 
             ["id"]=27415, 
-            ["bonus"]=""
+            ["enl"]="ebers duckbills", 
+            ["en"]="Ebers Duckbills"
         }, 
         [27416]={
-            ["Set Bonus"]="Augments elemental resistance spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="ebers duckbills +1", 
-            ["en"]="Ebers Duckbills +1", 
             ["id"]=27416, 
-            ["bonus"]=""
+            ["enl"]="ebers duckbills +1", 
+            ["en"]="Ebers Duckbills +1"
+        }, 
+        ["Set Bonus"]="Augments elemental resistance spells", 
+        ["minimum peices"]=2, 
+        ["set id"]=93, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [96]={
         [25572]={
-            ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="ayanmo zucchetto +2", 
-            ["en"]="Aya. Zucchetto +2", 
             ["id"]=25572, 
-            ["bonus"]={
-                ["MND"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="ayanmo zucchetto +2", 
+            ["en"]="Aya. Zucchetto +2"
         }, 
         [25795]={
-            ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="ayanmo corazza +2", 
-            ["en"]="Ayanmo Corazza +2", 
             ["id"]=25795, 
-            ["bonus"]={
-                ["MND"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="ayanmo corazza +2", 
+            ["en"]="Ayanmo Corazza +2"
         }, 
         [25833]={
-            ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="ayanmo manopolas +2", 
-            ["en"]="Aya. Manopolas +2", 
             ["id"]=25833, 
-            ["bonus"]={
-                ["MND"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="ayanmo manopolas +2", 
+            ["en"]="Aya. Manopolas +2"
         }, 
         [25884]={
-            ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="ayanmo cosciales +2", 
-            ["en"]="Aya. Cosciales +2", 
             ["id"]=25884, 
-            ["bonus"]={
-                ["MND"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="ayanmo cosciales +2", 
+            ["en"]="Aya. Cosciales +2"
         }, 
         [25951]={
-            ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="ayanmo gambieras +2", 
-            ["en"]="Aya. Gambieras +2", 
             ["id"]=25951, 
-            ["bonus"]={
-                ["MND"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="ayanmo gambieras +2", 
+            ["en"]="Aya. Gambieras +2"
         }, 
         [26209]={
-            ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
-            ["minimum peices"]=2, 
-            ["enl"]="ayanmo ring", 
-            ["en"]="Ayanmo Ring", 
             ["id"]=26209, 
-            ["bonus"]={
-                ["MND"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
+            ["enl"]="ayanmo ring", 
+            ["en"]="Ayanmo Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Strength, Vitality, and Mind", 
+        ["set id"]=96, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["MND"]=8, 
+                ["STR"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["MND"]=16, 
+                ["STR"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["MND"]=24, 
+                ["STR"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["MND"]=32, 
+                ["STR"]=32, 
+                ["VIT"]=32
             }
         }
     }, 
     [97]={
         [11414]={
-            ["Set Bonus"]="\"Store TP\"+8", 
-            ["minimum peices"]=5, 
-            ["enl"]="aurore gaiters", 
-            ["en"]="Aurore Gaiters", 
             ["id"]=11414, 
-            ["bonus"]={
-                ["Store TP"]=8
-            }
+            ["enl"]="aurore gaiters", 
+            ["en"]="Aurore Gaiters"
         }, 
         [11504]={
-            ["Set Bonus"]="\"Store TP\"+8", 
-            ["minimum peices"]=5, 
-            ["enl"]="aurore beret", 
-            ["en"]="Aurore Beret", 
             ["id"]=11504, 
-            ["bonus"]={
-                ["Store TP"]=8
-            }
+            ["enl"]="aurore beret", 
+            ["en"]="Aurore Beret"
         }, 
         [12746]={
-            ["Set Bonus"]="\"Store TP\"+8", 
-            ["minimum peices"]=5, 
-            ["enl"]="aurore gloves", 
-            ["en"]="Aurore Gloves", 
             ["id"]=12746, 
-            ["bonus"]={
-                ["Store TP"]=8
-            }
+            ["enl"]="aurore gloves", 
+            ["en"]="Aurore Gloves"
         }, 
         [13760]={
-            ["Set Bonus"]="\"Store TP\"+8", 
-            ["minimum peices"]=5, 
-            ["enl"]="aurore doublet", 
-            ["en"]="Aurore Doublet", 
             ["id"]=13760, 
-            ["bonus"]={
-                ["Store TP"]=8
-            }
+            ["enl"]="aurore doublet", 
+            ["en"]="Aurore Doublet"
         }, 
         [14257]={
-            ["Set Bonus"]="\"Store TP\"+8", 
-            ["minimum peices"]=5, 
-            ["enl"]="aurore brais", 
-            ["en"]="Aurore Brais", 
             ["id"]=14257, 
-            ["bonus"]={
+            ["enl"]="aurore brais", 
+            ["en"]="Aurore Brais"
+        }, 
+        ["minimum peices"]=5, 
+        ["set id"]=97, 
+        ["Set Bonus"]="\"Store TP\"+8", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Store TP"]=8
             }
         }
     }, 
     [98]={
         [11075]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="unkai kabuto +2", 
-            ["en"]="Unkai Kabuto +2", 
             ["id"]=11075, 
-            ["bonus"]=""
+            ["enl"]="unkai kabuto +2", 
+            ["en"]="Unkai Kabuto +2"
         }, 
         [11095]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="unkai domaru +2", 
-            ["en"]="Unkai Domaru +2", 
             ["id"]=11095, 
-            ["bonus"]=""
+            ["enl"]="unkai domaru +2", 
+            ["en"]="Unkai Domaru +2"
         }, 
         [11115]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="unkai kote +2", 
-            ["en"]="Unkai Kote +2", 
             ["id"]=11115, 
-            ["bonus"]=""
+            ["enl"]="unkai kote +2", 
+            ["en"]="Unkai Kote +2"
         }, 
         [11135]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="unkai haidate +2", 
-            ["en"]="Unkai Haidate +2", 
             ["id"]=11135, 
-            ["bonus"]=""
+            ["enl"]="unkai haidate +2", 
+            ["en"]="Unkai Haidate +2"
         }, 
         [11155]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="unkai sune-ate +2", 
-            ["en"]="Unkai Sune-Ate +2", 
             ["id"]=11155, 
-            ["bonus"]=""
+            ["enl"]="unkai sune-ate +2", 
+            ["en"]="Unkai Sune-Ate +2"
         }, 
         [26762]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga kabuto", 
-            ["en"]="Kasuga Kabuto", 
             ["id"]=26762, 
-            ["bonus"]=""
+            ["enl"]="kasuga kabuto", 
+            ["en"]="Kasuga Kabuto"
         }, 
         [26763]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga kabuto +1", 
-            ["en"]="Kasuga Kabuto +1", 
             ["id"]=26763, 
-            ["bonus"]=""
+            ["enl"]="kasuga kabuto +1", 
+            ["en"]="Kasuga Kabuto +1"
         }, 
         [26920]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga domaru", 
-            ["en"]="Kasuga Domaru", 
             ["id"]=26920, 
-            ["bonus"]=""
+            ["enl"]="kasuga domaru", 
+            ["en"]="Kasuga Domaru"
         }, 
         [26921]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga domaru +1", 
-            ["en"]="Kasuga Domaru +1", 
             ["id"]=26921, 
-            ["bonus"]=""
+            ["enl"]="kasuga domaru +1", 
+            ["en"]="Kasuga Domaru +1"
         }, 
         [27074]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga kote", 
-            ["en"]="Kasuga Kote", 
             ["id"]=27074, 
-            ["bonus"]=""
+            ["enl"]="kasuga kote", 
+            ["en"]="Kasuga Kote"
         }, 
         [27075]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga kote +1", 
-            ["en"]="Kasuga Kote +1", 
             ["id"]=27075, 
-            ["bonus"]=""
+            ["enl"]="kasuga kote +1", 
+            ["en"]="Kasuga Kote +1"
         }, 
         [27259]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga haidate", 
-            ["en"]="Kasuga Haidate", 
             ["id"]=27259, 
-            ["bonus"]=""
+            ["enl"]="kasuga haidate", 
+            ["en"]="Kasuga Haidate"
         }, 
         [27260]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga haidate +1", 
-            ["en"]="Kasuga Haidate +1", 
             ["id"]=27260, 
-            ["bonus"]=""
+            ["enl"]="kasuga haidate +1", 
+            ["en"]="Kasuga Haidate +1"
         }, 
         [27433]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga sune-ate", 
-            ["en"]="Kasuga Sune-Ate", 
             ["id"]=27433, 
-            ["bonus"]=""
+            ["enl"]="kasuga sune-ate", 
+            ["en"]="Kasuga Sune-Ate"
         }, 
         [27434]={
-            ["Set Bonus"]="Augments \"Zanshin\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="kasuga sune-ate +1", 
-            ["en"]="Kas. Sune-Ate +1", 
             ["id"]=27434, 
-            ["bonus"]=""
+            ["enl"]="kasuga sune-ate +1", 
+            ["en"]="Kas. Sune-Ate +1"
+        }, 
+        ["Set Bonus"]="Augments \"Zanshin\"", 
+        ["set id"]=98, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [99]={
         [11083]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="savant's bonnet +2", 
-            ["en"]="Svnt. Bonnet +2", 
             ["id"]=11083, 
-            ["bonus"]=""
+            ["enl"]="savant's bonnet +2", 
+            ["en"]="Svnt. Bonnet +2"
         }, 
         [11103]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="savant's gown +2", 
-            ["en"]="Savant's Gown +2", 
             ["id"]=11103, 
-            ["bonus"]=""
+            ["enl"]="savant's gown +2", 
+            ["en"]="Savant's Gown +2"
         }, 
         [11123]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="savant's bracers +2", 
-            ["en"]="Svnt. Bracers +2", 
             ["id"]=11123, 
-            ["bonus"]=""
+            ["enl"]="savant's bracers +2", 
+            ["en"]="Svnt. Bracers +2"
         }, 
         [11143]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="savant's pants +2", 
-            ["en"]="Savant's Pants +2", 
             ["id"]=11143, 
-            ["bonus"]=""
+            ["enl"]="savant's pants +2", 
+            ["en"]="Savant's Pants +2"
         }, 
         [11163]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="savant's loafers +2", 
-            ["en"]="Svnt. Loafers +2", 
             ["id"]=11163, 
-            ["bonus"]=""
+            ["enl"]="savant's loafers +2", 
+            ["en"]="Svnt. Loafers +2"
         }, 
         [26778]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel bonnet", 
-            ["en"]="Arbatel Bonnet", 
             ["id"]=26778, 
-            ["bonus"]=""
+            ["enl"]="arbatel bonnet", 
+            ["en"]="Arbatel Bonnet"
         }, 
         [26779]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel bonnet +1", 
-            ["en"]="Arbatel Bonnet +1", 
             ["id"]=26779, 
-            ["bonus"]=""
+            ["enl"]="arbatel bonnet +1", 
+            ["en"]="Arbatel Bonnet +1"
         }, 
         [26936]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel gown", 
-            ["en"]="Arbatel Gown", 
             ["id"]=26936, 
-            ["bonus"]=""
+            ["enl"]="arbatel gown", 
+            ["en"]="Arbatel Gown"
         }, 
         [26937]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel gown +1", 
-            ["en"]="Arbatel Gown +1", 
             ["id"]=26937, 
-            ["bonus"]=""
+            ["enl"]="arbatel gown +1", 
+            ["en"]="Arbatel Gown +1"
         }, 
         [27090]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel bracers", 
-            ["en"]="Arbatel Bracers", 
             ["id"]=27090, 
-            ["bonus"]=""
+            ["enl"]="arbatel bracers", 
+            ["en"]="Arbatel Bracers"
         }, 
         [27091]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel bracers +1", 
-            ["en"]="Arbatel Bracers +1", 
             ["id"]=27091, 
-            ["bonus"]=""
+            ["enl"]="arbatel bracers +1", 
+            ["en"]="Arbatel Bracers +1"
         }, 
         [27275]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel pants", 
-            ["en"]="Arbatel Pants", 
             ["id"]=27275, 
-            ["bonus"]=""
+            ["enl"]="arbatel pants", 
+            ["en"]="Arbatel Pants"
         }, 
         [27276]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel pants +1", 
-            ["en"]="Arbatel Pants +1", 
             ["id"]=27276, 
-            ["bonus"]=""
+            ["enl"]="arbatel pants +1", 
+            ["en"]="Arbatel Pants +1"
         }, 
         [27449]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel loafers", 
-            ["en"]="Arbatel Loafers", 
             ["id"]=27449, 
-            ["bonus"]=""
+            ["enl"]="arbatel loafers", 
+            ["en"]="Arbatel Loafers"
         }, 
         [27450]={
-            ["Set Bonus"]="Augments grimoire", 
-            ["minimum peices"]=2, 
-            ["enl"]="arbatel loafers +1", 
-            ["en"]="Arbatel Loafers +1", 
             ["id"]=27450, 
-            ["bonus"]=""
+            ["enl"]="arbatel loafers +1", 
+            ["en"]="Arbatel Loafers +1"
+        }, 
+        ["Set Bonus"]="Augments grimoire", 
+        ["minimum peices"]=2, 
+        ["set id"]=99, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [100]={
         [28524]={
-            ["Set Bonus"]="Magic Accuracy+12", 
-            ["minimum peices"]=2, 
-            ["enl"]="lifestorm earring", 
-            ["en"]="Lifestorm Earring", 
             ["id"]=28524, 
-            ["bonus"]={
-                ["Magic Accuracy"]=6
-            }
+            ["enl"]="lifestorm earring", 
+            ["en"]="Lifestorm Earring"
         }, 
         [28525]={
-            ["Set Bonus"]="Magic Accuracy+12", 
-            ["minimum peices"]=2, 
-            ["enl"]="psystorm earring", 
-            ["en"]="Psystorm Earring", 
             ["id"]=28525, 
-            ["bonus"]={
-                ["Magic Accuracy"]=6
-            }
+            ["enl"]="psystorm earring", 
+            ["en"]="Psystorm Earring"
+        }, 
+        ["set id"]=100, 
+        ["Set Bonus"]="Magic Accuracy+12", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=12
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [103]={
         [11070]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="creed armet +2", 
-            ["en"]="Creed Armet +2", 
             ["id"]=11070, 
-            ["bonus"]=""
+            ["enl"]="creed armet +2", 
+            ["en"]="Creed Armet +2"
         }, 
         [11090]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="creed cuirass +2", 
-            ["en"]="Creed Cuirass +2", 
             ["id"]=11090, 
-            ["bonus"]=""
+            ["enl"]="creed cuirass +2", 
+            ["en"]="Creed Cuirass +2"
         }, 
         [11110]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="creed gauntlets +2", 
-            ["en"]="Crd. Gauntlets +2", 
             ["id"]=11110, 
-            ["bonus"]=""
+            ["enl"]="creed gauntlets +2", 
+            ["en"]="Crd. Gauntlets +2"
         }, 
         [11130]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="creed cuisses +2", 
-            ["en"]="Creed Cuisses +2", 
             ["id"]=11130, 
-            ["bonus"]=""
+            ["enl"]="creed cuisses +2", 
+            ["en"]="Creed Cuisses +2"
         }, 
         [11150]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="creed sabatons +2", 
-            ["en"]="Creed Sabatons +2", 
             ["id"]=11150, 
-            ["bonus"]=""
+            ["enl"]="creed sabatons +2", 
+            ["en"]="Creed Sabatons +2"
         }, 
         [26752]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="chevalier's armet", 
-            ["en"]="Chevalier's Armet", 
             ["id"]=26752, 
-            ["bonus"]=""
+            ["enl"]="chevalier's armet", 
+            ["en"]="Chevalier's Armet"
         }, 
         [26753]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="chevalier's armet +1", 
-            ["en"]="Chev. Armet +1", 
             ["id"]=26753, 
-            ["bonus"]=""
+            ["enl"]="chevalier's armet +1", 
+            ["en"]="Chev. Armet +1"
         }, 
         [26910]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="chevalier's cuirass", 
-            ["en"]="Chev. Cuirass", 
             ["id"]=26910, 
-            ["bonus"]=""
+            ["enl"]="chevalier's cuirass", 
+            ["en"]="Chev. Cuirass"
         }, 
         [26911]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="chevalier's cuirass +1", 
-            ["en"]="Chev. Cuirass +1", 
             ["id"]=26911, 
-            ["bonus"]=""
+            ["enl"]="chevalier's cuirass +1", 
+            ["en"]="Chev. Cuirass +1"
         }, 
         [27064]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="chevalier's gauntlets", 
-            ["en"]="Chev. Gauntlets", 
             ["id"]=27064, 
-            ["bonus"]=""
+            ["enl"]="chevalier's gauntlets", 
+            ["en"]="Chev. Gauntlets"
         }, 
         [27065]={
-            ["Set Bonus"]="Occ. absorbs damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="chevalier's gauntlets +1", 
-            ["en"]="Chev. Gauntlets +1", 
             ["id"]=27065, 
-            ["bonus"]=""
+            ["enl"]="chevalier's gauntlets +1", 
+            ["en"]="Chev. Gauntlets +1"
+        }, 
+        ["Set Bonus"]="Occ. absorbs damage taken", 
+        ["set id"]=103, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [104]={
         [10479]={
-            ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Thaumas coat", 
-            ["en"]="Thaumas Coat", 
             ["id"]=10479, 
-            ["bonus"]=""
+            ["enl"]="Thaumas coat", 
+            ["en"]="Thaumas Coat"
         }, 
         [10528]={
-            ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Thaumas gloves", 
-            ["en"]="Thaumas Gloves", 
             ["id"]=10528, 
-            ["bonus"]=""
+            ["enl"]="Thaumas gloves", 
+            ["en"]="Thaumas Gloves"
         }, 
         [10559]={
-            ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Thaumas kecks", 
-            ["en"]="Thaumas Kecks", 
             ["id"]=10559, 
-            ["bonus"]=""
+            ["enl"]="Thaumas kecks", 
+            ["en"]="Thaumas Kecks"
         }, 
         [10625]={
-            ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Thaumas nails", 
-            ["en"]="Thaumas Nails", 
             ["id"]=10625, 
-            ["bonus"]=""
+            ["enl"]="Thaumas nails", 
+            ["en"]="Thaumas Nails"
         }, 
         [10906]={
-            ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Thaumas hat", 
-            ["en"]="Thaumas Hat", 
             ["id"]=10906, 
-            ["bonus"]=""
+            ["enl"]="Thaumas hat", 
+            ["en"]="Thaumas Hat"
+        }, 
+        ["Set Bonus"]="Increases STR, DEX, AGI, MND", 
+        ["minimum peices"]=2, 
+        ["set id"]=104, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [106]={
         [28522]={
-            ["Set Bonus"]="Enhances \"Dual Wield\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="dudgeon earring", 
-            ["en"]="Dudgeon Earring", 
             ["id"]=28522, 
-            ["bonus"]={
-                ["Dual Wield"]=3.5
-            }
+            ["enl"]="dudgeon earring", 
+            ["en"]="Dudgeon Earring"
         }, 
         [28523]={
-            ["Set Bonus"]="Enhances \"Dual Wield\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="heartseeker earring", 
-            ["en"]="Heartseeker Earring", 
             ["id"]=28523, 
-            ["bonus"]={
-                ["Dual Wield"]=3.5
-            }
+            ["enl"]="heartseeker earring", 
+            ["en"]="Heartseeker Earring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Dual Wield\" effect", 
+        ["set id"]=106, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Dual Wield"]=7
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [107]={
         [26712]={
-            ["Set Bonus"]="\"Store TP\"+2-8", 
-            ["minimum peices"]=2, 
-            ["enl"]="aurore beret +1", 
-            ["en"]="Aurore Beret +1", 
             ["id"]=26712, 
-            ["bonus"]={
-                ["Store TP"]=2
-            }
+            ["enl"]="aurore beret +1", 
+            ["en"]="Aurore Beret +1"
         }, 
         [27852]={
-            ["Set Bonus"]="\"Store TP\"+2-8", 
-            ["minimum peices"]=2, 
-            ["enl"]="aurore doublet +1", 
-            ["en"]="Aurore Doublet +1", 
             ["id"]=27852, 
-            ["bonus"]={
-                ["Store TP"]=2
-            }
+            ["enl"]="aurore doublet +1", 
+            ["en"]="Aurore Doublet +1"
         }, 
         [27998]={
-            ["Set Bonus"]="\"Store TP\"+2-8", 
-            ["minimum peices"]=2, 
-            ["enl"]="aurore gloves +1", 
-            ["en"]="Aurore Gloves +1", 
             ["id"]=27998, 
-            ["bonus"]={
-                ["Store TP"]=2
-            }
+            ["enl"]="aurore gloves +1", 
+            ["en"]="Aurore Gloves +1"
         }, 
         [28139]={
-            ["Set Bonus"]="\"Store TP\"+2-8", 
-            ["minimum peices"]=2, 
-            ["enl"]="aurore brais +1", 
-            ["en"]="Aurore Brais +1", 
             ["id"]=28139, 
-            ["bonus"]={
-                ["Store TP"]=2
-            }
+            ["enl"]="aurore brais +1", 
+            ["en"]="Aurore Brais +1"
         }, 
         [28278]={
-            ["Set Bonus"]="\"Store TP\"+2-8", 
-            ["minimum peices"]=2, 
-            ["enl"]="aurore gaiters +1", 
-            ["en"]="Aurore Gaiters +1", 
             ["id"]=28278, 
-            ["bonus"]={
+            ["enl"]="aurore gaiters +1", 
+            ["en"]="Aurore Gaiters +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="\"Store TP\"+2-8", 
+        ["set id"]=107, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Store TP"]=2
+            }, 
+            [3]={
+                ["Store TP"]=4
+            }, 
+            [4]={
+                ["Store TP"]=6
+            }, 
+            [5]={
+                ["Store TP"]=8
             }
         }
     }, 
     [109]={
         [28520]={
-            ["Set Bonus"]="\"Double Attack\"+7%", 
-            ["minimum peices"]=2, 
-            ["enl"]="steelflash earring", 
-            ["en"]="Steelflash Earring", 
             ["id"]=28520, 
-            ["bonus"]={
-                ["Double Attack"]=3.5
-            }
+            ["enl"]="steelflash earring", 
+            ["en"]="Steelflash Earring"
         }, 
         [28521]={
-            ["Set Bonus"]="\"Double Attack\"+7%", 
-            ["minimum peices"]=2, 
-            ["enl"]="bladeborn earring", 
-            ["en"]="Bladeborn Earring", 
             ["id"]=28521, 
-            ["bonus"]={
-                ["Double Attack"]=3.5
-            }
+            ["enl"]="bladeborn earring", 
+            ["en"]="Bladeborn Earring"
+        }, 
+        ["set id"]=109, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="\"Double Attack\"+7%", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=7
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [110]={
         [27742]={
-            ["Set Bonus"]="\"Refresh\"+3", 
-            ["minimum peices"]=5, 
-            ["enl"]="wayfarer circlet", 
-            ["en"]="Wayfarer Circlet", 
             ["id"]=27742, 
-            ["bonus"]={
-                ["Refresh"]=3
-            }
+            ["enl"]="wayfarer circlet", 
+            ["en"]="Wayfarer Circlet"
         }, 
         [27883]={
-            ["Set Bonus"]="\"Refresh\"+3", 
-            ["minimum peices"]=5, 
-            ["enl"]="wayfarer robe", 
-            ["en"]="Wayfarer Robe", 
             ["id"]=27883, 
-            ["bonus"]={
-                ["Refresh"]=3
-            }
+            ["enl"]="wayfarer robe", 
+            ["en"]="Wayfarer Robe"
         }, 
         [28031]={
-            ["Set Bonus"]="\"Refresh\"+3", 
-            ["minimum peices"]=5, 
-            ["enl"]="wayfarer cuffs", 
-            ["en"]="Wayfarer Cuffs", 
             ["id"]=28031, 
-            ["bonus"]={
-                ["Refresh"]=3
-            }
+            ["enl"]="wayfarer cuffs", 
+            ["en"]="Wayfarer Cuffs"
         }, 
         [28170]={
-            ["Set Bonus"]="\"Refresh\"+3", 
-            ["minimum peices"]=5, 
-            ["enl"]="wayfarer slops", 
-            ["en"]="Wayfarer Slops", 
             ["id"]=28170, 
-            ["bonus"]={
-                ["Refresh"]=3
-            }
+            ["enl"]="wayfarer slops", 
+            ["en"]="Wayfarer Slops"
         }, 
         [28308]={
-            ["Set Bonus"]="\"Refresh\"+3", 
-            ["minimum peices"]=5, 
-            ["enl"]="wayfarer clogs", 
-            ["en"]="Wayfarer Clogs", 
             ["id"]=28308, 
-            ["bonus"]={
+            ["enl"]="wayfarer clogs", 
+            ["en"]="Wayfarer Clogs"
+        }, 
+        ["set id"]=110, 
+        ["minimum peices"]=5, 
+        ["Set Bonus"]="\"Refresh\"+3", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Refresh"]=3
             }
         }
     }, 
     [111]={
         [27741]={
-            ["Set Bonus"]="Critical hit damage +10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="espial cap", 
-            ["en"]="Espial Cap", 
             ["id"]=27741, 
-            ["bonus"]={
-                ["Critical hit damage"]=10
-            }
+            ["enl"]="espial cap", 
+            ["en"]="Espial Cap"
         }, 
         [27882]={
-            ["Set Bonus"]="Critical hit damage +10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="espial gambison", 
-            ["en"]="Espial Gambison", 
             ["id"]=27882, 
-            ["bonus"]={
-                ["Critical hit damage"]=10
-            }
+            ["enl"]="espial gambison", 
+            ["en"]="Espial Gambison"
         }, 
         [28030]={
-            ["Set Bonus"]="Critical hit damage +10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="espial bracers", 
-            ["en"]="Espial Bracers", 
             ["id"]=28030, 
-            ["bonus"]={
-                ["Critical hit damage"]=10
-            }
+            ["enl"]="espial bracers", 
+            ["en"]="Espial Bracers"
         }, 
         [28169]={
-            ["Set Bonus"]="Critical hit damage +10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="espial hose", 
-            ["en"]="Espial Hose", 
             ["id"]=28169, 
-            ["bonus"]={
-                ["Critical hit damage"]=10
-            }
+            ["enl"]="espial hose", 
+            ["en"]="Espial Hose"
         }, 
         [28307]={
-            ["Set Bonus"]="Critical hit damage +10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="espial socks", 
-            ["en"]="Espial Socks", 
             ["id"]=28307, 
-            ["bonus"]={
+            ["enl"]="espial socks", 
+            ["en"]="Espial Socks"
+        }, 
+        ["set id"]=111, 
+        ["minimum peices"]=5, 
+        ["Set Bonus"]="Critical hit damage +10%", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Critical hit damage"]=10
             }
         }
     }, 
     [112]={
         [23049]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso roundlet +2", 
-            ["en"]="Brioso Roundlet +2", 
             ["id"]=23049, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso roundlet +2", 
+            ["en"]="Brioso Roundlet +2"
         }, 
         [23116]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso justaucorps +2", 
-            ["en"]="Brioso Justau. +2", 
             ["id"]=23116, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso justaucorps +2", 
+            ["en"]="Brioso Justau. +2"
         }, 
         [23183]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso cuffs +2", 
-            ["en"]="Brioso Cuffs +2", 
             ["id"]=23183, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso cuffs +2", 
+            ["en"]="Brioso Cuffs +2"
         }, 
         [23250]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso cannions +2", 
-            ["en"]="Brioso Cannions +2", 
             ["id"]=23250, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso cannions +2", 
+            ["en"]="Brioso Cannions +2"
         }, 
         [23317]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso slippers +2", 
-            ["en"]="Brioso Slippers +2", 
             ["id"]=23317, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso slippers +2", 
+            ["en"]="Brioso Slippers +2"
         }, 
         [23384]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso roundlet +3", 
-            ["en"]="Brioso Roundlet +3", 
             ["id"]=23384, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso roundlet +3", 
+            ["en"]="Brioso Roundlet +3"
         }, 
         [23451]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso justaucorps +3", 
-            ["en"]="Brioso Justau. +3", 
             ["id"]=23451, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso justaucorps +3", 
+            ["en"]="Brioso Justau. +3"
         }, 
         [23518]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso cuffs +3", 
-            ["en"]="Brioso Cuffs +3", 
             ["id"]=23518, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso cuffs +3", 
+            ["en"]="Brioso Cuffs +3"
         }, 
         [23585]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso cannions +3", 
-            ["en"]="Brioso Cannions +3", 
             ["id"]=23585, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="brioso cannions +3", 
+            ["en"]="Brioso Cannions +3"
         }, 
         [23652]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="brioso slippers +3", 
-            ["en"]="Brioso Slippers +3", 
             ["id"]=23652, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="brioso slippers +3", 
+            ["en"]="Brioso Slippers +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["set id"]=112, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
             }
         }
     }, 
     [113]={
         [27740]={
-            ["Set Bonus"]="Physical damage taken -10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="outrider mask", 
-            ["en"]="Outrider Mask", 
             ["id"]=27740, 
-            ["bonus"]={
-                ["PDT"]=10
-            }
+            ["enl"]="outrider mask", 
+            ["en"]="Outrider Mask"
         }, 
         [27881]={
-            ["Set Bonus"]="Physical damage taken -10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="outrider mail", 
-            ["en"]="Outrider Mail", 
             ["id"]=27881, 
-            ["bonus"]={
-                ["PDT"]=10
-            }
+            ["enl"]="outrider mail", 
+            ["en"]="Outrider Mail"
         }, 
         [28029]={
-            ["Set Bonus"]="Physical damage taken -10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="outrider mittens", 
-            ["en"]="Outrider Mittens", 
             ["id"]=28029, 
-            ["bonus"]={
-                ["PDT"]=10
-            }
+            ["enl"]="outrider mittens", 
+            ["en"]="Outrider Mittens"
         }, 
         [28168]={
-            ["Set Bonus"]="Physical damage taken -10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="outrider hose", 
-            ["en"]="Outrider Hose", 
             ["id"]=28168, 
-            ["bonus"]={
-                ["PDT"]=10
-            }
+            ["enl"]="outrider hose", 
+            ["en"]="Outrider Hose"
         }, 
         [28306]={
-            ["Set Bonus"]="Physical damage taken -10%", 
-            ["minimum peices"]=5, 
-            ["enl"]="outrider greaves", 
-            ["en"]="Outrider Greaves", 
             ["id"]=28306, 
-            ["bonus"]={
+            ["enl"]="outrider greaves", 
+            ["en"]="Outrider Greaves"
+        }, 
+        ["Set Bonus"]="Physical damage taken -10%", 
+        ["minimum peices"]=5, 
+        ["set id"]=113, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["PDT"]=10
             }
         }
     }, 
     [116]={
         [14527]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="yigit gomlek", 
-            ["en"]="Yigit Gomlek", 
             ["id"]=14527, 
-            ["bonus"]=""
+            ["enl"]="yigit gomlek", 
+            ["en"]="Yigit Gomlek"
         }, 
         [14935]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="yigit gages", 
-            ["en"]="Yigit Gages", 
             ["id"]=14935, 
-            ["bonus"]=""
+            ["enl"]="yigit gages", 
+            ["en"]="Yigit Gages"
         }, 
         [15606]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="yigit seraweels", 
-            ["en"]="Yigit Seraweels", 
             ["id"]=15606, 
-            ["bonus"]=""
+            ["enl"]="yigit seraweels", 
+            ["en"]="Yigit Seraweels"
         }, 
         [15690]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="yigit crackows", 
-            ["en"]="Yigit Crackows", 
             ["id"]=15690, 
-            ["bonus"]=""
+            ["enl"]="yigit crackows", 
+            ["en"]="Yigit Crackows"
         }, 
         [16064]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="yigit turban", 
-            ["en"]="Yigit Turban", 
             ["id"]=16064, 
-            ["bonus"]=""
+            ["enl"]="yigit turban", 
+            ["en"]="Yigit Turban"
+        }, 
+        ["Set Bonus"]="Adds \"Refresh\" effect", 
+        ["set id"]=116, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [118]={
         [26713]={
-            ["Set Bonus"]="\"Fast Cast\"+4-10%", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal chapeau +1", 
-            ["en"]="Teal Chapeau +1", 
             ["id"]=26713, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="teal chapeau +1", 
+            ["en"]="Teal Chapeau +1"
         }, 
         [27853]={
-            ["Set Bonus"]="\"Fast Cast\"+4-10%", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal saio +1", 
-            ["en"]="Teal Saio +1", 
             ["id"]=27853, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="teal saio +1", 
+            ["en"]="Teal Saio +1"
         }, 
         [27999]={
-            ["Set Bonus"]="\"Fast Cast\"+4-10%", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal cuffs +1", 
-            ["en"]="Teal Cuffs +1", 
             ["id"]=27999, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="teal cuffs +1", 
+            ["en"]="Teal Cuffs +1"
         }, 
         [28140]={
-            ["Set Bonus"]="\"Fast Cast\"+4-10%", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal slops +1", 
-            ["en"]="Teal Slops +1", 
             ["id"]=28140, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
+            ["enl"]="teal slops +1", 
+            ["en"]="Teal Slops +1"
         }, 
         [28279]={
-            ["Set Bonus"]="\"Fast Cast\"+4-10%", 
-            ["minimum peices"]=2, 
-            ["enl"]="teal pigaches +1", 
-            ["en"]="Teal Pigaches +1", 
             ["id"]=28279, 
-            ["bonus"]={
-                ["Fast Cast"]=2
+            ["enl"]="teal pigaches +1", 
+            ["en"]="Teal Pigaches +1"
+        }, 
+        ["set id"]=118, 
+        ["Set Bonus"]="\"Fast Cast\"+4-10%", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=4
+            }, 
+            [3]={
+                ["Fast Cast"]=6
+            }, 
+            [4]={
+                ["Fast Cast"]=8
+            }, 
+            [5]={
+                ["Fast Cast"]=10
             }
         }
     }, 
     [123]={
         [14525]={
-            ["Set Bonus"]="Reduces magic and breath damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="amir korazin", 
-            ["en"]="Amir Korazin", 
             ["id"]=14525, 
-            ["bonus"]=""
+            ["enl"]="amir korazin", 
+            ["en"]="Amir Korazin"
         }, 
         [14933]={
-            ["Set Bonus"]="Reduces magic and breath damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="amir kolluks", 
-            ["en"]="Amir Kolluks", 
             ["id"]=14933, 
-            ["bonus"]=""
+            ["enl"]="amir kolluks", 
+            ["en"]="Amir Kolluks"
         }, 
         [15604]={
-            ["Set Bonus"]="Reduces magic and breath damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="amir dirs", 
-            ["en"]="Amir Dirs", 
             ["id"]=15604, 
-            ["bonus"]=""
+            ["enl"]="amir dirs", 
+            ["en"]="Amir Dirs"
         }, 
         [15688]={
-            ["Set Bonus"]="Reduces magic and breath damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="amir boots", 
-            ["en"]="Amir Boots", 
             ["id"]=15688, 
-            ["bonus"]=""
+            ["enl"]="amir boots", 
+            ["en"]="Amir Boots"
         }, 
         [16062]={
-            ["Set Bonus"]="Reduces magic and breath damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="amir puggaree", 
-            ["en"]="Amir Puggaree", 
             ["id"]=16062, 
-            ["bonus"]=""
+            ["enl"]="amir puggaree", 
+            ["en"]="Amir Puggaree"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Reduces magic and breath damage", 
+        ["set id"]=123, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [128]={
         [14558]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Marduk's jubbah", 
-            ["en"]="Marduk's Jubbah", 
             ["id"]=14558, 
-            ["bonus"]={
-                ["Fast Cast"]=5
-            }
+            ["enl"]="Marduk's jubbah", 
+            ["en"]="Marduk's Jubbah"
         }, 
         [14973]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Marduk's dastanas", 
-            ["en"]="Marduk's Dastanas", 
             ["id"]=14973, 
-            ["bonus"]={
-                ["Fast Cast"]=5
-            }
+            ["enl"]="Marduk's dastanas", 
+            ["en"]="Marduk's Dastanas"
         }, 
         [15637]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Marduk's shalwar", 
-            ["en"]="Marduk's Shalwar", 
             ["id"]=15637, 
-            ["bonus"]={
-                ["Fast Cast"]=5
-            }
+            ["enl"]="Marduk's shalwar", 
+            ["en"]="Marduk's Shalwar"
         }, 
         [15723]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Marduk's crackows", 
-            ["en"]="Marduk's Crackows", 
             ["id"]=15723, 
-            ["bonus"]={
-                ["Fast Cast"]=5
-            }
+            ["enl"]="Marduk's crackows", 
+            ["en"]="Marduk's Crackows"
         }, 
         [16096]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=5, 
-            ["enl"]="Marduk's tiara", 
-            ["en"]="Marduk's Tiara", 
             ["id"]=16096, 
-            ["bonus"]={
+            ["enl"]="Marduk's tiara", 
+            ["en"]="Marduk's Tiara"
+        }, 
+        ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
+        ["minimum peices"]=5, 
+        ["set id"]=128, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Fast Cast"]=5
-            }
-        }, 
-        [27651]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Marduk's tiara +1", 
-            ["en"]="Marduk's Tiara +1", 
-            ["id"]=27651, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
-        }, 
-        [27791]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Marduk's jubbah +1", 
-            ["en"]="Marduk's Jubbah +1", 
-            ["id"]=27791, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
-        }, 
-        [27931]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Marduk's dastanas +1", 
-            ["en"]="Mdk. Dastanas +1", 
-            ["id"]=27931, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
-        }, 
-        [28074]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Marduk's shalwar +1", 
-            ["en"]="Mdk. Shalwar +1", 
-            ["id"]=28074, 
-            ["bonus"]={
-                ["Fast Cast"]=2
-            }
-        }, 
-        [28211]={
-            ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Marduk's crackows +1", 
-            ["en"]="Mdk. Crackows +1", 
-            ["id"]=28211, 
-            ["bonus"]={
-                ["Fast Cast"]=2
             }
         }
     }, 
     [129]={
         [23053]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap armet +2", 
-            ["en"]="Vishap Armet +2", 
             ["id"]=23053, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap armet +2", 
+            ["en"]="Vishap Armet +2"
         }, 
         [23120]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap mail +2", 
-            ["en"]="Vishap Mail +2", 
             ["id"]=23120, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap mail +2", 
+            ["en"]="Vishap Mail +2"
         }, 
         [23187]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap finger gauntlets +2", 
-            ["en"]="Vis. Fng. Gaunt. +2", 
             ["id"]=23187, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap finger gauntlets +2", 
+            ["en"]="Vis. Fng. Gaunt. +2"
         }, 
         [23254]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap brais +2", 
-            ["en"]="Vishap Brais +2", 
             ["id"]=23254, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap brais +2", 
+            ["en"]="Vishap Brais +2"
         }, 
         [23321]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap greaves +2", 
-            ["en"]="Vishap Greaves +2", 
             ["id"]=23321, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap greaves +2", 
+            ["en"]="Vishap Greaves +2"
         }, 
         [23388]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap armet +3", 
-            ["en"]="Vishap Armet +3", 
             ["id"]=23388, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap armet +3", 
+            ["en"]="Vishap Armet +3"
         }, 
         [23455]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap mail +3", 
-            ["en"]="Vishap Mail +3", 
             ["id"]=23455, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap mail +3", 
+            ["en"]="Vishap Mail +3"
         }, 
         [23522]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap finger gauntlets +3", 
-            ["en"]="Vis. Fng. Gaunt. +3", 
             ["id"]=23522, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap finger gauntlets +3", 
+            ["en"]="Vis. Fng. Gaunt. +3"
         }, 
         [23589]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap brais +3", 
-            ["en"]="Vishap Brais +3", 
             ["id"]=23589, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="vishap brais +3", 
+            ["en"]="Vishap Brais +3"
         }, 
         [23656]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="vishap greaves +3", 
-            ["en"]="Vishap Greaves +3", 
             ["id"]=23656, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="vishap greaves +3", 
+            ["en"]="Vishap Greaves +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=129, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
+        }
+    }, 
+    [130]={
+        [27651]={
+            ["id"]=27651, 
+            ["enl"]="Marduk's tiara +1", 
+            ["en"]="Marduk's Tiara +1"
+        }, 
+        [27791]={
+            ["id"]=27791, 
+            ["enl"]="Marduk's jubbah +1", 
+            ["en"]="Marduk's Jubbah +1"
+        }, 
+        [27931]={
+            ["id"]=27931, 
+            ["enl"]="Marduk's dastanas +1", 
+            ["en"]="Mdk. Dastanas +1"
+        }, 
+        [28074]={
+            ["id"]=28074, 
+            ["enl"]="Marduk's shalwar +1", 
+            ["en"]="Mdk. Shalwar +1"
+        }, 
+        [28211]={
+            ["id"]=28211, 
+            ["enl"]="Marduk's crackows +1", 
+            ["en"]="Mdk. Crackows +1"
+        }, 
+        ["set id"]=130, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Fast Cast\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Fast Cast"]=3
+            }, 
+            [3]={
+                ["Fast Cast"]=5
+            }, 
+            [4]={
+                ["Fast Cast"]=7
+            }, 
+            [5]={
+                ["Fast Cast"]=9
             }
         }
     }, 
     [131]={
         [14550]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="Skadi's cuirie", 
-            ["en"]="Skadi's Cuirie", 
             ["id"]=14550, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="Skadi's cuirie", 
+            ["en"]="Skadi's Cuirie"
         }, 
         [14965]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="Skadi's bazubands", 
-            ["en"]="Skadi's Bazubands", 
             ["id"]=14965, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="Skadi's bazubands", 
+            ["en"]="Skadi's Bazubands"
         }, 
         [15629]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="Skadi's chausses", 
-            ["en"]="Skadi's Chausses", 
             ["id"]=15629, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="Skadi's chausses", 
+            ["en"]="Skadi's Chausses"
         }, 
         [15715]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="Skadi's jambeaux", 
-            ["en"]="Skadi's Jambeaux", 
             ["id"]=15715, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=5
-            }
+            ["enl"]="Skadi's jambeaux", 
+            ["en"]="Skadi's Jambeaux"
         }, 
         [16088]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=5, 
-            ["enl"]="Skadi's visor", 
-            ["en"]="Skadi's Visor", 
             ["id"]=16088, 
-            ["bonus"]={
+            ["enl"]="Skadi's visor", 
+            ["en"]="Skadi's Visor"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=131, 
+        ["Set Bonus"]="Increases rate of critical hits", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Critical Hit Rate"]=5
-            }
-        }, 
-        [27649]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Skadi's visor +1", 
-            ["en"]="Skadi's Visor +1", 
-            ["id"]=27649, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
-        }, 
-        [27789]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Skadi's cuirie +1", 
-            ["en"]="Skadi's Cuirie +1", 
-            ["id"]=27789, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
-        }, 
-        [27929]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Skadi's bazubands +1", 
-            ["en"]="Skd. Bazubands +1", 
-            ["id"]=27929, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
-        }, 
-        [28072]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Skadi's chausses +1", 
-            ["en"]="Skd. Chausses +1", 
-            ["id"]=28072, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
-            }
-        }, 
-        [28209]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Skadi's jambeaux +1", 
-            ["en"]="Skd. Jambeaux +1", 
-            ["id"]=28209, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=2
             }
         }
     }, 
     [132]={
         [15818]={
-            ["Set Bonus"]="Increases Accuracy Enhances \"Souleater\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Moliones's ring", 
-            ["en"]="Moliones's Ring", 
             ["id"]=15818, 
-            ["bonus"]=""
+            ["enl"]="Moliones's ring", 
+            ["en"]="Moliones's Ring"
         }, 
         [18947]={
-            ["Set Bonus"]="Increases Accuracy Enhances \"Souleater\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Moliones's sickle", 
-            ["en"]="Moliones's Sickle", 
             ["id"]=18947, 
-            ["bonus"]=""
+            ["enl"]="Moliones's sickle", 
+            ["en"]="Moliones's Sickle"
+        }, 
+        ["set id"]=132, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy Enhances \"Souleater\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [133]={
         [23050]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion beret +2", 
-            ["en"]="Orion Beret +2", 
             ["id"]=23050, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion beret +2", 
+            ["en"]="Orion Beret +2"
         }, 
         [23117]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion jerkin +2", 
-            ["en"]="Orion Jerkin +2", 
             ["id"]=23117, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion jerkin +2", 
+            ["en"]="Orion Jerkin +2"
         }, 
         [23184]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion bracers +2", 
-            ["en"]="Orion Bracers +2", 
             ["id"]=23184, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion bracers +2", 
+            ["en"]="Orion Bracers +2"
         }, 
         [23251]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion braccae +2", 
-            ["en"]="Orion Braccae +2", 
             ["id"]=23251, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion braccae +2", 
+            ["en"]="Orion Braccae +2"
         }, 
         [23318]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion socks +2", 
-            ["en"]="Orion Socks +2", 
             ["id"]=23318, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion socks +2", 
+            ["en"]="Orion Socks +2"
         }, 
         [23385]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion beret +3", 
-            ["en"]="Orion Beret +3", 
             ["id"]=23385, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion beret +3", 
+            ["en"]="Orion Beret +3"
         }, 
         [23452]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion jerkin +3", 
-            ["en"]="Orion Jerkin +3", 
             ["id"]=23452, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion jerkin +3", 
+            ["en"]="Orion Jerkin +3"
         }, 
         [23519]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion bracers +3", 
-            ["en"]="Orion Bracers +3", 
             ["id"]=23519, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion bracers +3", 
+            ["en"]="Orion Bracers +3"
         }, 
         [23586]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion braccae +3", 
-            ["en"]="Orion Braccae +3", 
             ["id"]=23586, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="orion braccae +3", 
+            ["en"]="Orion Braccae +3"
         }, 
         [23653]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="orion socks +3", 
-            ["en"]="Orion Socks +3", 
             ["id"]=23653, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
+            ["enl"]="orion socks +3", 
+            ["en"]="Orion Socks +3"
+        }, 
+        [26085]={
+            ["id"]=26085, 
+            ["enl"]="regal earring", 
+            ["en"]="Regal Earring"
+        }, 
+        [26191]={
+            ["id"]=26191, 
+            ["enl"]="regal ring", 
+            ["en"]="Regal Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
+        ["set id"]=133, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Accuracy"]=15, 
                 ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
+                ["Magic Accuracy"]=15
+            }, 
+            [3]={
+                ["Accuracy"]=30, 
+                ["Ranged Accuracy"]=30, 
+                ["Magic Accuracy"]=30
+            }, 
+            [4]={
+                ["Accuracy"]=45, 
+                ["Ranged Accuracy"]=45, 
+                ["Magic Accuracy"]=45
+            }, 
+            [5]={
+                ["Accuracy"]=60, 
+                ["Ranged Accuracy"]=60, 
+                ["Magic Accuracy"]=60
+            }
+        }
+    }, 
+    [134]={
+        [27649]={
+            ["id"]=27649, 
+            ["enl"]="Skadi's visor +1", 
+            ["en"]="Skadi's Visor +1"
+        }, 
+        [27789]={
+            ["id"]=27789, 
+            ["enl"]="Skadi's cuirie +1", 
+            ["en"]="Skadi's Cuirie +1"
+        }, 
+        [27929]={
+            ["id"]=27929, 
+            ["enl"]="Skadi's bazubands +1", 
+            ["en"]="Skd. Bazubands +1"
+        }, 
+        [28072]={
+            ["id"]=28072, 
+            ["enl"]="Skadi's chausses +1", 
+            ["en"]="Skd. Chausses +1"
+        }, 
+        [28209]={
+            ["id"]=28209, 
+            ["enl"]="Skadi's jambeaux +1", 
+            ["en"]="Skd. Jambeaux +1"
+        }, 
+        ["Set Bonus"]="Increases rate of critical hits", 
+        ["minimum peices"]=2, 
+        ["set id"]=134, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=7
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=9
             }
         }
     }, 
     [136]={
         [15850]={
-            ["Set Bonus"]="DEF:+6 Accuracy+12 Attack+6", 
-            ["minimum peices"]=2, 
-            ["enl"]="Lava's ring", 
-            ["en"]="Lava's Ring", 
             ["id"]=15850, 
-            ["bonus"]={
-                ["DEF"]=3, 
-                ["Attack"]=3, 
-                ["Accuracy"]=6
-            }
+            ["enl"]="Lava's ring", 
+            ["en"]="Lava's Ring"
         }, 
         [15851]={
-            ["Set Bonus"]="DEF:+6 Accuracy+12 Attack+6", 
-            ["minimum peices"]=2, 
-            ["enl"]="Kusha's ring", 
-            ["en"]="Kusha's Ring", 
             ["id"]=15851, 
-            ["bonus"]={
-                ["DEF"]=3, 
-                ["Attack"]=3, 
-                ["Accuracy"]=6
-            }
+            ["enl"]="Kusha's ring", 
+            ["en"]="Kusha's Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="DEF:+6 Accuracy+12 Attack+6", 
+        ["set id"]=136, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["DEF"]=6, 
+                ["Accuracy"]=12, 
+                ["Attack"]=6
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [138]={
         [25578]={
-            ["Set Bonus"]="Enhances \"Fast Cast\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="jhakri coronal +2", 
-            ["en"]="Jhakri Coronal +2", 
             ["id"]=25578, 
-            ["bonus"]={
-                ["Fast Cast"]=1
-            }
+            ["enl"]="jhakri coronal +2", 
+            ["en"]="Jhakri Coronal +2"
         }, 
         [25794]={
-            ["Set Bonus"]="Enhances \"Fast Cast\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="jhakri robe +2", 
-            ["en"]="Jhakri Robe +2", 
             ["id"]=25794, 
-            ["bonus"]={
-                ["Fast Cast"]=1
-            }
+            ["enl"]="jhakri robe +2", 
+            ["en"]="Jhakri Robe +2"
         }, 
         [25832]={
-            ["Set Bonus"]="Enhances \"Fast Cast\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="jhakri cuffs +2", 
-            ["en"]="Jhakri Cuffs +2", 
             ["id"]=25832, 
-            ["bonus"]={
-                ["Fast Cast"]=1
-            }
+            ["enl"]="jhakri cuffs +2", 
+            ["en"]="Jhakri Cuffs +2"
         }, 
         [25883]={
-            ["Set Bonus"]="Enhances \"Fast Cast\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="jhakri slops +2", 
-            ["en"]="Jhakri Slops +2", 
             ["id"]=25883, 
-            ["bonus"]={
-                ["Fast Cast"]=1
-            }
+            ["enl"]="jhakri slops +2", 
+            ["en"]="Jhakri Slops +2"
         }, 
         [25950]={
-            ["Set Bonus"]="Enhances \"Fast Cast\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="jhakri pigaches +2", 
-            ["en"]="Jhakri Pigaches +2", 
             ["id"]=25950, 
-            ["bonus"]={
-                ["Fast Cast"]=1
-            }
+            ["enl"]="jhakri pigaches +2", 
+            ["en"]="Jhakri Pigaches +2"
         }, 
         [26208]={
-            ["Set Bonus"]="Enhances \"Fast Cast\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="jhakri ring", 
-            ["en"]="Jhakri Ring", 
             ["id"]=26208, 
-            ["bonus"]={
+            ["enl"]="jhakri ring", 
+            ["en"]="Jhakri Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Fast Cast\"", 
+        ["set id"]=138, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Fast Cast"]=1
+            }, 
+            [3]={
+                ["Fast Cast"]=2
+            }, 
+            [4]={
+                ["Fast Cast"]=3
+            }, 
+            [5]={
+                ["Fast Cast"]=4
             }
         }
     }, 
     [141]={
         [11362]={
-            ["Set Bonus"]="Auto-Reraise", 
-            ["minimum peices"]=2, 
-            ["enl"]="Twilight mail", 
-            ["en"]="Twilight Mail", 
             ["id"]=11362, 
-            ["bonus"]=""
+            ["enl"]="Twilight mail", 
+            ["en"]="Twilight Mail"
         }, 
         [11798]={
-            ["Set Bonus"]="Auto-Reraise", 
-            ["minimum peices"]=2, 
-            ["enl"]="Twilight helm", 
-            ["en"]="Twilight Helm", 
             ["id"]=11798, 
-            ["bonus"]=""
+            ["enl"]="Twilight helm", 
+            ["en"]="Twilight Helm"
+        }, 
+        ["set id"]=141, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Auto-Reraise", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [144]={
         [26675]={
-            ["Set Bonus"]="Augments \"Martial Arts\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="rao kabuto +1", 
-            ["en"]="Rao Kabuto +1", 
             ["id"]=26675, 
-            ["bonus"]={
-                ["Martial Arts"]=4
-            }
+            ["enl"]="rao kabuto +1", 
+            ["en"]="Rao Kabuto +1"
         }, 
         [26851]={
-            ["Set Bonus"]="Augments \"Martial Arts\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="rao togi +1", 
-            ["en"]="Rao Togi +1", 
             ["id"]=26851, 
-            ["bonus"]={
-                ["Martial Arts"]=4
-            }
+            ["enl"]="rao togi +1", 
+            ["en"]="Rao Togi +1"
         }, 
         [27027]={
-            ["Set Bonus"]="Augments \"Martial Arts\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="rao kote +1", 
-            ["en"]="Rao Kote +1", 
             ["id"]=27027, 
-            ["bonus"]={
-                ["Martial Arts"]=4
-            }
+            ["enl"]="rao kote +1", 
+            ["en"]="Rao Kote +1"
         }, 
         [27203]={
-            ["Set Bonus"]="Augments \"Martial Arts\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="rao haidate +1", 
-            ["en"]="Rao Haidate +1", 
             ["id"]=27203, 
-            ["bonus"]={
-                ["Martial Arts"]=4
-            }
+            ["enl"]="rao haidate +1", 
+            ["en"]="Rao Haidate +1"
         }, 
         [27379]={
-            ["Set Bonus"]="Augments \"Martial Arts\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="rao sune-ate +1", 
-            ["en"]="Rao Sune-Ate +1", 
             ["id"]=27379, 
-            ["bonus"]={
-                ["Martial Arts"]=4
+            ["enl"]="rao sune-ate +1", 
+            ["en"]="Rao Sune-Ate +1"
+        }, 
+        ["Set Bonus"]="Augments \"Martial Arts\"", 
+        ["minimum peices"]=2, 
+        ["set id"]=144, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Martial Arts"]=8
+            }, 
+            [3]={
+                ["Martial Arts"]=12
+            }, 
+            [4]={
+                ["Martial Arts"]=16
+            }, 
+            [5]={
+                ["Martial Arts"]=20
             }
         }
     }, 
     [150]={
         [10865]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="nefer khat", 
-            ["en"]="Nefer Khat", 
             ["id"]=10865, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="nefer khat", 
+            ["en"]="Nefer Khat"
         }, 
         [10868]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="nefer khat +1", 
-            ["en"]="Nefer Khat +1", 
             ["id"]=10868, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="nefer khat +1", 
+            ["en"]="Nefer Khat +1"
         }, 
         [11864]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="nefer kalasiris", 
-            ["en"]="Nefer Kalasiris", 
             ["id"]=11864, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="nefer kalasiris", 
+            ["en"]="Nefer Kalasiris"
         }, 
         [11867]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Heka's kalasiris", 
-            ["en"]="Heka's Kalasiris", 
             ["id"]=11867, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="Heka's kalasiris", 
+            ["en"]="Heka's Kalasiris"
         }, 
         [11870]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="nefer kalasiris +1", 
-            ["en"]="Nefer Kalasiris +1", 
             ["id"]=11870, 
-            ["bonus"]={
-                ["Refresh"]=1
-            }
+            ["enl"]="nefer kalasiris +1", 
+            ["en"]="Nefer Kalasiris +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=150, 
+        ["Set Bonus"]="Adds \"Refresh\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=2
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [154]={
         [25573]={
-            ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="tali'ah turban +2", 
-            ["en"]="Tali'ah Turban +2", 
             ["id"]=25573, 
-            ["bonus"]={
-                ["CHR"]=4, 
-                ["DEX"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="tali'ah turban +2", 
+            ["en"]="Tali'ah Turban +2"
         }, 
         [25796]={
-            ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="tali'ah manteel +2", 
-            ["en"]="Tali'ah Manteel +2", 
             ["id"]=25796, 
-            ["bonus"]={
-                ["CHR"]=4, 
-                ["DEX"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="tali'ah manteel +2", 
+            ["en"]="Tali'ah Manteel +2"
         }, 
         [25834]={
-            ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="tali'ah gages +2", 
-            ["en"]="Tali'ah Gages +2", 
             ["id"]=25834, 
-            ["bonus"]={
-                ["CHR"]=4, 
-                ["DEX"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="tali'ah gages +2", 
+            ["en"]="Tali'ah Gages +2"
         }, 
         [25885]={
-            ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="tali'ah seraweels +2", 
-            ["en"]="Tali'ah Sera. +2", 
             ["id"]=25885, 
-            ["bonus"]={
-                ["CHR"]=4, 
-                ["DEX"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="tali'ah seraweels +2", 
+            ["en"]="Tali'ah Sera. +2"
         }, 
         [25952]={
-            ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="tali'ah crackows +2", 
-            ["en"]="Tali'ah Crackows +2", 
             ["id"]=25952, 
-            ["bonus"]={
-                ["CHR"]=4, 
-                ["DEX"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="tali'ah crackows +2", 
+            ["en"]="Tali'ah Crackows +2"
         }, 
         [26210]={
-            ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="tali'ah ring", 
-            ["en"]="Tali'ah Ring", 
             ["id"]=26210, 
-            ["bonus"]={
-                ["CHR"]=4, 
-                ["DEX"]=4, 
-                ["VIT"]=4
+            ["enl"]="tali'ah ring", 
+            ["en"]="Tali'ah Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Dexterity, Vitality, and Charisma", 
+        ["set id"]=154, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["CHR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["CHR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["CHR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["CHR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
             }
         }
     }, 
     [159]={
         [14590]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit harness", 
-            ["en"]="Cobra Harness", 
             ["id"]=14590, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit harness", 
+            ["en"]="Cobra Harness"
         }, 
         [15011]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit mittens", 
-            ["en"]="Cobra Mittens", 
             ["id"]=15011, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit mittens", 
+            ["en"]="Cobra Mittens"
         }, 
         [15757]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit leggings", 
-            ["en"]="Cobra Leggings", 
             ["id"]=15757, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit leggings", 
+            ["en"]="Cobra Leggings"
         }, 
         [16148]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit cap", 
-            ["en"]="Cobra Cap", 
             ["id"]=16148, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit cap", 
+            ["en"]="Cobra Cap"
         }, 
         [16317]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit subligar", 
-            ["en"]="Cobra Subligar", 
             ["id"]=16317, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit subligar", 
+            ["en"]="Cobra Subligar"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Counter\" effect", 
+        ["set id"]=159, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [160]={
         [14085]={
-            ["Set Bonus"]="\"Cure\" potency +5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="serpentes sabots", 
-            ["en"]="Serpentes Sabots", 
             ["id"]=14085, 
-            ["bonus"]={
-                ["Cure potency"]=5
-            }
+            ["enl"]="serpentes sabots", 
+            ["en"]="Serpentes Sabots"
         }, 
         [15019]={
-            ["Set Bonus"]="\"Cure\" potency +5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="serpentes cuffs", 
-            ["en"]="Serpentes Cuffs", 
             ["id"]=15019, 
-            ["bonus"]={
+            ["enl"]="serpentes cuffs", 
+            ["en"]="Serpentes Cuffs"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="\"Cure\" potency +5%", 
+        ["set id"]=160, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Cure potency"]=5
-            }
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [161]={
         [25574]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Sulevia's mask +2", 
-            ["en"]="Sulevia's Mask +2", 
             ["id"]=25574, 
-            ["bonus"]={
-                ["Subtle Blow"]=5
-            }
+            ["enl"]="Sulevia's mask +2", 
+            ["en"]="Sulevia's Mask +2"
         }, 
         [25790]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Sulevia's platemail +2", 
-            ["en"]="Sulevia's Plate. +2", 
             ["id"]=25790, 
-            ["bonus"]={
-                ["Subtle Blow"]=5
-            }
+            ["enl"]="Sulevia's platemail +2", 
+            ["en"]="Sulevia's Plate. +2"
         }, 
         [25828]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Sulevia's gauntlets +2", 
-            ["en"]="Sulev. Gauntlets +2", 
             ["id"]=25828, 
-            ["bonus"]={
-                ["Subtle Blow"]=5
-            }
+            ["enl"]="Sulevia's gauntlets +2", 
+            ["en"]="Sulev. Gauntlets +2"
         }, 
         [25879]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Sulevia's cuisses +2", 
-            ["en"]="Sulev. Cuisses +2", 
             ["id"]=25879, 
-            ["bonus"]={
-                ["Subtle Blow"]=5
-            }
+            ["enl"]="Sulevia's cuisses +2", 
+            ["en"]="Sulev. Cuisses +2"
         }, 
         [25946]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Sulevia's leggings +2", 
-            ["en"]="Sulev. Leggings +2", 
             ["id"]=25946, 
-            ["bonus"]={
-                ["Subtle Blow"]=5
-            }
+            ["enl"]="Sulevia's leggings +2", 
+            ["en"]="Sulev. Leggings +2"
         }, 
         [26204]={
-            ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Sulevia's ring", 
-            ["en"]="Sulevia's Ring", 
             ["id"]=26204, 
-            ["bonus"]={
+            ["enl"]="Sulevia's ring", 
+            ["en"]="Sulevia's Ring"
+        }, 
+        ["set id"]=161, 
+        ["Set Bonus"]="Enhances \"Subtle Blow\" effect", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Subtle Blow"]=5
+            }, 
+            [3]={
+                ["Subtle Blow"]=10
+            }, 
+            [4]={
+                ["Subtle Blow"]=15
+            }, 
+            [5]={
+                ["Subtle Blow"]=20
             }
         }
     }, 
     [164]={
         [10464]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=5, 
-            ["enl"]="magavan frock", 
-            ["en"]="Magavan Frock", 
             ["id"]=10464, 
-            ["bonus"]={
-                ["Magic Accuracy"]=5
-            }
+            ["enl"]="magavan frock", 
+            ["en"]="Magavan Frock"
         }, 
         [10514]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=5, 
-            ["enl"]="magavan mitts", 
-            ["en"]="Magavan Mitts", 
             ["id"]=10514, 
-            ["bonus"]={
-                ["Magic Accuracy"]=5
-            }
+            ["enl"]="magavan mitts", 
+            ["en"]="Magavan Mitts"
         }, 
         [10612]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=5, 
-            ["enl"]="magavan clogs", 
-            ["en"]="Magavan Clogs", 
             ["id"]=10612, 
-            ["bonus"]={
-                ["Magic Accuracy"]=5
-            }
+            ["enl"]="magavan clogs", 
+            ["en"]="Magavan Clogs"
         }, 
         [10892]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=5, 
-            ["enl"]="magavan beret", 
-            ["en"]="Magavan Beret", 
             ["id"]=10892, 
-            ["bonus"]={
-                ["Magic Accuracy"]=5
-            }
+            ["enl"]="magavan beret", 
+            ["en"]="Magavan Beret"
         }, 
         [11982]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=5, 
-            ["enl"]="magavan slops", 
-            ["en"]="Magavan Slops", 
             ["id"]=11982, 
-            ["bonus"]={
+            ["enl"]="magavan slops", 
+            ["en"]="Magavan Slops"
+        }, 
+        ["set id"]=164, 
+        ["Set Bonus"]="Magic Accuracy+5", 
+        ["minimum peices"]=5, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={
                 ["Magic Accuracy"]=5
             }
         }
     }, 
     [165]={
         [11067]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goetia petasos +2", 
-            ["en"]="Goetia Petasos +2", 
             ["id"]=11067, 
-            ["bonus"]=""
+            ["enl"]="goetia petasos +2", 
+            ["en"]="Goetia Petasos +2"
         }, 
         [11087]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goetia coat +2", 
-            ["en"]="Goetia Coat +2", 
             ["id"]=11087, 
-            ["bonus"]=""
+            ["enl"]="goetia coat +2", 
+            ["en"]="Goetia Coat +2"
         }, 
         [11107]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goetia gloves +2", 
-            ["en"]="Goetia Gloves +2", 
             ["id"]=11107, 
-            ["bonus"]=""
+            ["enl"]="goetia gloves +2", 
+            ["en"]="Goetia Gloves +2"
         }, 
         [11127]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goetia chausses +2", 
-            ["en"]="Goet. Chausses +2", 
             ["id"]=11127, 
-            ["bonus"]=""
+            ["enl"]="goetia chausses +2", 
+            ["en"]="Goet. Chausses +2"
         }, 
         [11147]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="goetia sabots +2", 
-            ["en"]="Goetia Sabots +2", 
             ["id"]=11147, 
-            ["bonus"]=""
+            ["enl"]="goetia sabots +2", 
+            ["en"]="Goetia Sabots +2"
         }, 
         [26746]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce petasos", 
-            ["en"]="Wicce Petasos", 
             ["id"]=26746, 
-            ["bonus"]=""
+            ["enl"]="wicce petasos", 
+            ["en"]="Wicce Petasos"
         }, 
         [26747]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce petasos +1", 
-            ["en"]="Wicce Petasos +1", 
             ["id"]=26747, 
-            ["bonus"]=""
+            ["enl"]="wicce petasos +1", 
+            ["en"]="Wicce Petasos +1"
         }, 
         [26904]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce coat", 
-            ["en"]="Wicce Coat", 
             ["id"]=26904, 
-            ["bonus"]=""
+            ["enl"]="wicce coat", 
+            ["en"]="Wicce Coat"
         }, 
         [26905]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce coat +1", 
-            ["en"]="Wicce Coat +1", 
             ["id"]=26905, 
-            ["bonus"]=""
+            ["enl"]="wicce coat +1", 
+            ["en"]="Wicce Coat +1"
         }, 
         [27058]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce gloves", 
-            ["en"]="Wicce Gloves", 
             ["id"]=27058, 
-            ["bonus"]=""
+            ["enl"]="wicce gloves", 
+            ["en"]="Wicce Gloves"
         }, 
         [27059]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce gloves +1", 
-            ["en"]="Wicce Gloves +1", 
             ["id"]=27059, 
-            ["bonus"]=""
+            ["enl"]="wicce gloves +1", 
+            ["en"]="Wicce Gloves +1"
         }, 
         [27243]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce chausses", 
-            ["en"]="Wicce Chausses", 
             ["id"]=27243, 
-            ["bonus"]=""
+            ["enl"]="wicce chausses", 
+            ["en"]="Wicce Chausses"
         }, 
         [27244]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce chausses +1", 
-            ["en"]="Wicce Chausses +1", 
             ["id"]=27244, 
-            ["bonus"]=""
+            ["enl"]="wicce chausses +1", 
+            ["en"]="Wicce Chausses +1"
         }, 
         [27417]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce sabots", 
-            ["en"]="Wicce Sabots", 
             ["id"]=27417, 
-            ["bonus"]=""
+            ["enl"]="wicce sabots", 
+            ["en"]="Wicce Sabots"
         }, 
         [27418]={
-            ["Set Bonus"]="Augments \"Conserve MP\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="wicce sabots +1", 
-            ["en"]="Wicce Sabots +1", 
             ["id"]=27418, 
-            ["bonus"]=""
+            ["enl"]="wicce sabots +1", 
+            ["en"]="Wicce Sabots +1"
+        }, 
+        ["Set Bonus"]="Augments \"Conserve MP\"", 
+        ["set id"]=165, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [168]={
         [14568]={
-            ["Set Bonus"]="Max HP Boost", 
-            ["minimum peices"]=2, 
-            ["enl"]="askar korazin", 
-            ["en"]="Askar Korazin", 
             ["id"]=14568, 
-            ["bonus"]=""
+            ["enl"]="askar korazin", 
+            ["en"]="Askar Korazin"
         }, 
         [14983]={
-            ["Set Bonus"]="Max HP Boost", 
-            ["minimum peices"]=2, 
-            ["enl"]="askar manopolas", 
-            ["en"]="Askar Manopolas", 
             ["id"]=14983, 
-            ["bonus"]=""
+            ["enl"]="askar manopolas", 
+            ["en"]="Askar Manopolas"
         }, 
         [15647]={
-            ["Set Bonus"]="Max HP Boost", 
-            ["minimum peices"]=2, 
-            ["enl"]="askar dirs", 
-            ["en"]="Askar Dirs", 
             ["id"]=15647, 
-            ["bonus"]=""
+            ["enl"]="askar dirs", 
+            ["en"]="Askar Dirs"
         }, 
         [15733]={
-            ["Set Bonus"]="Max HP Boost", 
-            ["minimum peices"]=2, 
-            ["enl"]="askar gambieras", 
-            ["en"]="Askar Gambieras", 
             ["id"]=15733, 
-            ["bonus"]=""
+            ["enl"]="askar gambieras", 
+            ["en"]="Askar Gambieras"
         }, 
         [16106]={
-            ["Set Bonus"]="Max HP Boost", 
-            ["minimum peices"]=2, 
-            ["enl"]="askar zucchetto", 
-            ["en"]="Askar Zucchetto", 
             ["id"]=16106, 
-            ["bonus"]=""
+            ["enl"]="askar zucchetto", 
+            ["en"]="Askar Zucchetto"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=168, 
+        ["Set Bonus"]="Max HP Boost", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [173]={
         [14588]={
-            ["Set Bonus"]="Increases all elemental resistances", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram hauberk", 
-            ["en"]="Iron Ram Hauberk", 
             ["id"]=14588, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram hauberk", 
+            ["en"]="Iron Ram Hauberk"
         }, 
         [15009]={
-            ["Set Bonus"]="Increases all elemental resistances", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram dastanas", 
-            ["en"]="I.R. Dastanas", 
             ["id"]=15009, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram dastanas", 
+            ["en"]="I.R. Dastanas"
         }, 
         [16146]={
-            ["Set Bonus"]="Increases all elemental resistances", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram sallet", 
-            ["en"]="Iron Ram Sallet", 
             ["id"]=16146, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram sallet", 
+            ["en"]="Iron Ram Sallet"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases all elemental resistances", 
+        ["set id"]=173, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [194]={
         [14583]={
-            ["Set Bonus"]="Increases MP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit coat", 
-            ["en"]="Cobra Coat", 
             ["id"]=14583, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit coat", 
+            ["en"]="Cobra Coat"
         }, 
         [15007]={
-            ["Set Bonus"]="Increases MP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit cuffs", 
-            ["en"]="Cobra Cuffs", 
             ["id"]=15007, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit cuffs", 
+            ["en"]="Cobra Cuffs"
         }, 
         [15751]={
-            ["Set Bonus"]="Increases MP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit pigaches", 
-            ["en"]="Cobra Pigaches", 
             ["id"]=15751, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit pigaches", 
+            ["en"]="Cobra Pigaches"
         }, 
         [16143]={
-            ["Set Bonus"]="Increases MP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit hat", 
-            ["en"]="Cobra Hat", 
             ["id"]=16143, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit hat", 
+            ["en"]="Cobra Hat"
         }, 
         [16314]={
-            ["Set Bonus"]="Increases MP", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit slops", 
-            ["en"]="Cobra Slops", 
             ["id"]=16314, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit slops", 
+            ["en"]="Cobra Slops"
+        }, 
+        ["set id"]=194, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases MP", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [218]={
         [25569]={
-            ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
-            ["minimum peices"]=2, 
-            ["enl"]="flamma zucchetto +2", 
-            ["en"]="Flam. Zucchetto +2", 
             ["id"]=25569, 
-            ["bonus"]={
-                ["DEX"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="flamma zucchetto +2", 
+            ["en"]="Flam. Zucchetto +2"
         }, 
         [25797]={
-            ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
-            ["minimum peices"]=2, 
-            ["enl"]="flamma korazin +2", 
-            ["en"]="Flamma Korazin +2", 
             ["id"]=25797, 
-            ["bonus"]={
-                ["DEX"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="flamma korazin +2", 
+            ["en"]="Flamma Korazin +2"
         }, 
         [25835]={
-            ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
-            ["minimum peices"]=2, 
-            ["enl"]="flamma manopolas +2", 
-            ["en"]="Flam. Manopolas +2", 
             ["id"]=25835, 
-            ["bonus"]={
-                ["DEX"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="flamma manopolas +2", 
+            ["en"]="Flam. Manopolas +2"
         }, 
         [25886]={
-            ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
-            ["minimum peices"]=2, 
-            ["enl"]="flamma dirs +2", 
-            ["en"]="Flamma Dirs +2", 
             ["id"]=25886, 
-            ["bonus"]={
-                ["DEX"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="flamma dirs +2", 
+            ["en"]="Flamma Dirs +2"
         }, 
         [25953]={
-            ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
-            ["minimum peices"]=2, 
-            ["enl"]="flamma gambieras +2", 
-            ["en"]="Flam. Gambieras +2", 
             ["id"]=25953, 
-            ["bonus"]={
-                ["DEX"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
-            }
+            ["enl"]="flamma gambieras +2", 
+            ["en"]="Flam. Gambieras +2"
         }, 
         [26211]={
-            ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
-            ["minimum peices"]=2, 
-            ["enl"]="flamma ring", 
-            ["en"]="Flamma Ring", 
             ["id"]=26211, 
-            ["bonus"]={
-                ["DEX"]=4, 
-                ["STR"]=4, 
-                ["VIT"]=4
+            ["enl"]="flamma ring", 
+            ["en"]="Flamma Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Strength, Dexterity, and Vitality", 
+        ["set id"]=218, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["STR"]=8, 
+                ["DEX"]=8, 
+                ["VIT"]=8
+            }, 
+            [3]={
+                ["STR"]=16, 
+                ["DEX"]=16, 
+                ["VIT"]=16
+            }, 
+            [4]={
+                ["STR"]=24, 
+                ["DEX"]=24, 
+                ["VIT"]=24
+            }, 
+            [5]={
+                ["STR"]=32, 
+                ["DEX"]=32, 
+                ["VIT"]=32
             }
         }
     }, 
     [222]={
         [11076]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="iga zukin +2", 
-            ["en"]="Iga Zukin +2", 
             ["id"]=11076, 
-            ["bonus"]=""
+            ["enl"]="iga zukin +2", 
+            ["en"]="Iga Zukin +2"
         }, 
         [11096]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="iga ningi +2", 
-            ["en"]="Iga Ningi +2", 
             ["id"]=11096, 
-            ["bonus"]=""
+            ["enl"]="iga ningi +2", 
+            ["en"]="Iga Ningi +2"
         }, 
         [11116]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="iga tekko +2", 
-            ["en"]="Iga Tekko +2", 
             ["id"]=11116, 
-            ["bonus"]=""
+            ["enl"]="iga tekko +2", 
+            ["en"]="Iga Tekko +2"
         }, 
         [11136]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="iga hakama +2", 
-            ["en"]="Iga Hakama +2", 
             ["id"]=11136, 
-            ["bonus"]=""
+            ["enl"]="iga hakama +2", 
+            ["en"]="Iga Hakama +2"
         }, 
         [11156]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="iga kyahan +2", 
-            ["en"]="Iga Kyahan +2", 
             ["id"]=11156, 
-            ["bonus"]=""
+            ["enl"]="iga kyahan +2", 
+            ["en"]="Iga Kyahan +2"
         }, 
         [26764]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori zukin", 
-            ["en"]="Hattori Zukin", 
             ["id"]=26764, 
-            ["bonus"]=""
+            ["enl"]="hattori zukin", 
+            ["en"]="Hattori Zukin"
         }, 
         [26765]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori zukin +1", 
-            ["en"]="Hattori Zukin +1", 
             ["id"]=26765, 
-            ["bonus"]=""
+            ["enl"]="hattori zukin +1", 
+            ["en"]="Hattori Zukin +1"
         }, 
         [26922]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori ningi", 
-            ["en"]="Hattori Ningi", 
             ["id"]=26922, 
-            ["bonus"]=""
+            ["enl"]="hattori ningi", 
+            ["en"]="Hattori Ningi"
         }, 
         [26923]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori ningi +1", 
-            ["en"]="Hattori Ningi +1", 
             ["id"]=26923, 
-            ["bonus"]=""
+            ["enl"]="hattori ningi +1", 
+            ["en"]="Hattori Ningi +1"
         }, 
         [27076]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori tekko", 
-            ["en"]="Hattori Tekko", 
             ["id"]=27076, 
-            ["bonus"]=""
+            ["enl"]="hattori tekko", 
+            ["en"]="Hattori Tekko"
         }, 
         [27077]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori tekko +1", 
-            ["en"]="Hattori Tekko +1", 
             ["id"]=27077, 
-            ["bonus"]=""
+            ["enl"]="hattori tekko +1", 
+            ["en"]="Hattori Tekko +1"
         }, 
         [27261]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori hakama", 
-            ["en"]="Hattori Hakama", 
             ["id"]=27261, 
-            ["bonus"]=""
+            ["enl"]="hattori hakama", 
+            ["en"]="Hattori Hakama"
         }, 
         [27262]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori hakama +1", 
-            ["en"]="Hattori Hakama +1", 
             ["id"]=27262, 
-            ["bonus"]=""
+            ["enl"]="hattori hakama +1", 
+            ["en"]="Hattori Hakama +1"
         }, 
         [27435]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori kyahan", 
-            ["en"]="Hattori Kyahan", 
             ["id"]=27435, 
-            ["bonus"]=""
+            ["enl"]="hattori kyahan", 
+            ["en"]="Hattori Kyahan"
         }, 
         [27436]={
-            ["Set Bonus"]="Augments \"Dual Wield\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="hattori kyahan +1", 
-            ["en"]="Hattori Kyahan +1", 
             ["id"]=27436, 
-            ["bonus"]=""
-        }
+            ["enl"]="hattori kyahan +1", 
+            ["en"]="Hattori Kyahan +1"
+        }, 
+        ["Set Bonus"]="Augments \"Dual Wield\"", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["set id"]=222, 
+        ["minimum peices"]=2
     }, 
     [223]={
         [26780]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth hood", 
-            ["en"]="Azimuth Hood", 
             ["id"]=26780, 
-            ["bonus"]=""
+            ["enl"]="azimuth hood", 
+            ["en"]="Azimuth Hood"
         }, 
         [26781]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth hood +1", 
-            ["en"]="Azimuth Hood +1", 
             ["id"]=26781, 
-            ["bonus"]=""
+            ["enl"]="azimuth hood +1", 
+            ["en"]="Azimuth Hood +1"
         }, 
         [26938]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth coat", 
-            ["en"]="Azimuth Coat", 
             ["id"]=26938, 
-            ["bonus"]=""
+            ["enl"]="azimuth coat", 
+            ["en"]="Azimuth Coat"
         }, 
         [26939]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth coat +1", 
-            ["en"]="Azimuth Coat +1", 
             ["id"]=26939, 
-            ["bonus"]=""
+            ["enl"]="azimuth coat +1", 
+            ["en"]="Azimuth Coat +1"
         }, 
         [27092]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth gloves", 
-            ["en"]="Azimuth Gloves", 
             ["id"]=27092, 
-            ["bonus"]=""
+            ["enl"]="azimuth gloves", 
+            ["en"]="Azimuth Gloves"
         }, 
         [27093]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth gloves +1", 
-            ["en"]="Azimuth Gloves +1", 
             ["id"]=27093, 
-            ["bonus"]=""
+            ["enl"]="azimuth gloves +1", 
+            ["en"]="Azimuth Gloves +1"
         }, 
         [27277]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth tights", 
-            ["en"]="Azimuth Tights", 
             ["id"]=27277, 
-            ["bonus"]=""
+            ["enl"]="azimuth tights", 
+            ["en"]="Azimuth Tights"
         }, 
         [27278]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth tights +1", 
-            ["en"]="Azimuth Tights +1", 
             ["id"]=27278, 
-            ["bonus"]=""
+            ["enl"]="azimuth tights +1", 
+            ["en"]="Azimuth Tights +1"
         }, 
         [27451]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth gaiters", 
-            ["en"]="Azimuth Gaiters", 
             ["id"]=27451, 
-            ["bonus"]=""
+            ["enl"]="azimuth gaiters", 
+            ["en"]="Azimuth Gaiters"
         }, 
         [27452]={
-            ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="azimuth gaiters +1", 
-            ["en"]="Azimuth Gaiters +1", 
             ["id"]=27452, 
-            ["bonus"]=""
+            ["enl"]="azimuth gaiters +1", 
+            ["en"]="Azimuth Gaiters +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="MP occasionally not depleted when using geomancy spells", 
+        ["set id"]=223, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [231]={
         [11071]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="bale burgeonet +2", 
-            ["en"]="Bale Burgeonet +2", 
             ["id"]=11071, 
-            ["bonus"]=""
+            ["enl"]="bale burgeonet +2", 
+            ["en"]="Bale Burgeonet +2"
         }, 
         [11091]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="bale cuirass +2", 
-            ["en"]="Bale Cuirass +2", 
             ["id"]=11091, 
-            ["bonus"]=""
+            ["enl"]="bale cuirass +2", 
+            ["en"]="Bale Cuirass +2"
         }, 
         [11111]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="bale gauntlets +2", 
-            ["en"]="Bale Gauntlets +2", 
             ["id"]=11111, 
-            ["bonus"]=""
+            ["enl"]="bale gauntlets +2", 
+            ["en"]="Bale Gauntlets +2"
         }, 
         [11131]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="bale flanchard +2", 
-            ["en"]="Bale Flanchard +2", 
             ["id"]=11131, 
-            ["bonus"]=""
+            ["enl"]="bale flanchard +2", 
+            ["en"]="Bale Flanchard +2"
         }, 
         [11151]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="bale sollerets +2", 
-            ["en"]="Bale Sollerets +2", 
             ["id"]=11151, 
-            ["bonus"]=""
+            ["enl"]="bale sollerets +2", 
+            ["en"]="Bale Sollerets +2"
         }, 
         [26754]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's burgonet", 
-            ["en"]="Heathen's Burgonet", 
             ["id"]=26754, 
-            ["bonus"]=""
+            ["enl"]="heathen's burgonet", 
+            ["en"]="Heathen's Burgonet"
         }, 
         [26755]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's burgonet +1", 
-            ["en"]="Heath. Burgonet +1", 
             ["id"]=26755, 
-            ["bonus"]=""
+            ["enl"]="heathen's burgonet +1", 
+            ["en"]="Heath. Burgonet +1"
         }, 
         [26912]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's cuirass", 
-            ["en"]="Heathen's Cuirass", 
             ["id"]=26912, 
-            ["bonus"]=""
+            ["enl"]="heathen's cuirass", 
+            ["en"]="Heathen's Cuirass"
         }, 
         [26913]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's cuirass +1", 
-            ["en"]="Heath. Cuirass +1", 
             ["id"]=26913, 
-            ["bonus"]=""
+            ["enl"]="heathen's cuirass +1", 
+            ["en"]="Heath. Cuirass +1"
         }, 
         [27066]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's gauntlets", 
-            ["en"]="Heath. Gauntlets", 
             ["id"]=27066, 
-            ["bonus"]=""
+            ["enl"]="heathen's gauntlets", 
+            ["en"]="Heath. Gauntlets"
         }, 
         [27067]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's gauntlets +1", 
-            ["en"]="Heath. Gauntlets +1", 
             ["id"]=27067, 
-            ["bonus"]=""
+            ["enl"]="heathen's gauntlets +1", 
+            ["en"]="Heath. Gauntlets +1"
         }, 
         [27251]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's flanchard", 
-            ["en"]="Heath. Flanchard", 
             ["id"]=27251, 
-            ["bonus"]=""
+            ["enl"]="heathen's flanchard", 
+            ["en"]="Heath. Flanchard"
         }, 
         [27252]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's flanchard +1", 
-            ["en"]="Heath. Flanchard +1", 
             ["id"]=27252, 
-            ["bonus"]=""
+            ["enl"]="heathen's flanchard +1", 
+            ["en"]="Heath. Flanchard +1"
         }, 
         [27425]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's sollerets", 
-            ["en"]="Heath. Sollerets", 
             ["id"]=27425, 
-            ["bonus"]=""
+            ["enl"]="heathen's sollerets", 
+            ["en"]="Heath. Sollerets"
         }, 
         [27426]={
-            ["Set Bonus"]="Attack occ. varies with HP", 
-            ["minimum peices"]=2, 
-            ["enl"]="heathen's sollerets +1", 
-            ["en"]="Heath. Sollerets +1", 
             ["id"]=27426, 
-            ["bonus"]=""
-        }
+            ["enl"]="heathen's sollerets +1", 
+            ["en"]="Heath. Sollerets +1"
+        }, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["set id"]=231, 
+        ["Set Bonus"]="Attack occ. varies with HP", 
+        ["minimum peices"]=2
     }, 
     [233]={
         [25618]={
-            ["Set Bonus"]="Enhances \"Cure\" potency II effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="kaykaus mitra +1", 
-            ["en"]="Kaykaus Mitra +1", 
             ["id"]=25618, 
-            ["bonus"]={
-                ["Cure potency II"]=2
-            }
+            ["enl"]="kaykaus mitra +1", 
+            ["en"]="Kaykaus Mitra +1"
         }, 
         [25691]={
-            ["Set Bonus"]="Enhances \"Cure\" potency II effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="kaykaus bliaut +1", 
-            ["en"]="Kaykaus Bliaut +1", 
             ["id"]=25691, 
-            ["bonus"]={
-                ["Cure potency II"]=2
-            }
+            ["enl"]="kaykaus bliaut +1", 
+            ["en"]="Kaykaus Bliaut +1"
         }, 
         [27122]={
-            ["Set Bonus"]="Enhances \"Cure\" potency II effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="kaykaus cuffs +1", 
-            ["en"]="Kaykaus Cuffs +1", 
             ["id"]=27122, 
-            ["bonus"]={
-                ["Cure potency II"]=2
-            }
+            ["enl"]="kaykaus cuffs +1", 
+            ["en"]="Kaykaus Cuffs +1"
         }, 
         [27307]={
-            ["Set Bonus"]="Enhances \"Cure\" potency II effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="kaykaus tights +1", 
-            ["en"]="Kaykaus Tights +1", 
             ["id"]=27307, 
-            ["bonus"]={
-                ["Cure potency II"]=2
-            }
+            ["enl"]="kaykaus tights +1", 
+            ["en"]="Kaykaus Tights +1"
         }, 
         [27478]={
-            ["Set Bonus"]="Enhances \"Cure\" potency II effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="kaykaus boots +1", 
-            ["en"]="Kaykaus Boots +1", 
             ["id"]=27478, 
-            ["bonus"]={
-                ["Cure potency II"]=2
+            ["enl"]="kaykaus boots +1", 
+            ["en"]="Kaykaus Boots +1"
+        }, 
+        ["set id"]=233, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Cure\" potency II effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Cure potency II"]=4
+            }, 
+            [3]={
+                ["Cure potency II"]=6
+            }, 
+            [4]={
+                ["Cure potency II"]=8
+            }, 
+            [5]={
+                ["Cure potency II"]=10
             }
         }
     }, 
     [235]={
         [25616]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="amalric coif +1", 
-            ["en"]="Amalric Coif +1", 
             ["id"]=25616, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=10
-            }
+            ["enl"]="amalric coif +1", 
+            ["en"]="Amalric Coif +1"
         }, 
         [25689]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="amalric doublet +1", 
-            ["en"]="Amalric Doublet +1", 
             ["id"]=25689, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=10
-            }
+            ["enl"]="amalric doublet +1", 
+            ["en"]="Amalric Doublet +1"
         }, 
         [27120]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="amalric gages +1", 
-            ["en"]="Amalric Gages +1", 
             ["id"]=27120, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=10
-            }
+            ["enl"]="amalric gages +1", 
+            ["en"]="Amalric Gages +1"
         }, 
         [27305]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="amalric slops +1", 
-            ["en"]="Amalric Slops +1", 
             ["id"]=27305, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=10
-            }
+            ["enl"]="amalric slops +1", 
+            ["en"]="Amalric Slops +1"
         }, 
         [27476]={
-            ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="amalric nails +1", 
-            ["en"]="Amalric Nails +1", 
             ["id"]=27476, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=10
+            ["enl"]="amalric nails +1", 
+            ["en"]="Amalric Nails +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=235, 
+        ["Set Bonus"]="Enhances \"Magic Atk. Bonus\" effect", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Magic Atk. Bonus"]=20
+            }, 
+            [3]={
+                ["Magic Atk. Bonus"]=30
+            }, 
+            [4]={
+                ["Magic Atk. Bonus"]=40
+            }, 
+            [5]={
+                ["Magic Atk. Bonus"]=50
             }
         }
     }, 
     [239]={
         [25612]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="ryuo somen +1", 
-            ["en"]="Ryuo Somen +1", 
             ["id"]=25612, 
-            ["bonus"]={
-                ["Attack"]=10
-            }
+            ["enl"]="ryuo somen +1", 
+            ["en"]="Ryuo Somen +1"
         }, 
         [25685]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="ryuo domaru +1", 
-            ["en"]="Ryuo Domaru +1", 
             ["id"]=25685, 
-            ["bonus"]={
-                ["Attack"]=10
-            }
+            ["enl"]="ryuo domaru +1", 
+            ["en"]="Ryuo Domaru +1"
         }, 
         [27116]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="ryuo tekko +1", 
-            ["en"]="Ryuo Tekko +1", 
             ["id"]=27116, 
-            ["bonus"]={
-                ["Attack"]=10
-            }
+            ["enl"]="ryuo tekko +1", 
+            ["en"]="Ryuo Tekko +1"
         }, 
         [27301]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="ryuo hakama +1", 
-            ["en"]="Ryuo Hakama +1", 
             ["id"]=27301, 
-            ["bonus"]={
-                ["Attack"]=10
-            }
+            ["enl"]="ryuo hakama +1", 
+            ["en"]="Ryuo Hakama +1"
         }, 
         [27472]={
-            ["Set Bonus"]="Increases Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="ryuo sune-ate +1", 
-            ["en"]="Ryuo Sune-Ate +1", 
             ["id"]=27472, 
-            ["bonus"]={
-                ["Attack"]=10
+            ["enl"]="ryuo sune-ate +1", 
+            ["en"]="Ryuo Sune-Ate +1"
+        }, 
+        ["Set Bonus"]="Increases Attack", 
+        ["set id"]=239, 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Attack"]=20
+            }, 
+            [3]={
+                ["Attack"]=30
+            }, 
+            [4]={
+                ["Attack"]=40
+            }, 
+            [5]={
+                ["Attack"]=50
             }
         }
     }, 
     [241]={
         [25610]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="emicho coronet +1", 
-            ["en"]="Emicho Coronet +1", 
             ["id"]=25610, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="emicho coronet +1", 
+            ["en"]="Emicho Coronet +1"
         }, 
         [25683]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="emicho haubert +1", 
-            ["en"]="Emicho Haubert +1", 
             ["id"]=25683, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="emicho haubert +1", 
+            ["en"]="Emicho Haubert +1"
         }, 
         [27114]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="emicho gauntlets +1", 
-            ["en"]="Emi. Gauntlets +1", 
             ["id"]=27114, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="emicho gauntlets +1", 
+            ["en"]="Emi. Gauntlets +1"
         }, 
         [27299]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="emicho hose +1", 
-            ["en"]="Emicho Hose +1", 
             ["id"]=27299, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="emicho hose +1", 
+            ["en"]="Emicho Hose +1"
         }, 
         [27470]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="emicho gambieras +1", 
-            ["en"]="Emi. Gambieras +1", 
             ["id"]=27470, 
-            ["bonus"]={
-                ["Double Attack"]=2
+            ["enl"]="emicho gambieras +1", 
+            ["en"]="Emi. Gambieras +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Double Attack\" effect", 
+        ["set id"]=241, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
             }
         }
     }, 
     [247]={
         [10450]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ogier's surcoat", 
-            ["en"]="Ogier's Surcoat", 
             ["id"]=10450, 
-            ["bonus"]=""
+            ["enl"]="Ogier's surcoat", 
+            ["en"]="Ogier's Surcoat"
         }, 
         [10500]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ogier's gauntlets", 
-            ["en"]="Ogier's Gauntlets", 
             ["id"]=10500, 
-            ["bonus"]=""
+            ["enl"]="Ogier's gauntlets", 
+            ["en"]="Ogier's Gauntlets"
         }, 
         [10600]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ogier's leggings", 
-            ["en"]="Ogier's Leggings", 
             ["id"]=10600, 
-            ["bonus"]=""
+            ["enl"]="Ogier's leggings", 
+            ["en"]="Ogier's Leggings"
         }, 
         [10876]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ogier's helm", 
-            ["en"]="Ogier's Helm", 
             ["id"]=10876, 
-            ["bonus"]=""
+            ["enl"]="Ogier's helm", 
+            ["en"]="Ogier's Helm"
         }, 
         [11969]={
-            ["Set Bonus"]="Adds \"Refresh\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Ogier's breeches", 
-            ["en"]="Ogier's Breeches", 
             ["id"]=11969, 
-            ["bonus"]=""
+            ["enl"]="Ogier's breeches", 
+            ["en"]="Ogier's Breeches"
+        }, 
+        ["Set Bonus"]="Adds \"Refresh\" effect", 
+        ["minimum peices"]=2, 
+        ["set id"]=247, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Refresh"]=1
+            }, 
+            [3]={
+                ["Refresh"]=1
+            }, 
+            [4]={
+                ["Refresh"]=2
+            }, 
+            [5]={
+                ["Refresh"]=2
+            }
         }
     }, 
     [252]={
         [15755]={
-            ["Set Bonus"]="Increased resistance against all elements", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram greaves", 
-            ["en"]="Iron Ram Greaves", 
             ["id"]=15755, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram greaves", 
+            ["en"]="Iron Ram Greaves"
         }, 
         [16315]={
-            ["Set Bonus"]="Increased resistance against all elements", 
-            ["minimum peices"]=2, 
-            ["enl"]="Iron Ram hose", 
-            ["en"]="Iron Ram Hose", 
             ["id"]=16315, 
-            ["bonus"]=""
+            ["enl"]="Iron Ram hose", 
+            ["en"]="Iron Ram Hose"
+        }, 
+        ["set id"]=252, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increased resistance against all elements", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [263]={
         [26671]={
-            ["Set Bonus"]="Reduces damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="souveran schaller +1", 
-            ["en"]="Souv. Schaller +1", 
             ["id"]=26671, 
-            ["bonus"]={
-                ["DT"]=2
-            }
+            ["enl"]="souveran schaller +1", 
+            ["en"]="Souv. Schaller +1"
         }, 
         [26847]={
-            ["Set Bonus"]="Reduces damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="souveran cuirass +1", 
-            ["en"]="Souv. Cuirass +1", 
             ["id"]=26847, 
-            ["bonus"]={
-                ["DT"]=2
-            }
+            ["enl"]="souveran cuirass +1", 
+            ["en"]="Souv. Cuirass +1"
         }, 
         [27023]={
-            ["Set Bonus"]="Reduces damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="souveran handschuhs +1", 
-            ["en"]="Souv. Handsch. +1", 
             ["id"]=27023, 
-            ["bonus"]={
-                ["DT"]=2
-            }
+            ["enl"]="souveran handschuhs +1", 
+            ["en"]="Souv. Handsch. +1"
         }, 
         [27199]={
-            ["Set Bonus"]="Reduces damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="souveran diechlings +1", 
-            ["en"]="Souv. Diechlings +1", 
             ["id"]=27199, 
-            ["bonus"]={
-                ["DT"]=2
-            }
+            ["enl"]="souveran diechlings +1", 
+            ["en"]="Souv. Diechlings +1"
         }, 
         [27375]={
-            ["Set Bonus"]="Reduces damage taken", 
-            ["minimum peices"]=2, 
-            ["enl"]="souveran schuhs +1", 
-            ["en"]="Souveran Schuhs +1", 
             ["id"]=27375, 
-            ["bonus"]={
-                ["DT"]=2
+            ["enl"]="souveran schuhs +1", 
+            ["en"]="Souveran Schuhs +1"
+        }, 
+        ["Set Bonus"]="Reduces damage taken", 
+        ["minimum peices"]=2, 
+        ["set id"]=263, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["DT"]=4
+            }, 
+            [3]={
+                ["DT"]=6
+            }, 
+            [4]={
+                ["DT"]=8
+            }, 
+            [5]={
+                ["DT"]=10
             }
         }
     }, 
     [278]={
         [10866]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="mekira-oto", 
-            ["en"]="Mekira-oto", 
             ["id"]=10866, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="mekira-oto", 
+            ["en"]="Mekira-oto"
         }, 
         [10869]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="mekira-oto +1", 
-            ["en"]="Mekira-oto +1", 
             ["id"]=10869, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="mekira-oto +1", 
+            ["en"]="Mekira-oto +1"
         }, 
         [11855]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="mextli harness", 
-            ["en"]="Mextli Harness", 
             ["id"]=11855, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="mextli harness", 
+            ["en"]="Mextli Harness"
         }, 
         [11865]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="mekira toshugai", 
-            ["en"]="Mekira Toshugai", 
             ["id"]=11865, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="mekira toshugai", 
+            ["en"]="Mekira Toshugai"
         }, 
         [11868]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="mekira meikogai", 
-            ["en"]="Mekira Meikogai", 
             ["id"]=11868, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="mekira meikogai", 
+            ["en"]="Mekira Meikogai"
         }, 
         [11871]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="mekira toshugai +1", 
-            ["en"]="Mekira Toshugai +1", 
             ["id"]=11871, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="mekira toshugai +1", 
+            ["en"]="Mekira Toshugai +1"
+        }, 
+        ["set id"]=278, 
+        ["Set Bonus"]="Haste+8%", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [281]={
         [25576]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Hizamaru somen +2", 
-            ["en"]="Hiza. Somen　+2", 
             ["id"]=25576, 
-            ["bonus"]={
-                ["Counter"]=4
-            }
+            ["enl"]="Hizamaru somen +2", 
+            ["en"]="Hiza. Somen　+2"
         }, 
         [25792]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Hizamaru haramaki +2", 
-            ["en"]="Hiza. Haramaki +2", 
             ["id"]=25792, 
-            ["bonus"]={
-                ["Counter"]=4
-            }
+            ["enl"]="Hizamaru haramaki +2", 
+            ["en"]="Hiza. Haramaki +2"
         }, 
         [25830]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Hizamaru kote +2", 
-            ["en"]="Hizamaru Kote +2", 
             ["id"]=25830, 
-            ["bonus"]={
-                ["Counter"]=4
-            }
+            ["enl"]="Hizamaru kote +2", 
+            ["en"]="Hizamaru Kote +2"
         }, 
         [25881]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Hizamaru hizayoroi +2", 
-            ["en"]="Hiza. Hizayoroi +2", 
             ["id"]=25881, 
-            ["bonus"]={
-                ["Counter"]=4
-            }
+            ["enl"]="Hizamaru hizayoroi +2", 
+            ["en"]="Hiza. Hizayoroi +2"
         }, 
         [25948]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Hizamaru sune-ate +2", 
-            ["en"]="Hiza. Sune-Ate +2", 
             ["id"]=25948, 
-            ["bonus"]={
-                ["Counter"]=4
-            }
+            ["enl"]="Hizamaru sune-ate +2", 
+            ["en"]="Hiza. Sune-Ate +2"
         }, 
         [26206]={
-            ["Set Bonus"]="Enhances \"Counter\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="Hizamaru ring", 
-            ["en"]="Hizamaru Ring", 
             ["id"]=26206, 
-            ["bonus"]={
+            ["enl"]="Hizamaru ring", 
+            ["en"]="Hizamaru Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Counter\" effect", 
+        ["set id"]=281, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["Counter"]=4
+            }, 
+            [3]={
+                ["Counter"]=8
+            }, 
+            [4]={
+                ["Counter"]=12
+            }, 
+            [5]={
+                ["Counter"]=16
             }
         }
     }, 
     [282]={
         [15995]={
-            ["Set Bonus"]="Increases CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="carline earring", 
-            ["en"]="Carline Earring", 
             ["id"]=15995, 
-            ["bonus"]=""
+            ["enl"]="carline earring", 
+            ["en"]="Carline Earring"
         }, 
         [16127]={
-            ["Set Bonus"]="Increases CHR", 
-            ["minimum peices"]=2, 
-            ["enl"]="carline ribbon", 
-            ["en"]="Carline Ribbon", 
             ["id"]=16127, 
-            ["bonus"]=""
+            ["enl"]="carline ribbon", 
+            ["en"]="Carline Ribbon"
+        }, 
+        ["Set Bonus"]="Increases CHR", 
+        ["minimum peices"]=2, 
+        ["set id"]=282, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [287]={
         [14591]={
-            ["Set Bonus"]="Increases Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit robe", 
-            ["en"]="Cobra Robe", 
             ["id"]=14591, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit robe", 
+            ["en"]="Cobra Robe"
         }, 
         [15012]={
-            ["Set Bonus"]="Increases Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit gloves", 
-            ["en"]="Cobra Gloves", 
             ["id"]=15012, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit gloves", 
+            ["en"]="Cobra Gloves"
         }, 
         [15758]={
-            ["Set Bonus"]="Increases Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit crackows", 
-            ["en"]="Cobra Crackows", 
             ["id"]=15758, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit crackows", 
+            ["en"]="Cobra Crackows"
         }, 
         [16149]={
-            ["Set Bonus"]="Increases Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit cloche", 
-            ["en"]="Cobra Cloche", 
             ["id"]=16149, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit cloche", 
+            ["en"]="Cobra Cloche"
         }, 
         [16318]={
-            ["Set Bonus"]="Increases Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cobra Unit trews", 
-            ["en"]="Cobra Trews", 
             ["id"]=16318, 
-            ["bonus"]=""
+            ["enl"]="Cobra Unit trews", 
+            ["en"]="Cobra Trews"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Magic Accuracy", 
+        ["set id"]=287, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [290]={
         [11068]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="estoqueur's chappel +2", 
-            ["en"]="Estq. Chappel +2", 
             ["id"]=11068, 
-            ["bonus"]=""
+            ["enl"]="estoqueur's chappel +2", 
+            ["en"]="Estq. Chappel +2"
         }, 
         [11088]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="estoqueur's sayon +2", 
-            ["en"]="Estq. Sayon +2", 
             ["id"]=11088, 
-            ["bonus"]=""
+            ["enl"]="estoqueur's sayon +2", 
+            ["en"]="Estq. Sayon +2"
         }, 
         [11108]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="estoqueur's gantherots +2", 
-            ["en"]="Estq. Ganthrt. +2", 
             ["id"]=11108, 
-            ["bonus"]=""
+            ["enl"]="estoqueur's gantherots +2", 
+            ["en"]="Estq. Ganthrt. +2"
         }, 
         [11128]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="estoqueur's fuseau +2", 
-            ["en"]="Estqr. Fuseau +2", 
             ["id"]=11128, 
-            ["bonus"]=""
+            ["enl"]="estoqueur's fuseau +2", 
+            ["en"]="Estqr. Fuseau +2"
         }, 
         [11148]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="estoqueur's houseaux +2", 
-            ["en"]="Estq. Houseaux +2", 
             ["id"]=11148, 
-            ["bonus"]=""
+            ["enl"]="estoqueur's houseaux +2", 
+            ["en"]="Estq. Houseaux +2"
         }, 
         [26748]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy chappel", 
-            ["en"]="Lethargy Chappel", 
             ["id"]=26748, 
-            ["bonus"]=""
+            ["enl"]="lethargy chappel", 
+            ["en"]="Lethargy Chappel"
         }, 
         [26749]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy chappel +1", 
-            ["en"]="Leth. Chappel +1", 
             ["id"]=26749, 
-            ["bonus"]=""
+            ["enl"]="lethargy chappel +1", 
+            ["en"]="Leth. Chappel +1"
         }, 
         [26906]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy sayon", 
-            ["en"]="Lethargy Sayon", 
             ["id"]=26906, 
-            ["bonus"]=""
+            ["enl"]="lethargy sayon", 
+            ["en"]="Lethargy Sayon"
         }, 
         [26907]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy sayon +1", 
-            ["en"]="Lethargy Sayon +1", 
             ["id"]=26907, 
-            ["bonus"]=""
+            ["enl"]="lethargy sayon +1", 
+            ["en"]="Lethargy Sayon +1"
         }, 
         [27060]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy gantherots", 
-            ["en"]="Leth. Gantherots", 
             ["id"]=27060, 
-            ["bonus"]=""
+            ["enl"]="lethargy gantherots", 
+            ["en"]="Leth. Gantherots"
         }, 
         [27061]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy gantherots +1", 
-            ["en"]="Leth. Gantherots +1", 
             ["id"]=27061, 
-            ["bonus"]=""
+            ["enl"]="lethargy gantherots +1", 
+            ["en"]="Leth. Gantherots +1"
         }, 
         [27245]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy fuseau", 
-            ["en"]="Leth. Fuseau", 
             ["id"]=27245, 
-            ["bonus"]=""
+            ["enl"]="lethargy fuseau", 
+            ["en"]="Leth. Fuseau"
         }, 
         [27246]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy fuseau +1", 
-            ["en"]="Leth. Fuseau +1", 
             ["id"]=27246, 
-            ["bonus"]=""
+            ["enl"]="lethargy fuseau +1", 
+            ["en"]="Leth. Fuseau +1"
         }, 
         [27419]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy houseaux", 
-            ["en"]="Leth. Houseaux", 
             ["id"]=27419, 
-            ["bonus"]=""
+            ["enl"]="lethargy houseaux", 
+            ["en"]="Leth. Houseaux"
         }, 
         [27420]={
-            ["Set Bonus"]="Augments \"Composure\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="lethargy houseaux +1", 
-            ["en"]="Leth. Houseaux +1", 
             ["id"]=27420, 
-            ["bonus"]=""
-        }
+            ["enl"]="lethargy houseaux +1", 
+            ["en"]="Leth. Houseaux +1"
+        }, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["Set Bonus"]="Augments \"Composure\"", 
+        ["set id"]=290, 
+        ["minimum peices"]=2
     }, 
     [296]={
         [14569]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="denali jacket", 
-            ["en"]="Denali Jacket", 
             ["id"]=14569, 
-            ["bonus"]=""
+            ["enl"]="denali jacket", 
+            ["en"]="Denali Jacket"
         }, 
         [14984]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="denali wristbands", 
-            ["en"]="Denali Wristbands", 
             ["id"]=14984, 
-            ["bonus"]=""
+            ["enl"]="denali wristbands", 
+            ["en"]="Denali Wristbands"
         }, 
         [15648]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="denali kecks", 
-            ["en"]="Denali Kecks", 
             ["id"]=15648, 
-            ["bonus"]=""
+            ["enl"]="denali kecks", 
+            ["en"]="Denali Kecks"
         }, 
         [15734]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="denali gamashes", 
-            ["en"]="Denali Gamashes", 
             ["id"]=15734, 
-            ["bonus"]=""
+            ["enl"]="denali gamashes", 
+            ["en"]="Denali Gamashes"
         }, 
         [16107]={
-            ["Set Bonus"]="Increases Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="denali bonnet", 
-            ["en"]="Denali Bonnet", 
             ["id"]=16107, 
-            ["bonus"]=""
+            ["enl"]="denali bonnet", 
+            ["en"]="Denali Bonnet"
+        }, 
+        ["Set Bonus"]="Increases Accuracy", 
+        ["minimum peices"]=2, 
+        ["set id"]=296, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [323]={
         [26677]={
-            ["Set Bonus"]="Increases \"Blood Pact\" damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="apogee crown +1", 
-            ["en"]="Apogee Crown +1", 
             ["id"]=26677, 
-            ["bonus"]=""
+            ["enl"]="apogee crown +1", 
+            ["en"]="Apogee Crown +1"
         }, 
         [26853]={
-            ["Set Bonus"]="Increases \"Blood Pact\" damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="apogee dalmatica +1", 
-            ["en"]="Apo. Dalmatica +1", 
             ["id"]=26853, 
-            ["bonus"]=""
+            ["enl"]="apogee dalmatica +1", 
+            ["en"]="Apo. Dalmatica +1"
         }, 
         [27029]={
-            ["Set Bonus"]="Increases \"Blood Pact\" damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="apogee mitts +1", 
-            ["en"]="Apogee Mitts +1", 
             ["id"]=27029, 
-            ["bonus"]=""
+            ["enl"]="apogee mitts +1", 
+            ["en"]="Apogee Mitts +1"
         }, 
         [27205]={
-            ["Set Bonus"]="Increases \"Blood Pact\" damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="apogee slacks +1", 
-            ["en"]="Apogee Slacks +1", 
             ["id"]=27205, 
-            ["bonus"]=""
+            ["enl"]="apogee slacks +1", 
+            ["en"]="Apogee Slacks +1"
         }, 
         [27381]={
-            ["Set Bonus"]="Increases \"Blood Pact\" damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="apogee pumps +1", 
-            ["en"]="Apogee Pumps +1", 
             ["id"]=27381, 
-            ["bonus"]=""
+            ["enl"]="apogee pumps +1", 
+            ["en"]="Apogee Pumps +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases \"Blood Pact\" damage", 
+        ["set id"]=323, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [326]={
         [26673]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="argosy celata +1", 
-            ["en"]="Argosy Celata +1", 
             ["id"]=26673, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="argosy celata +1", 
+            ["en"]="Argosy Celata +1"
         }, 
         [26849]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="argosy hauberk +1", 
-            ["en"]="Argosy Hauberk +1", 
             ["id"]=26849, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="argosy hauberk +1", 
+            ["en"]="Argosy Hauberk +1"
         }, 
         [27025]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="argosy mufflers +1", 
-            ["en"]="Argosy Mufflers +1", 
             ["id"]=27025, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="argosy mufflers +1", 
+            ["en"]="Argosy Mufflers +1"
         }, 
         [27201]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="argosy breeches +1", 
-            ["en"]="Argosy Breeches +1", 
             ["id"]=27201, 
-            ["bonus"]={
-                ["Double Attack"]=2
-            }
+            ["enl"]="argosy breeches +1", 
+            ["en"]="Argosy Breeches +1"
         }, 
         [27377]={
-            ["Set Bonus"]="Enhances \"Double Attack\" effect", 
-            ["minimum peices"]=2, 
-            ["enl"]="argosy sollerets +1", 
-            ["en"]="Argosy Sollerets +1", 
             ["id"]=27377, 
-            ["bonus"]={
-                ["Double Attack"]=2
+            ["enl"]="argosy sollerets +1", 
+            ["en"]="Argosy Sollerets +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Enhances \"Double Attack\" effect", 
+        ["set id"]=326, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=4
+            }, 
+            [3]={
+                ["Double Attack"]=6
+            }, 
+            [4]={
+                ["Double Attack"]=8
+            }, 
+            [5]={
+                ["Double Attack"]=10
             }
         }
     }, 
     [328]={
         [26669]={
-            ["Set Bonus"]="Increases weapon skill damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="lustratio cap +1", 
-            ["en"]="Lustratio Cap +1", 
             ["id"]=26669, 
-            ["bonus"]={
-                ["Weapon Skill Damage"]=2
-            }
+            ["enl"]="lustratio cap +1", 
+            ["en"]="Lustratio Cap +1"
         }, 
         [26845]={
-            ["Set Bonus"]="Increases weapon skill damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="lustratio harness +1", 
-            ["en"]="Lustr. Harness +1", 
             ["id"]=26845, 
-            ["bonus"]={
-                ["Weapon Skill Damage"]=2
-            }
+            ["enl"]="lustratio harness +1", 
+            ["en"]="Lustr. Harness +1"
         }, 
         [27021]={
-            ["Set Bonus"]="Increases weapon skill damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="lustratio mittens +1", 
-            ["en"]="Lustr. Mittens +1", 
             ["id"]=27021, 
-            ["bonus"]={
-                ["Weapon Skill Damage"]=2
-            }
+            ["enl"]="lustratio mittens +1", 
+            ["en"]="Lustr. Mittens +1"
         }, 
         [27197]={
-            ["Set Bonus"]="Increases weapon skill damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="lustratio subligar +1", 
-            ["en"]="Lustr. Subligar +1", 
             ["id"]=27197, 
-            ["bonus"]={
-                ["Weapon Skill Damage"]=2
-            }
+            ["enl"]="lustratio subligar +1", 
+            ["en"]="Lustr. Subligar +1"
         }, 
         [27373]={
-            ["Set Bonus"]="Increases weapon skill damage", 
-            ["minimum peices"]=2, 
-            ["enl"]="lustratio leggings +1", 
-            ["en"]="Lustra. Leggings +1", 
             ["id"]=27373, 
-            ["bonus"]={
-                ["Weapon Skill Damage"]=2
+            ["enl"]="lustratio leggings +1", 
+            ["en"]="Lustra. Leggings +1"
+        }, 
+        ["set id"]=328, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases weapon skill damage", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Weapon Skill Damage"]=4
+            }, 
+            [3]={
+                ["Weapon Skill Damage"]=6
+            }, 
+            [4]={
+                ["Weapon Skill Damage"]=8
+            }, 
+            [5]={
+                ["Weapon Skill Damage"]=10
             }
         }
     }, 
     [352]={
         [11080]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="navarch's tricorne +2", 
-            ["en"]="Nvrch. Tricorne +2", 
             ["id"]=11080, 
-            ["bonus"]=""
+            ["enl"]="navarch's tricorne +2", 
+            ["en"]="Nvrch. Tricorne +2"
         }, 
         [11100]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="navarch's frac +2", 
-            ["en"]="Nvrch. Frac +2", 
             ["id"]=11100, 
-            ["bonus"]=""
+            ["enl"]="navarch's frac +2", 
+            ["en"]="Nvrch. Frac +2"
         }, 
         [11120]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="navarch's gants +2", 
-            ["en"]="Nvrch. Gants +2", 
             ["id"]=11120, 
-            ["bonus"]=""
+            ["enl"]="navarch's gants +2", 
+            ["en"]="Nvrch. Gants +2"
         }, 
         [11140]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="navarch's culottes +2", 
-            ["en"]="Nvrch. Culottes +2", 
             ["id"]=11140, 
-            ["bonus"]=""
+            ["enl"]="navarch's culottes +2", 
+            ["en"]="Nvrch. Culottes +2"
         }, 
         [11160]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="navarch's bottes +2", 
-            ["en"]="Nvrch. Bottes +2", 
             ["id"]=11160, 
-            ["bonus"]=""
+            ["enl"]="navarch's bottes +2", 
+            ["en"]="Nvrch. Bottes +2"
         }, 
         [26772]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's tricorne", 
-            ["en"]="Chass. Tricorne", 
             ["id"]=26772, 
-            ["bonus"]=""
+            ["enl"]="chasseur's tricorne", 
+            ["en"]="Chass. Tricorne"
         }, 
         [26773]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's tricorne +1", 
-            ["en"]="Chass. Tricorne +1", 
             ["id"]=26773, 
-            ["bonus"]=""
+            ["enl"]="chasseur's tricorne +1", 
+            ["en"]="Chass. Tricorne +1"
         }, 
         [26930]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's frac", 
-            ["en"]="Chasseur's Frac", 
             ["id"]=26930, 
-            ["bonus"]=""
+            ["enl"]="chasseur's frac", 
+            ["en"]="Chasseur's Frac"
         }, 
         [26931]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's frac +1", 
-            ["en"]="Chasseur's Frac +1", 
             ["id"]=26931, 
-            ["bonus"]=""
+            ["enl"]="chasseur's frac +1", 
+            ["en"]="Chasseur's Frac +1"
         }, 
         [27084]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's gants", 
-            ["en"]="Chasseur's Gants", 
             ["id"]=27084, 
-            ["bonus"]=""
+            ["enl"]="chasseur's gants", 
+            ["en"]="Chasseur's Gants"
         }, 
         [27085]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's gants +1", 
-            ["en"]="Chasseur's Gants +1", 
             ["id"]=27085, 
-            ["bonus"]=""
+            ["enl"]="chasseur's gants +1", 
+            ["en"]="Chasseur's Gants +1"
         }, 
         [27269]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's culottes", 
-            ["en"]="Chas. Culottes", 
             ["id"]=27269, 
-            ["bonus"]=""
+            ["enl"]="chasseur's culottes", 
+            ["en"]="Chas. Culottes"
         }, 
         [27270]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's culottes +1", 
-            ["en"]="Chas. Culottes +1", 
             ["id"]=27270, 
-            ["bonus"]=""
+            ["enl"]="chasseur's culottes +1", 
+            ["en"]="Chas. Culottes +1"
         }, 
         [27443]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's bottes", 
-            ["en"]="Chasseur's Bottes", 
             ["id"]=27443, 
-            ["bonus"]=""
+            ["enl"]="chasseur's bottes", 
+            ["en"]="Chasseur's Bottes"
         }, 
         [27444]={
-            ["Set Bonus"]="Augments \"Quick Draw\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="chasseur's bottes +1", 
-            ["en"]="Chass. Bottes +1", 
             ["id"]=27444, 
-            ["bonus"]=""
-        }
+            ["enl"]="chasseur's bottes +1", 
+            ["en"]="Chass. Bottes +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Augments \"Quick Draw\"", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["set id"]=352
     }, 
     [356]={
         [11079]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="mavi kavuk +2", 
-            ["en"]="Mavi Kavuk +2", 
             ["id"]=11079, 
-            ["bonus"]=""
+            ["enl"]="mavi kavuk +2", 
+            ["en"]="Mavi Kavuk +2"
         }, 
         [11099]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="mavi mintan +2", 
-            ["en"]="Mavi Mintan +2", 
             ["id"]=11099, 
-            ["bonus"]=""
+            ["enl"]="mavi mintan +2", 
+            ["en"]="Mavi Mintan +2"
         }, 
         [11119]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="mavi bazubands +2", 
-            ["en"]="Mv. Bazubands +2", 
             ["id"]=11119, 
-            ["bonus"]=""
+            ["enl"]="mavi bazubands +2", 
+            ["en"]="Mv. Bazubands +2"
         }, 
         [11139]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="mavi tayt +2", 
-            ["en"]="Mavi Tayt +2", 
             ["id"]=11139, 
-            ["bonus"]=""
+            ["enl"]="mavi tayt +2", 
+            ["en"]="Mavi Tayt +2"
         }, 
         [11159]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="mavi basmak +2", 
-            ["en"]="Mavi Basmak +2", 
             ["id"]=11159, 
-            ["bonus"]=""
+            ["enl"]="mavi basmak +2", 
+            ["en"]="Mavi Basmak +2"
         }, 
         [26770]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin kavuk", 
-            ["en"]="Hashishin Kavuk", 
             ["id"]=26770, 
-            ["bonus"]=""
+            ["enl"]="hashishin kavuk", 
+            ["en"]="Hashishin Kavuk"
         }, 
         [26771]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin kavuk +1", 
-            ["en"]="Hashishin Kavuk +1", 
             ["id"]=26771, 
-            ["bonus"]=""
+            ["enl"]="hashishin kavuk +1", 
+            ["en"]="Hashishin Kavuk +1"
         }, 
         [26928]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin mintan", 
-            ["en"]="Hashishin Mintan", 
             ["id"]=26928, 
-            ["bonus"]=""
+            ["enl"]="hashishin mintan", 
+            ["en"]="Hashishin Mintan"
         }, 
         [26929]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin mintan +1", 
-            ["en"]="Hashishin Mintan +1", 
             ["id"]=26929, 
-            ["bonus"]=""
+            ["enl"]="hashishin mintan +1", 
+            ["en"]="Hashishin Mintan +1"
         }, 
         [27082]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin bazubands", 
-            ["en"]="Hashi. Bazubands", 
             ["id"]=27082, 
-            ["bonus"]=""
+            ["enl"]="hashishin bazubands", 
+            ["en"]="Hashi. Bazubands"
         }, 
         [27083]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin bazubands +1", 
-            ["en"]="Hashi. Bazu. +1", 
             ["id"]=27083, 
-            ["bonus"]=""
+            ["enl"]="hashishin bazubands +1", 
+            ["en"]="Hashi. Bazu. +1"
         }, 
         [27267]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin tayt", 
-            ["en"]="Hashishin Tayt", 
             ["id"]=27267, 
-            ["bonus"]=""
+            ["enl"]="hashishin tayt", 
+            ["en"]="Hashishin Tayt"
         }, 
         [27268]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin tayt +1", 
-            ["en"]="Hashishin Tayt +1", 
             ["id"]=27268, 
-            ["bonus"]=""
+            ["enl"]="hashishin tayt +1", 
+            ["en"]="Hashishin Tayt +1"
         }, 
         [27441]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin basmak", 
-            ["en"]="Hashishin Basmak", 
             ["id"]=27441, 
-            ["bonus"]=""
+            ["enl"]="hashishin basmak", 
+            ["en"]="Hashishin Basmak"
         }, 
         [27442]={
-            ["Set Bonus"]="Occ. augments blue magic spells", 
-            ["minimum peices"]=2, 
-            ["enl"]="hashishin basmak +1", 
-            ["en"]="Hashi. Basmak +1", 
             ["id"]=27442, 
-            ["bonus"]=""
-        }
+            ["enl"]="hashishin basmak +1", 
+            ["en"]="Hashi. Basmak +1"
+        }, 
+        ["set id"]=356, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["Set Bonus"]="Occ. augments blue magic spells", 
+        ["minimum peices"]=2
     }, 
     [365]={
         [11078]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="caller's horn +2", 
-            ["en"]="Caller's Horn +2", 
             ["id"]=11078, 
-            ["bonus"]=""
+            ["enl"]="caller's horn +2", 
+            ["en"]="Caller's Horn +2"
         }, 
         [11098]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="caller's doublet +2", 
-            ["en"]="Call. Doublet +2", 
             ["id"]=11098, 
-            ["bonus"]=""
+            ["enl"]="caller's doublet +2", 
+            ["en"]="Call. Doublet +2"
         }, 
         [11118]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="caller's bracers +2", 
-            ["en"]="Call. Bracers +2", 
             ["id"]=11118, 
-            ["bonus"]=""
+            ["enl"]="caller's bracers +2", 
+            ["en"]="Call. Bracers +2"
         }, 
         [11138]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="caller's spats +2", 
-            ["en"]="Caller's Spats +2", 
             ["id"]=11138, 
-            ["bonus"]=""
+            ["enl"]="caller's spats +2", 
+            ["en"]="Caller's Spats +2"
         }, 
         [11158]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="caller's pigaches +2", 
-            ["en"]="Caller's Pgch. +2", 
             ["id"]=11158, 
-            ["bonus"]=""
+            ["enl"]="caller's pigaches +2", 
+            ["en"]="Caller's Pgch. +2"
         }, 
         [26768]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's horn", 
-            ["en"]="Beckoner's Horn", 
             ["id"]=26768, 
-            ["bonus"]=""
+            ["enl"]="beckoner's horn", 
+            ["en"]="Beckoner's Horn"
         }, 
         [26769]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's horn +1", 
-            ["en"]="Beckoner's Horn +1", 
             ["id"]=26769, 
-            ["bonus"]=""
+            ["enl"]="beckoner's horn +1", 
+            ["en"]="Beckoner's Horn +1"
         }, 
         [26926]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's doublet", 
-            ["en"]="Beckoner's Doublet", 
             ["id"]=26926, 
-            ["bonus"]=""
+            ["enl"]="beckoner's doublet", 
+            ["en"]="Beckoner's Doublet"
         }, 
         [26927]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's doublet +1", 
-            ["en"]="Beck. Doublet +1", 
             ["id"]=26927, 
-            ["bonus"]=""
+            ["enl"]="beckoner's doublet +1", 
+            ["en"]="Beck. Doublet +1"
         }, 
         [27080]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's bracers", 
-            ["en"]="Beckoner's Bracers", 
             ["id"]=27080, 
-            ["bonus"]=""
+            ["enl"]="beckoner's bracers", 
+            ["en"]="Beckoner's Bracers"
         }, 
         [27081]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's bracers +1", 
-            ["en"]="Beck. Bracers +1", 
             ["id"]=27081, 
-            ["bonus"]=""
+            ["enl"]="beckoner's bracers +1", 
+            ["en"]="Beck. Bracers +1"
         }, 
         [27265]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's spats", 
-            ["en"]="Beckoner's Spats", 
             ["id"]=27265, 
-            ["bonus"]=""
+            ["enl"]="beckoner's spats", 
+            ["en"]="Beckoner's Spats"
         }, 
         [27266]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's spats +1", 
-            ["en"]="Beck. Spats +1", 
             ["id"]=27266, 
-            ["bonus"]=""
+            ["enl"]="beckoner's spats +1", 
+            ["en"]="Beck. Spats +1"
         }, 
         [27439]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's pigaches", 
-            ["en"]="Beck. Pigaches", 
             ["id"]=27439, 
-            ["bonus"]=""
+            ["enl"]="beckoner's pigaches", 
+            ["en"]="Beck. Pigaches"
         }, 
         [27440]={
-            ["Set Bonus"]="Augments \"Blood Boon\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="beckoner's pigaches +1", 
-            ["en"]="Beck. Pigaches +1", 
             ["id"]=27440, 
-            ["bonus"]=""
-        }
+            ["enl"]="beckoner's pigaches +1", 
+            ["en"]="Beck. Pigaches +1"
+        }, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
+        }, 
+        ["Set Bonus"]="Augments \"Blood Boon\"", 
+        ["set id"]=365, 
+        ["minimum peices"]=2
     }, 
     [375]={
         [10451]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Athos's tabard", 
-            ["en"]="Athos's Tabard", 
             ["id"]=10451, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=1
-            }
+            ["enl"]="Athos's tabard", 
+            ["en"]="Athos's Tabard"
         }, 
         [10501]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Athos's gloves", 
-            ["en"]="Athos's Gloves", 
             ["id"]=10501, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=1
-            }
+            ["enl"]="Athos's gloves", 
+            ["en"]="Athos's Gloves"
         }, 
         [10601]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Athos's boots", 
-            ["en"]="Athos's Boots", 
             ["id"]=10601, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=1
-            }
+            ["enl"]="Athos's boots", 
+            ["en"]="Athos's Boots"
         }, 
         [10877]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Athos's chapeau", 
-            ["en"]="Athos's Chapeau", 
             ["id"]=10877, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=1
-            }
+            ["enl"]="Athos's chapeau", 
+            ["en"]="Athos's Chapeau"
         }, 
         [11970]={
-            ["Set Bonus"]="Increases rate of critical hits", 
-            ["minimum peices"]=2, 
-            ["enl"]="Athos's tights", 
-            ["en"]="Athos's Tights", 
             ["id"]=11970, 
-            ["bonus"]={
-                ["Critical Hit Rate"]=1
+            ["enl"]="Athos's tights", 
+            ["en"]="Athos's Tights"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases rate of critical hits", 
+        ["set id"]=375, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Critical Hit Rate"]=3
+            }, 
+            [3]={
+                ["Critical Hit Rate"]=4
+            }, 
+            [4]={
+                ["Critical Hit Rate"]=5
+            }, 
+            [5]={
+                ["Critical Hit Rate"]=6
             }
         }
     }, 
     [392]={
         [15852]={
-            ["Set Bonus"]="HP+50 MP+50", 
-            ["minimum peices"]=2, 
-            ["enl"]="Nasatya's ring", 
-            ["en"]="Nasatya's Ring", 
             ["id"]=15852, 
-            ["bonus"]={
-                ["HP"]=25, 
-                ["MP"]=25
-            }
+            ["enl"]="Nasatya's ring", 
+            ["en"]="Nasatya's Ring"
         }, 
         [15853]={
-            ["Set Bonus"]="HP+50 MP+50", 
-            ["minimum peices"]=2, 
-            ["enl"]="Dasra's ring", 
-            ["en"]="Dasra's Ring", 
             ["id"]=15853, 
-            ["bonus"]={
-                ["HP"]=25, 
-                ["MP"]=25
-            }
+            ["enl"]="Dasra's ring", 
+            ["en"]="Dasra's Ring"
+        }, 
+        ["Set Bonus"]="HP+50 MP+50", 
+        ["minimum peices"]=2, 
+        ["set id"]=392, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["HP"]=50, 
+                ["MP"]=50
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [398]={
         [11808]={
-            ["Set Bonus"]="\"Double Attack\"+5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="fazheluo helm", 
-            ["en"]="Fazheluo Helm", 
             ["id"]=11808, 
-            ["bonus"]={
-                ["Double Attack"]=2.5
-            }
+            ["enl"]="fazheluo helm", 
+            ["en"]="Fazheluo Helm"
         }, 
         [11824]={
-            ["Set Bonus"]="\"Double Attack\"+5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="fazheluo helm +1", 
-            ["en"]="Fazheluo Helm +1", 
             ["id"]=11824, 
-            ["bonus"]={
-                ["Double Attack"]=2.5
-            }
+            ["enl"]="fazheluo helm +1", 
+            ["en"]="Fazheluo Helm +1"
         }, 
         [11850]={
-            ["Set Bonus"]="\"Double Attack\"+5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="fazheluo mail", 
-            ["en"]="Fazheluo Mail", 
             ["id"]=11850, 
-            ["bonus"]={
-                ["Double Attack"]=2.5
-            }
+            ["enl"]="fazheluo mail", 
+            ["en"]="Fazheluo Mail"
         }, 
         [11857]={
-            ["Set Bonus"]="\"Double Attack\"+5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="fazheluo radiant mail", 
-            ["en"]="Fazheluo R. Mail", 
             ["id"]=11857, 
-            ["bonus"]={
-                ["Double Attack"]=2.5
-            }
+            ["enl"]="fazheluo radiant mail", 
+            ["en"]="Fazheluo R. Mail"
         }, 
         [11858]={
-            ["Set Bonus"]="\"Double Attack\"+5%", 
-            ["minimum peices"]=2, 
-            ["enl"]="fazheluo mail +1", 
-            ["en"]="Fazheluo Mail +1", 
             ["id"]=11858, 
-            ["bonus"]={
-                ["Double Attack"]=2.5
-            }
-        }
-    }, 
-    [404]={
-        [11856]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="anhur robe", 
-            ["en"]="Anhur Robe", 
-            ["id"]=11856, 
-            ["bonus"]=""
+            ["enl"]="fazheluo mail +1", 
+            ["en"]="Fazheluo Mail +1"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="\"Double Attack\"+5%", 
+        ["set id"]=398, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Double Attack"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [411]={
         [16004]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="supremacy earring", 
-            ["en"]="Supremacy Earring", 
             ["id"]=16004, 
-            ["bonus"]=""
+            ["enl"]="supremacy earring", 
+            ["en"]="Supremacy Earring"
         }, 
         [17757]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="merveilleuse", 
-            ["en"]="Merveilleuse", 
             ["id"]=17757, 
-            ["bonus"]=""
+            ["enl"]="merveilleuse", 
+            ["en"]="Merveilleuse"
         }, 
         [18128]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="skystrider", 
-            ["en"]="Skystrider", 
             ["id"]=18128, 
-            ["bonus"]=""
+            ["enl"]="skystrider", 
+            ["en"]="Skystrider"
         }, 
         [18449]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="namioyogi", 
-            ["en"]="Namioyogi", 
             ["id"]=18449, 
-            ["bonus"]=""
+            ["enl"]="namioyogi", 
+            ["en"]="Namioyogi"
         }, 
         [18500]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="sparth", 
-            ["en"]="Sparth", 
             ["id"]=18500, 
-            ["bonus"]=""
+            ["enl"]="sparth", 
+            ["en"]="Sparth"
         }, 
         [18597]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="catalyst", 
-            ["en"]="Catalyst", 
             ["id"]=18597, 
-            ["bonus"]=""
+            ["enl"]="catalyst", 
+            ["en"]="Catalyst"
         }, 
         [18761]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="acantha shavers", 
-            ["en"]="Acantha Shavers", 
             ["id"]=18761, 
-            ["bonus"]=""
+            ["enl"]="acantha shavers", 
+            ["en"]="Acantha Shavers"
         }, 
         [18951]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="vendetta", 
-            ["en"]="Vendetta", 
             ["id"]=18951, 
-            ["bonus"]=""
+            ["enl"]="vendetta", 
+            ["en"]="Vendetta"
         }, 
         [19218]={
-            ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="murderer", 
-            ["en"]="Murderer", 
             ["id"]=19218, 
-            ["bonus"]=""
+            ["enl"]="murderer", 
+            ["en"]="Murderer"
+        }, 
+        ["Set Bonus"]="Increases STR, Attack, Ranged Attack, \"Magic Atk. Bonus\"", 
+        ["minimum peices"]=2, 
+        ["set id"]=411, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [415]={
         [16035]={
-            ["Set Bonus"]="AGI+8", 
-            ["minimum peices"]=2, 
-            ["enl"]="Altdorf's earring", 
-            ["en"]="Altdorf's Earring", 
             ["id"]=16035, 
-            ["bonus"]={
-                ["AGI"]=8
-            }
+            ["enl"]="Altdorf's earring", 
+            ["en"]="Altdorf's Earring"
         }, 
         [16036]={
-            ["Set Bonus"]="AGI+8", 
-            ["minimum peices"]=2, 
-            ["enl"]="Wilhelm's earring", 
-            ["en"]="Wilhelm's Earring", 
             ["id"]=16036, 
-            ["bonus"]={
+            ["enl"]="Wilhelm's earring", 
+            ["en"]="Wilhelm's Earring"
+        }, 
+        ["set id"]=415, 
+        ["Set Bonus"]="AGI+8", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["AGI"]=8
-            }
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [419]={
         [12999]={
-            ["Set Bonus"]="HP+90", 
-            ["minimum peices"]=2, 
-            ["enl"]="susurrus sabatons", 
-            ["en"]="Susurrus Sabatons", 
             ["id"]=12999, 
-            ["bonus"]={
-                ["HP"]=90
-            }
+            ["enl"]="susurrus sabatons", 
+            ["en"]="Susurrus Sabatons"
         }, 
         [14041]={
-            ["Set Bonus"]="HP+90", 
-            ["minimum peices"]=2, 
-            ["enl"]="susurrus gauntlets", 
-            ["en"]="Susurrus Gauntlets", 
             ["id"]=14041, 
-            ["bonus"]={
+            ["enl"]="susurrus gauntlets", 
+            ["en"]="Susurrus Gauntlets"
+        }, 
+        ["Set Bonus"]="HP+90", 
+        ["minimum peices"]=2, 
+        ["set id"]=419, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
                 ["HP"]=90
-            }
-        }
-    }, 
-    [432]={
-        [23121]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="convoker's doublet +2", 
-            ["en"]="Con. Doublet +2", 
-            ["id"]=23121, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [463]={
         [16006]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="brilliant earring", 
-            ["en"]="Brilliant Earring", 
             ["id"]=16006, 
-            ["bonus"]=""
+            ["enl"]="brilliant earring", 
+            ["en"]="Brilliant Earring"
         }, 
         [18450]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="mukademaru", 
-            ["en"]="Mukademaru", 
             ["id"]=18450, 
-            ["bonus"]=""
+            ["enl"]="mukademaru", 
+            ["en"]="Mukademaru"
         }, 
         [18499]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="alastor", 
-            ["en"]="Alastor", 
             ["id"]=18499, 
-            ["bonus"]=""
+            ["enl"]="alastor", 
+            ["en"]="Alastor"
         }, 
         [18861]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="grandeur", 
-            ["en"]="Grandeur", 
             ["id"]=18861, 
-            ["bonus"]=""
+            ["enl"]="grandeur", 
+            ["en"]="Grandeur"
         }, 
         [18862]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="clearpath", 
-            ["en"]="Clearpath", 
             ["id"]=18862, 
-            ["bonus"]=""
+            ["enl"]="clearpath", 
+            ["en"]="Clearpath"
         }, 
         [18952]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="faucheuse", 
-            ["en"]="Faucheuse", 
             ["id"]=18952, 
-            ["bonus"]=""
+            ["enl"]="faucheuse", 
+            ["en"]="Faucheuse"
         }, 
         [19111]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="silktone", 
-            ["en"]="Silktone", 
             ["id"]=19111, 
-            ["bonus"]=""
+            ["enl"]="silktone", 
+            ["en"]="Silktone"
         }, 
         [19217]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="basilisk", 
-            ["en"]="Basilisk", 
             ["id"]=19217, 
-            ["bonus"]=""
+            ["enl"]="basilisk", 
+            ["en"]="Basilisk"
         }, 
         [19272]={
-            ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="yagentoshiro", 
-            ["en"]="Yagentoshiro", 
             ["id"]=19272, 
-            ["bonus"]=""
+            ["enl"]="yagentoshiro", 
+            ["en"]="Yagentoshiro"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=463, 
+        ["Set Bonus"]="Increases Evasion and HP recovered while healing Reduces Enmity", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [477]={
         [25570]={
-            ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="Mummu bonnet +2", 
-            ["en"]="Mummu Bonnet +2", 
             ["id"]=25570, 
-            ["bonus"]={
-                ["AGI"]=4, 
-                ["CHR"]=4, 
-                ["DEX"]=4
-            }
+            ["enl"]="Mummu bonnet +2", 
+            ["en"]="Mummu Bonnet +2"
         }, 
         [25798]={
-            ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="Mummu jacket +2", 
-            ["en"]="Mummu Jacket +2", 
             ["id"]=25798, 
-            ["bonus"]={
-                ["AGI"]=4, 
-                ["CHR"]=4, 
-                ["DEX"]=4
-            }
+            ["enl"]="Mummu jacket +2", 
+            ["en"]="Mummu Jacket +2"
         }, 
         [25836]={
-            ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="Mummu wrists +2", 
-            ["en"]="Mummu Wrists +2", 
             ["id"]=25836, 
-            ["bonus"]={
-                ["AGI"]=4, 
-                ["CHR"]=4, 
-                ["DEX"]=4
-            }
+            ["enl"]="Mummu wrists +2", 
+            ["en"]="Mummu Wrists +2"
         }, 
         [25887]={
-            ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="Mummu kecks +2", 
-            ["en"]="Mummu Kecks +2", 
             ["id"]=25887, 
-            ["bonus"]={
-                ["AGI"]=4, 
-                ["CHR"]=4, 
-                ["DEX"]=4
-            }
+            ["enl"]="Mummu kecks +2", 
+            ["en"]="Mummu Kecks +2"
         }, 
         [25954]={
-            ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="Mummu gamashes +2", 
-            ["en"]="Mummu Gamash. +2", 
             ["id"]=25954, 
-            ["bonus"]={
-                ["AGI"]=4, 
-                ["CHR"]=4, 
-                ["DEX"]=4
-            }
+            ["enl"]="Mummu gamashes +2", 
+            ["en"]="Mummu Gamash. +2"
         }, 
         [26212]={
-            ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
-            ["minimum peices"]=2, 
-            ["enl"]="Mummu ring", 
-            ["en"]="Mummu Ring", 
             ["id"]=26212, 
-            ["bonus"]={
-                ["AGI"]=4, 
-                ["CHR"]=4, 
-                ["DEX"]=4
+            ["enl"]="Mummu ring", 
+            ["en"]="Mummu Ring"
+        }, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Dexterity, Agility, and Charisma", 
+        ["set id"]=477, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["AGI"]=8, 
+                ["CHR"]=8, 
+                ["DEX"]=8
+            }, 
+            [3]={
+                ["AGI"]=12, 
+                ["CHR"]=12, 
+                ["DEX"]=12
+            }, 
+            [4]={
+                ["AGI"]=16, 
+                ["CHR"]=16, 
+                ["DEX"]=16
+            }, 
+            [5]={
+                ["AGI"]=32, 
+                ["CHR"]=32, 
+                ["DEX"]=32
             }
         }
     }, 
     [487]={
         [10474]={
-            ["Set Bonus"]="Increases STR, VIT, INT, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Phorcys korazin", 
-            ["en"]="Phorcys Korazin", 
             ["id"]=10474, 
-            ["bonus"]=""
+            ["enl"]="Phorcys korazin", 
+            ["en"]="Phorcys Korazin"
         }, 
         [10523]={
-            ["Set Bonus"]="Increases STR, VIT, INT, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Phorcys mitts", 
-            ["en"]="Phorcys Mitts", 
             ["id"]=10523, 
-            ["bonus"]=""
+            ["enl"]="Phorcys mitts", 
+            ["en"]="Phorcys Mitts"
         }, 
         [10554]={
-            ["Set Bonus"]="Increases STR, VIT, INT, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Phorcys dirs", 
-            ["en"]="Phorcys Dirs", 
             ["id"]=10554, 
-            ["bonus"]=""
+            ["enl"]="Phorcys dirs", 
+            ["en"]="Phorcys Dirs"
         }, 
         [10620]={
-            ["Set Bonus"]="Increases STR, VIT, INT, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Phorcys schuhs", 
-            ["en"]="Phorcys Schuhs", 
             ["id"]=10620, 
-            ["bonus"]=""
+            ["enl"]="Phorcys schuhs", 
+            ["en"]="Phorcys Schuhs"
         }, 
         [10901]={
-            ["Set Bonus"]="Increases STR, VIT, INT, MND", 
-            ["minimum peices"]=2, 
-            ["enl"]="Phorcys salade", 
-            ["en"]="Phorcys Salade", 
             ["id"]=10901, 
-            ["bonus"]=""
+            ["enl"]="Phorcys salade", 
+            ["en"]="Phorcys Salade"
+        }, 
+        ["Set Bonus"]="Increases STR, VIT, INT, MND", 
+        ["minimum peices"]=2, 
+        ["set id"]=487, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [526]={
         [11809]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="cuauhtli headpiece", 
-            ["en"]="Cuauh. Headpiece", 
             ["id"]=11809, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="cuauhtli headpiece", 
+            ["en"]="Cuauh. Headpiece"
         }, 
         [11825]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="cuauhtli headpiece +1", 
-            ["en"]="Cuauh. Hdpce. +1", 
             ["id"]=11825, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="cuauhtli headpiece +1", 
+            ["en"]="Cuauh. Hdpce. +1"
         }, 
         [11851]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="cuauhtli harness", 
-            ["en"]="Cuauhtli Harness", 
             ["id"]=11851, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="cuauhtli harness", 
+            ["en"]="Cuauhtli Harness"
         }, 
         [11859]={
-            ["Set Bonus"]="Haste+8%", 
-            ["minimum peices"]=2, 
-            ["enl"]="cuauhtli harness +1", 
-            ["en"]="Cuauh. Harness +1", 
             ["id"]=11859, 
-            ["bonus"]={
-                ["Haste"]=4
-            }
+            ["enl"]="cuauhtli harness +1", 
+            ["en"]="Cuauh. Harness +1"
+        }, 
+        ["set id"]=526, 
+        ["Set Bonus"]="Haste+8%", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Haste"]=8
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [543]={
         [16037]={
-            ["Set Bonus"]="Magic Accuracy+5 \"Magic Atk. Bonus\"+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="Helenus's earring", 
-            ["en"]="Helenus's Earring", 
             ["id"]=16037, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2.5, 
-                ["Magic Accuracy"]=2.5
-            }
+            ["enl"]="Helenus's earring", 
+            ["en"]="Helenus's Earring"
         }, 
         [16038]={
-            ["Set Bonus"]="Magic Accuracy+5 \"Magic Atk. Bonus\"+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="Cassandra's earring", 
-            ["en"]="Cass. Earring", 
             ["id"]=16038, 
-            ["bonus"]={
-                ["Magic Atk. Bonus"]=2.5, 
-                ["Magic Accuracy"]=2.5
-            }
+            ["enl"]="Cassandra's earring", 
+            ["en"]="Cass. Earring"
+        }, 
+        ["set id"]=543, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Magic Accuracy+5 \"Magic Atk. Bonus\"+5", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5, 
+                ["Magic Atk. Bonus"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [547]={
         [13000]={
-            ["Set Bonus"]="\"Store TP\"+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="praeda sabatons", 
-            ["en"]="Praeda Sabatons", 
             ["id"]=13000, 
-            ["bonus"]={
-                ["Store TP"]=2.5
-            }
+            ["enl"]="praeda sabatons", 
+            ["en"]="Praeda Sabatons"
         }, 
         [14042]={
-            ["Set Bonus"]="\"Store TP\"+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="praeda gauntlets", 
-            ["en"]="Praeda Gauntlets", 
             ["id"]=14042, 
-            ["bonus"]={
-                ["Store TP"]=2.5
-            }
+            ["enl"]="praeda gauntlets", 
+            ["en"]="Praeda Gauntlets"
+        }, 
+        ["set id"]=547, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="\"Store TP\"+5", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Store TP"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [554]={
         [15001]={
-            ["Set Bonus"]="Increases pet defense and enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="breeder mufflers", 
-            ["en"]="Breeder Mufflers", 
             ["id"]=15001, 
-            ["bonus"]=""
+            ["enl"]="breeder mufflers", 
+            ["en"]="Breeder Mufflers"
         }, 
         [16125]={
-            ["Set Bonus"]="Increases pet defense and enmity", 
-            ["minimum peices"]=2, 
-            ["enl"]="breeder mask", 
-            ["en"]="Breeder Mask", 
             ["id"]=16125, 
-            ["bonus"]=""
+            ["enl"]="breeder mask", 
+            ["en"]="Breeder Mask"
+        }, 
+        ["set id"]=554, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases pet defense and enmity", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [654]={
         [11810]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="hyksos khat", 
-            ["en"]="Hyksos Khat", 
             ["id"]=11810, 
-            ["bonus"]={
-                ["Magic Accuracy"]=2.5
-            }
+            ["enl"]="hyksos khat", 
+            ["en"]="Hyksos Khat"
         }, 
         [11826]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="hyksos khat +1", 
-            ["en"]="Hyksos Khat +1", 
             ["id"]=11826, 
-            ["bonus"]={
-                ["Magic Accuracy"]=2.5
-            }
+            ["enl"]="hyksos khat +1", 
+            ["en"]="Hyksos Khat +1"
         }, 
         [11852]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="hyksos robe", 
-            ["en"]="Hyksos Robe", 
             ["id"]=11852, 
-            ["bonus"]={
-                ["Magic Accuracy"]=2.5
-            }
+            ["enl"]="hyksos robe", 
+            ["en"]="Hyksos Robe"
+        }, 
+        [11856]={
+            ["id"]=11856, 
+            ["enl"]="anhur robe", 
+            ["en"]="Anhur Robe"
         }, 
         [11860]={
-            ["Set Bonus"]="Magic Accuracy+5", 
-            ["minimum peices"]=2, 
-            ["enl"]="hyksos robe +1", 
-            ["en"]="Hyksos Robe +1", 
             ["id"]=11860, 
-            ["bonus"]={
-                ["Magic Accuracy"]=2.5
-            }
+            ["enl"]="hyksos robe +1", 
+            ["en"]="Hyksos Robe +1"
+        }, 
+        ["set id"]=654, 
+        ["Set Bonus"]="Magic Accuracy+5", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={
+                ["Magic Accuracy"]=5
+            }, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [669]={
         [14999]={
-            ["Set Bonus"]="Enhances effect of \"Drain\" and \"Aspir\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="vampiric mitts", 
-            ["en"]="Vampiric Mitts", 
             ["id"]=14999, 
-            ["bonus"]=""
+            ["enl"]="vampiric mitts", 
+            ["en"]="Vampiric Mitts"
         }, 
         [15745]={
-            ["Set Bonus"]="Enhances effect of \"Drain\" and \"Aspir\"", 
-            ["minimum peices"]=2, 
-            ["enl"]="vampiric boots", 
-            ["en"]="Vampiric Boots", 
             ["id"]=15745, 
-            ["bonus"]=""
+            ["enl"]="vampiric boots", 
+            ["en"]="Vampiric Boots"
+        }, 
+        ["set id"]=669, 
+        ["Set Bonus"]="Enhances effect of \"Drain\" and \"Aspir\"", 
+        ["minimum peices"]=2, 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [682]={
         [15744]={
-            ["Set Bonus"]="Increases Ranged Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="bowman's ledelsens", 
-            ["en"]="Bowman's Led.", 
             ["id"]=15744, 
-            ["bonus"]=""
+            ["enl"]="bowman's ledelsens", 
+            ["en"]="Bowman's Led."
         }, 
         [16126]={
-            ["Set Bonus"]="Increases Ranged Attack", 
-            ["minimum peices"]=2, 
-            ["enl"]="bowman's mask", 
-            ["en"]="Bowman's Mask", 
             ["id"]=16126, 
-            ["bonus"]=""
-        }
-    }, 
-    [726]={
-        [26085]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="regal earring", 
-            ["en"]="Regal Earring", 
-            ["id"]=26085, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+            ["enl"]="bowman's mask", 
+            ["en"]="Bowman's Mask"
         }, 
-        [26191]={
-            ["Set Bonus"]="Increases Accuracy, Ranged Accuracy, and Magic Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="regal ring", 
-            ["en"]="Regal Ring", 
-            ["id"]=26191, 
-            ["bonus"]={
-                ["Magic Accuracy"]=15, 
-                ["Ranged Accuracy"]=15, 
-                ["Accuracy"]=15
-            }
+        ["set id"]=682, 
+        ["minimum peices"]=2, 
+        ["Set Bonus"]="Increases Ranged Attack", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }, 
     [918]={
         [16005]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="paramount earring", 
-            ["en"]="Paramount Earring", 
             ["id"]=16005, 
-            ["bonus"]=""
+            ["enl"]="paramount earring", 
+            ["en"]="Paramount Earring"
         }, 
         [17756]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="sinfender", 
-            ["en"]="Sinfender", 
             ["id"]=17756, 
-            ["bonus"]=""
+            ["enl"]="sinfender", 
+            ["en"]="Sinfender"
         }, 
         [17962]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="fleetwing", 
-            ["en"]="Fleetwing", 
             ["id"]=17962, 
-            ["bonus"]=""
+            ["enl"]="fleetwing", 
+            ["en"]="Fleetwing"
         }, 
         [18596]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="kebbie", 
-            ["en"]="Kebbie", 
             ["id"]=18596, 
-            ["bonus"]=""
+            ["enl"]="kebbie", 
+            ["en"]="Kebbie"
         }, 
         [18760]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="useshi", 
-            ["en"]="Useshi", 
             ["id"]=18760, 
-            ["bonus"]=""
+            ["enl"]="useshi", 
+            ["en"]="Useshi"
         }, 
         [19112]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="farseer", 
-            ["en"]="Farseer", 
             ["id"]=19112, 
-            ["bonus"]=""
+            ["enl"]="farseer", 
+            ["en"]="Farseer"
         }, 
         [19156]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="balisarde", 
-            ["en"]="Balisarde", 
             ["id"]=19156, 
-            ["bonus"]=""
+            ["enl"]="balisarde", 
+            ["en"]="Balisarde"
         }, 
         [19215]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="amanokakoyumi", 
-            ["en"]="Amanokakoyumi", 
             ["id"]=19215, 
-            ["bonus"]=""
+            ["enl"]="amanokakoyumi", 
+            ["en"]="Amanokakoyumi"
         }, 
         [19271]={
-            ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
-            ["minimum peices"]=2, 
-            ["enl"]="osoraku", 
-            ["en"]="Osoraku", 
             ["id"]=19271, 
-            ["bonus"]=""
+            ["enl"]="osoraku", 
+            ["en"]="Osoraku"
+        }, 
+        ["minimum peices"]=2, 
+        ["set id"]=918, 
+        ["Set Bonus"]="Increases HP, VIT, Accuracy, Ranged Accuracy", 
+        ["bonus"]={
+            [1]={}, 
+            [2]={}, 
+            [3]={}, 
+            [4]={}, 
+            [5]={}
         }
     }
 }
